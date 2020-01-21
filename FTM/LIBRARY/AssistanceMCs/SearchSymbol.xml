@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/SearchSymbol" itemID="54d3b7c2-00000639" lastModified="1424967751">
+  <timeline>
+    <DOMTimeline name="SearchSymbol">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" weight="4">
+                            <fill>
+                              <SolidColor color="#CDCDCD"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!400 400|249 250!249 250[207 292 146 292!146 292[85 292 42 249!42 249[0 207 0 146!0 146[0 85 42 43!42 43[85 0 146 0!146 0[207 0 249 43!249 43[292 85 292 146!292 146[292 207 249 250"/>
+                        <Edge cubics="!249 250(;249,250 400,400 400,400q249 250 400 400);"/>
+                        <Edge cubics="!249 43(;278,71 292,106 292,146q249 43Q292 85q292 146);"/>
+                        <Edge cubics="!42 43(;71,14 105,0 146,0q42 43Q85 0q146 0);"/>
+                        <Edge cubics="!42 249(42,249;14,221 0,186 0,146q42 249Q0 207q0 146);"/>
+                        <Edge cubics="!146 292(;105,292 71,278 42,249q146 292Q85 292q42 249);"/>
+                        <Edge cubics="!0 146(;0,106 14,71 42,43q0 146Q0 85q42 43);"/>
+                        <Edge cubics="!146 0(;186,0 221,14 249,43q146 0Q207 0q249 43);"/>
+                        <Edge cubics="!249 250(249,250;221,278 186,292 146,292q249 250Q207 292q146 292);"/>
+                        <Edge cubics="!292 146(;292,187 278,221 249,250q292 146Q292 207q249 250);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

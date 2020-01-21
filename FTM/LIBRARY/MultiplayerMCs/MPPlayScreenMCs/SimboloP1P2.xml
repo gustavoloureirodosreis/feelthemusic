@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MultiplayerMCs/MPPlayScreenMCs/SimboloP1P2" itemID="541c5e41-000005a5" lastModified="1426542436">
+  <timeline>
+    <DOMTimeline name="SimboloP1P2" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMBitmapInstance libraryItemName="_Imagens/Player1_icon.jpg">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19" y="22"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_Imagens/Player2_icon.jpg">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21" y="22"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

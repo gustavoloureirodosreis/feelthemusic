@@ -1,0 +1,141 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="CreateLoginScreenMCs/CreateLoginScreen" itemID="535030ed-000002d9" linkageExportForAS="true" linkageClassName="CreateLoginScreen" lastModified="1432931466" lastUniqueIdentifier="15">
+  <timeline>
+    <DOMTimeline name="CreateLoginScreen">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/NoBtn" name="opcaoNao" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.00399780273438" tx="257.5" ty="511.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.45" y="28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/YesBtn" name="opcaoSim" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.00399780273438" tx="552.1" ty="511.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.45" y="28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="CreateLoginScreenMCs/Vantagem3" name="vantagem3" centerPoint3DX="432.1" centerPoint3DY="366.75">
+                  <matrix>
+                    <Matrix a="1.02386474609375" tx="130" ty="340"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="295.05" y="26.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="cadastroMsg" fontRenderingMode="standard" width="633.75" height="60.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="218" ty="57"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ei, faça seu cadastro!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" letterSpacing="1" size="40" bitmapSize="800" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#0099FF" strength="1.33"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Cadastro_stroke" centerPoint3DX="230.55" centerPoint3DY="79.65">
+                  <matrix>
+                    <Matrix tx="191.05" ty="43.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.75" y="34.65"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#0099FF" strength="1.33"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="cadastroPreTxt" fontRenderingMode="standard" left="-259.9" width="931.7" height="38.1" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00286865234375" tx="275.25" ty="150"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>É simples, rápido e com ele você poderá:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" letterSpacing="1" size="30" bitmapSize="600" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="vantagem1" fontRenderingMode="standard" left="-449.55" width="841.55" height="38.1" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00286865234375" tx="497.8" ty="204.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>- Salvar seus níves, músicas, e aprendizado.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" letterSpacing="1" size="30" bitmapSize="600" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="vantagem2" fontRenderingMode="standard" width="752.8" height="78.2" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="102" ty="249.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>- Ter acesso ao Mundo Virtual Backpacker e &#xD;ferramentas exclusivas.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" letterSpacing="1" size="30" bitmapSize="600" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="cadastroTxt" fontRenderingMode="standard" left="-236.75" width="617.5" height="50.85" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="400.35" ty="409.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Deseja fazer o cadastro agora?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" letterSpacing="1" size="40" bitmapSize="800" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="965" objectHeight="600" x="1.4" y="0" selected="true" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-3.9"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="1.4971923828125" d="1.12767028808594" tx="5.4" ty="2"/>
+                      </matrix>
+                      <GradientEntry color="#3D0064" alpha="0.8" ratio="0"/>
+                      <GradientEntry color="#00183F" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Preloader/movPreloaderBarOutline" itemID="4b32891a-000039fc" sourceFlashFilepath="../../../../Downloads/action-script-3-preloader-cs4/action-script-3-preloader.fla" sourceLibraryItemHRef="movPreloaderBarOutline" sourceLastModified="1261603098" lastModified="1261603098" sourceItemID="4b310e36-000013cb">
+  <timeline>
+    <DOMTimeline name="movPreloaderBarOutline">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!8000 240|0 240!0 240|0 0!0 0|8000 0!8000 0|8000 240"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

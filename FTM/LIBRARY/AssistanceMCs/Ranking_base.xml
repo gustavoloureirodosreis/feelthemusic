@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Ranking_base" itemID="5477a7de-00000c4e" lastModified="1426618930" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="Ranking_base">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" selected="true" centerPoint3DX="26.1" centerPoint3DY="23.6">
+                  <matrix>
+                    <Matrix a="1.48126220703125" d="1.4588623046875" tx="-0.05" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.7" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,130 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/_BonecosMCs/_boneca/frente/pescoco" itemID="5476a65e-000025d2" lastModified="1426616409">
+  <timeline>
+    <DOMTimeline name="pescoco">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="30.25" y="31.6"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-86.05" ty="-137.65"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!2318 2765[2752 2839 2741 3298!2741 3298[2735 3541 2780 3738!2780 3738[2831 3965 2931 4017!2931 4017[2934 4019 2443 3998!2443 3998[1888 3974 1741 3971!1741 3971[1849 3888 1871 3615!1871 3615[1878 3530 1875 3435!1875 3435|1858 3191!1858
+ 3191[1844 3096 1836 2999!1836 2999[1820 2804 1848 2793!1848 2793[1893 2776 2009 2762!2009 2762[2178 2742 2318 2765"/>
+                        <Edge cubics="!2741 3298(;2734,3587 2788,3943 2931,4017q2741 3298Q2735 3541q2780 3738Q2831 3965q2931 4017);"/>
+                        <Edge cubics="!2931 4017(;2937,4022 2020,3977 1741,3971q2931 4017Q2934 4019q2443 3998Q1888 3974q1741 3971);"/>
+                        <Edge cubics="!1858 3191(;1858,3191 1803,2811 1848,2793q1858 3191Q1844 3096q1836 2999Q1820 2804q1848 2793);"/>
+                        <Edge cubics="!1848 2793(;1893,2776 2758,2568 2741,3298q1848 2793Q1893 2776q2009 2762Q2178 2742q2318 2765Q2752 2839q2741 3298);"/>
+                        <Edge cubics="!1875 3435(;1875,3435 1858,3191 1858,3191q1875 3435 1858 3191);"/>
+                        <Edge cubics="!1871 3615(;1876,3558 1877,3498 1875,3435q1871 3615Q1878 3530q1875 3435);"/>
+                        <Edge cubics="!1741 3971(;1813,3916 1856,3797 1871,3615q1741 3971Q1849 3888q1871 3615);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-86.05" ty="-137.65"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter" miterLimit="10">
+                            <fill>
+                              <SolidColor color="#A87054"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!1721 4011[1829 3928 1861 3635!1861 3635[1871 3544 1872 3441!1872 3441|1858 3191!1858 3191[1844 3096 1836 2999!1836 2999[1820 2804 1848 2793!1848 2793[1893 2776 2009 2762!2009 2762[2178 2742 2318 2765!2318 2765[2752 2839 2741 3298!2741
+ 3298[2735 3541 2780 3738!2780 3738[2831 3965 2931 4017"/>
+                        <Edge cubics="!1858 3191(;1858,3191 1803,2811 1848,2793q1858 3191Q1844 3096q1836 2999Q1820 2804q1848 2793);"/>
+                        <Edge cubics="!1848 2793(;1893,2776 2758,2568 2741,3298q1848 2793Q1893 2776q2009 2762Q2178 2742q2318 2765Q2752 2839q2741 3298);"/>
+                        <Edge cubics="!2741 3298(;2734,3587 2788,3943 2931,4017q2741 3298Q2735 3541q2780 3738Q2831 3965q2931 4017);"/>
+                        <Edge cubics="!1872 3441(;1872,3441 1858,3191 1858,3191q1872 3441 1858 3191);"/>
+                        <Edge cubics="!1861 3635(;1868,3574 1871,3510 1872,3441q1861 3635Q1871 3544q1872 3441);"/>
+                        <Edge cubics="!1721 4011(;1793,3956 1840,3830 1861,3635q1721 4011Q1829 3928q1861 3635);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="30.25" y="31.6"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-86.05" ty="-137.65"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FDC39C"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!2318 2765[2752 2839 2741 3298!2741 3298[2735 3541 2780 3738!2780 3738[2831 3965 2931 4017!2931 4017[2934 4019 2443 3998!2443 3998[1888 3974 1741 3971!1741 3971[1849 3888 1871 3615!1871 3615[1878 3530 1875 3435!1875 3435|1858 3191!1858
+ 3191[1844 3096 1836 2999!1836 2999[1820 2804 1848 2793!1848 2793[1893 2776 2009 2762!2009 2762[2178 2742 2318 2765"/>
+                        <Edge cubics="!2741 3298(;2734,3587 2788,3943 2931,4017q2741 3298Q2735 3541q2780 3738Q2831 3965q2931 4017);"/>
+                        <Edge cubics="!2931 4017(;2937,4022 2020,3977 1741,3971q2931 4017Q2934 4019q2443 3998Q1888 3974q1741 3971);"/>
+                        <Edge cubics="!1858 3191(;1858,3191 1803,2811 1848,2793q1858 3191Q1844 3096q1836 2999Q1820 2804q1848 2793);"/>
+                        <Edge cubics="!1848 2793(;1893,2776 2758,2568 2741,3298q1848 2793Q1893 2776q2009 2762Q2178 2742q2318 2765Q2752 2839q2741 3298);"/>
+                        <Edge cubics="!1875 3435(;1875,3435 1858,3191 1858,3191q1875 3435 1858 3191);"/>
+                        <Edge cubics="!1871 3615(;1876,3558 1877,3498 1875,3435q1871 3615Q1878 3530q1875 3435);"/>
+                        <Edge cubics="!1741 3971(;1813,3916 1856,3797 1871,3615q1741 3971Q1849 3888q1871 3615);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-86.05" ty="-137.65"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter" miterLimit="10">
+                            <fill>
+                              <SolidColor color="#A87054"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!1721 4011[1829 3928 1861 3635!1861 3635[1871 3544 1872 3441!1872 3441|1858 3191!1858 3191[1844 3096 1836 2999!1836 2999[1820 2804 1848 2793!1848 2793[1893 2776 2009 2762!2009 2762[2178 2742 2318 2765!2318 2765[2752 2839 2741 3298!2741
+ 3298[2735 3541 2780 3738!2780 3738[2831 3965 2931 4017"/>
+                        <Edge cubics="!1858 3191(;1858,3191 1803,2811 1848,2793q1858 3191Q1844 3096q1836 2999Q1820 2804q1848 2793);"/>
+                        <Edge cubics="!1848 2793(;1893,2776 2758,2568 2741,3298q1848 2793Q1893 2776q2009 2762Q2178 2742q2318 2765Q2752 2839q2741 3298);"/>
+                        <Edge cubics="!2741 3298(;2734,3587 2788,3943 2931,4017q2741 3298Q2735 3541q2780 3738Q2831 3965q2931 4017);"/>
+                        <Edge cubics="!1872 3441(;1872,3441 1858,3191 1858,3191q1872 3441 1858 3191);"/>
+                        <Edge cubics="!1861 3635(;1868,3574 1871,3510 1872,3441q1861 3635Q1871 3544q1872 3441);"/>
+                        <Edge cubics="!1721 4011(;1793,3956 1840,3830 1861,3635q1721 4011Q1829 3928q1861 3635);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

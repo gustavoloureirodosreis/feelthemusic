@@ -1,0 +1,411 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="EndScreenMCs/EndingLabel" itemID="53d2a789-000005bd" lastModified="1426470128" lastUniqueIdentifier="13">
+  <timeline>
+    <DOMTimeline name="EndingLabel" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMDynamicText name="texto" width="405.4" height="100" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="660.1" ty="34"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.4" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="100" bitmapSize="2000" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#0099FF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText width="378.8" height="120" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="451.25" ty="26.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="263.2" y="106.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Perfect</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="120" bitmapSize="2400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#0099FF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast1" width="280.95" height="138.85" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="251.25" ty="26.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0" size="120" bitmapSize="2400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast2" width="198" height="69.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="-48.75" ty="51.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="60" bitmapSize="1200" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast3" width="198" height="46.3" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="-498.75" ty="56.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="40" bitmapSize="800" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="texto" width="405.4" height="100" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="660.1" ty="34"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.4" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="100" bitmapSize="2000" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#00CC00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText width="378.8" height="120" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="451.25" ty="26.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="263.2" y="106.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Good</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="120" bitmapSize="2400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#00CC00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast3" width="198" height="46.3" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="-498.75" ty="56.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="40" bitmapSize="800" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast1" width="280.95" height="138.85" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="251.25" ty="26.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0" size="120" bitmapSize="2400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast2" width="198" height="69.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="-48.75" ty="51.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="60" bitmapSize="1200" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="texto" width="405.4" height="100" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="660.1" ty="34"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.4" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="100" bitmapSize="2000" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#FFFF66" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText width="378.8" height="120" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="451.25" ty="26.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="263.2" y="106.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Bad</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="120" bitmapSize="2400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#FFFF66" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast3" width="198" height="46.3" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="-498.75" ty="56.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="40" bitmapSize="800" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast1" width="280.95" height="138.85" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="251.25" ty="26.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0" size="120" bitmapSize="2400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast2" width="198" height="69.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="-48.75" ty="51.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="60" bitmapSize="1200" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="texto" width="405.4" height="100" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="660.1" ty="34"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.4" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="100" bitmapSize="2000" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText width="378.8" height="120" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="451.25" ty="26.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="263.2" y="106.95"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Miss</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="120" bitmapSize="2400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast3" width="198" height="46.3" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="-498.75" ty="56.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="40" bitmapSize="800" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast1" width="280.95" height="138.85" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="251.25" ty="26.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0" size="120" bitmapSize="2400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="textoPast2" width="198" height="69.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="-48.75" ty="51.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16" y="52.3"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="60" bitmapSize="1200" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0099FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

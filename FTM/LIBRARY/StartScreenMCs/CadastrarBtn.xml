@@ -1,0 +1,132 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="StartScreenMCs/CadastrarBtn" itemID="53ebafe0-000004b5" symbolType="button" lastModified="1426546174" lastUniqueIdentifier="19">
+  <timeline>
+    <DOMTimeline name="CadastrarBtn" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="82.5" centerPoint3DY="25.3">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="137.4" height="23.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="12" ty="12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sign Up</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="25" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="1" blurY="1" distance="2"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="82.5" centerPoint3DY="25.3">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="82.5" centerPoint3DY="25.3">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="137.4" height="23.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="12" ty="12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sign Up</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="1" blurY="1" distance="2"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="82.5" centerPoint3DY="25.3">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="3"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="82.5" centerPoint3DY="25.3">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText width="137.4" height="23.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="12" ty="12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Sign Up</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="1" blurY="1" distance="2"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="82.5" centerPoint3DY="25.3">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

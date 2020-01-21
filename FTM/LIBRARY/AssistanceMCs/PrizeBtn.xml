@@ -1,0 +1,262 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/PrizeBtn" itemID="559d87d7-00000404" lastModified="1436476687" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="PrizeBtn">
+      <layers>
+        <DOMLayer name="texto" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="price" width="70.4" height="36.45" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="62.55" ty="8.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>500</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#000000" strength="1.59"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="coins" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="7.7" ty="10.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="21.65" ty="8.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="36" ty="17.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="21.65" ty="20.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="12" ty="26"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="40.85" ty="27.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="31.7" ty="27.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="45.65" ty="17.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="36" ty="6.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="7.7" ty="10.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="16.85" ty="6.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.479995727539063" d="0.479995727539063" tx="31.7" ty="15.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="75.2" centerPoint3DY="24.2">
+                  <matrix>
+                    <Matrix a="0.473388671875" d="0.478851318359375" tx="1.35" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="50.35"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFF00" quality="3" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" centerPoint3DX="80.35" centerPoint3DY="23.65">
+                  <matrix>
+                    <Matrix a="0.439300537109375" d="0.4464111328125" tx="68.8" ty="25.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="-0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="75.2" centerPoint3DY="24.2">
+                  <matrix>
+                    <Matrix a="0.473388671875" d="0.478851318359375" tx="1.35" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="50.35"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFF00" quality="3" strength="2"/>
+                  </filters>
+                  <color>
+                    <Color brightness="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" centerPoint3DX="80.35" centerPoint3DY="23.65">
+                  <matrix>
+                    <Matrix a="0.439300537109375" d="0.4464111328125" tx="68.8" ty="25.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="-0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="75.2" centerPoint3DY="24.2">
+                  <matrix>
+                    <Matrix a="0.473388671875" d="0.478851318359375" tx="1.35" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="50.35"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFF00" quality="3" strength="2"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.23"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" centerPoint3DX="80.35" centerPoint3DY="23.65">
+                  <matrix>
+                    <Matrix a="0.439300537109375" d="0.4464111328125" tx="68.8" ty="25.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="-0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="75.2" centerPoint3DY="24.2">
+                  <matrix>
+                    <Matrix a="0.473388671875" d="0.478851318359375" tx="1.35" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="50.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.23"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" centerPoint3DX="80.35" centerPoint3DY="23.65">
+                  <matrix>
+                    <Matrix a="0.439300537109375" d="0.4464111328125" tx="68.8" ty="25.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="-0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

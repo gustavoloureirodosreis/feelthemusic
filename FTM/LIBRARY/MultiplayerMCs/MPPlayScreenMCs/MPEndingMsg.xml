@@ -1,0 +1,111 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MultiplayerMCs/MPPlayScreenMCs/MPEndingMsg" itemID="53d00b2a-000006d7" lastModified="1429221039" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="MPEndingMsg">
+      <layers>
+        <DOMLayer name="content" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMDynamicText name="mpEndingTxt" fontRenderingMode="device" width="574.65" height="205.2" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-43.2" ty="27"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Derrotei o oponente!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.901960784313726" size="80" bitmapSize="1600" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter alpha="0.498039215686275" blurX="3" blurY="3" color="#FFFF00" quality="3" strength="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="coinsTxt" selected="true" fontRenderingMode="device" width="351.5" height="76.2" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="204.95" ty="292"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" alpha="0.901960784313726" size="60" bitmapSize="1200" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFF00" quality="3" strength="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="40" ty="295.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.5" y="27"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="99.8" ty="311.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.5" y="27"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="88.25" ty="265"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="37.5" y="27"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="720.05" objectHeight="450" x="131.95" y="751.7" lockFlag="true" topLeftRadius="44.2" topRightRadius="44.2" bottomLeftRadius="44.2" bottomRightRadius="44.2">
+                  <matrix>
+                    <Matrix tx="-267.15" ty="-751.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.53338623046875" d="0.3851318359375" tx="257" ty="1057.75"/>
+                      </matrix>
+                      <GradientEntry color="#0B002E" ratio="0"/>
+                      <GradientEntry color="#22004F" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="5">
+                      <fill>
+                        <RadialGradient>
+                          <matrix>
+                            <Matrix a="0.3851318359375" d="0.3851318359375" tx="393.85" ty="956.65"/>
+                          </matrix>
+                          <GradientEntry color="#1500E9" ratio="0"/>
+                          <GradientEntry color="#43E9DE" ratio="0.525490196078431"/>
+                          <GradientEntry color="#871CC6" ratio="1"/>
+                        </RadialGradient>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

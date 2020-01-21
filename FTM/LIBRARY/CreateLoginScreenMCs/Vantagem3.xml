@@ -1,0 +1,98 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="CreateLoginScreenMCs/Vantagem3" itemID="53e64fda-0000032b" lastModified="1427310191">
+  <timeline>
+    <DOMTimeline name="Vantagem3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="1.01351928710938" tx="343.65" ty="19.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="vantagem3" fontRenderingMode="standard" left="-155" width="436.5" height="45.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00619506835938" tx="102.95" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>- Ganhar um bônus de </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" letterSpacing="1" size="30" bitmapSize="600" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="1.01351928710938" tx="373.15" ty="14.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix a="1.00619506835938" tx="553.25" ty="25.45"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix a="1.00619506835938" tx="577.8" ty="21.65"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix a="1.00619506835938" tx="565.85" ty="7.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMStaticText fontRenderingMode="standard" left="32.25" width="79.5" height="48.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00619506835938" tx="589"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>500</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" letterSpacing="1" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="1.01351928710938" tx="363.8" ty="7.15"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMStaticText fontRenderingMode="standard" left="19" width="106" height="48.6" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.01351928710938" tx="399.1" ty="-2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" letterSpacing="1" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMDynamicText fontRenderingMode="standard" width="46.05" height="50.85" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="526.05" ty="-3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+ </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" letterSpacing="1" size="40" bitmapSize="800" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

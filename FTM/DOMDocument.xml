@@ -1,0 +1,765 @@
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" backgroundColor="#CCCCCC" width="960" height="600" frameRate="30" currentTimeline="1" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" guidesVisible="false" objectsSnapTo="false" timelineLabelWidth="298" viewAngle3D="84.5182" vanishingPoint3DX="0" vanishingPoint3DY="0" nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+     <folders>
+          <DOMFolderItem name="_Fontes" itemID="530e2ea7-0000044c"/>
+          <DOMFolderItem name="_Imagens" itemID="530e2ea3-00000447"/>
+          <DOMFolderItem name="_SimpleLoadingGIF" itemID="5492e046-00000356"/>
+          <DOMFolderItem name="_Sounds" itemID="533586f1-000002b2"/>
+          <DOMFolderItem name="_Tweens" itemID="543ffc3c-0000042b"/>
+          <DOMFolderItem name="AssistanceMCs" itemID="530e2e4e-0000043d" isExpanded="true"/>
+          <DOMFolderItem name="AssistanceMCs/_BonecosMCs" itemID="537f74f4-000002f2"/>
+          <DOMFolderItem name="AssistanceMCs/_BonecosMCs/_boneca" itemID="55086a9a-000004bf"/>
+          <DOMFolderItem name="AssistanceMCs/_BonecosMCs/_boneca/frente" itemID="53f236ed-000009c2" isExpanded="true"/>
+          <DOMFolderItem name="AssistanceMCs/_BonecosMCs/_boneca/frente/Mãos Frente" itemID="5476f475-00001433"/>
+          <DOMFolderItem name="AssistanceMCs/_BonecosMCs/_boneco" itemID="55086a9c-000004c0"/>
+          <DOMFolderItem name="AssistanceMCs/_BonecosMCs/_boneco/frente" itemID="53f236ed-000009c4" isExpanded="true"/>
+          <DOMFolderItem name="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente" itemID="546e98cd-00000937"/>
+          <DOMFolderItem name="AssistanceMCs/3QuestsLabelMcs" itemID="54c19a74-0000032c"/>
+          <DOMFolderItem name="CreateLoginScreenMCs" itemID="53503113-000002dd"/>
+          <DOMFolderItem name="EndScreenMCs" itemID="530e2e6a-00000441"/>
+          <DOMFolderItem name="FacebookMCs" itemID="54f5fd09-00000583"/>
+          <DOMFolderItem name="GameModeScreenMCs" itemID="53d11366-0000032c"/>
+          <DOMFolderItem name="LoadingScreenMCs" itemID="5386193e-000008ae"/>
+          <DOMFolderItem name="MenuEstilosMCs" itemID="530dfd70-0000024d"/>
+          <DOMFolderItem name="MenuEstilosMCs/_neonSorters" itemID="5491a7ad-000006da"/>
+          <DOMFolderItem name="MenuMusicasMCs" itemID="530e2c3a-00000418"/>
+          <DOMFolderItem name="MultiplayerMCs" itemID="53adcc70-000005aa"/>
+          <DOMFolderItem name="MultiplayerMCs/ChooseBetStyleMCs" itemID="53cd7b0c-00000307"/>
+          <DOMFolderItem name="MultiplayerMCs/MenuMPmusicScreenMCs" itemID="53badcc0-00000545" isExpanded="true"/>
+          <DOMFolderItem name="MultiplayerMCs/MPPlayScreenMCs" itemID="53bc25b1-000002fc"/>
+          <DOMFolderItem name="PlayScreenMCs" itemID="530e2cee-0000041d"/>
+          <DOMFolderItem name="PlayScreenMCs/_PlayScreenAssistanceMCs" itemID="5373d132-00000370"/>
+          <DOMFolderItem name="Preloader" itemID="54ecd418-00000917"/>
+          <DOMFolderItem name="SongMasterMCs" itemID="559c2751-0000066b"/>
+          <DOMFolderItem name="StartScreenMCs" itemID="530e2e8b-00000445"/>
+          <DOMFolderItem name="TutorialScreenMCs" itemID="5345af3c-000003d1"/>
+          <DOMFolderItem name="TutorialScreenMCs/TutorialAssistanceMCs" itemID="5389fd31-00000442"/>
+     </folders>
+     <fonts>
+          <DOMFontItem name="_Fontes/Font 14" itemID="55130434-00000365" font="MicrosoftYaHeiUI" size="0" id="99" sourceLastImported="1427309620" embedRanges="1|2|3|4|5|18|19|20"/>
+          <DOMFontItem name="_Fontes/Font 8" itemID="5310df54-00000531" font="Verdana-Bold" size="0" id="74" sourceLastImported="1393614676" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 2" itemID="5259ccee-000001e6" font="Verdana-Italic" size="0" id="75" sourceLastImported="1381616878" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 1" itemID="5259cc69-000001e4" font="Verdana" size="0" id="76" sourceLastImported="1381616745" embedRanges="9999|1|2|3|4|5|6|7|8|9|10|11|12|13|14|15|16|17|18|19|20|21|22|23|24|25|26"/>
+          <DOMFontItem name="_Fontes/Font 5" itemID="52fbb217-00000232" font="BlackadderITC-Regular" size="0" id="77" sourceLastImported="1392226839" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 3" itemID="52fbb24a-00000235" font="CopperplateGothic-Bold" size="0" id="78" sourceLastImported="1392226890" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 4" itemID="52fbb28e-00000237" font="TwCenMT-Bold" size="0" id="79" sourceLastImported="1392226958" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 6" itemID="52fbb2aa-00000239" font="ScriptMTStd-Bold" size="0" id="80" sourceLastImported="1392226986" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 7" itemID="52fbb2bd-0000023b" font="VinerHandITC" size="0" id="81" sourceLastImported="1392227005" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 10" itemID="53502e21-000002d6" font="LetsgoDigital-Regular" size="0" id="82" sourceLastImported="1397763617" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 11" itemID="53766162-00000496" font="ArialRoundedMTBold" size="0" id="83" sourceLastImported="1400267106" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 9" itemID="5335b4cb-00000301" font="PassionOne-Bold" size="0" id="85" sourceLastImported="1396028619" embedRanges="9999"/>
+          <DOMFontItem name="_Fontes/Font 12" itemID="54863663-000036d0" font="Sparkler-Demo" size="0" id="86" sourceLastImported="1418081891" embedRanges="9999"/>
+     </fonts>
+     <media>
+          <DOMSoundItem name="_Sounds/Alt_CorrectSE" itemID="5522c6d2-000004ae" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/CorrectSE.mp3" sourceLastImported="1428342482" href="_Sounds/Alt_CorrectSE.mp3" soundDataHRef="M 93 1407961812.dat" format="44kHz 16bit Stereo" sampleCount="55029"/>
+          <DOMBitmapItem name="_Imagens/Background_Aline1.png" itemID="551f1b5a-00001506" sourceExternalFilepath="C:/Users/JoãoLucas/Dropbox/backpacker - SJC/João Lucas (Gal)/FeelTheMusic/FTM (1)/FTM_gal_2.4.15/LIBRARY/_Imagens/Background_Aline1.png" sourceLastImported="1428098862" externalFileSize="625340" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/Background_Aline1.png" bitmapDataHRef="M 75 1428098922.dat" frameRight="19200" frameBottom="12000"/>
+          <DOMBitmapItem name="_Imagens/BackgroundAlternativo" itemID="54bd1fd0-00000324" sourceExternalFilepath="Gustavo/Documents/Backpacker/ftm/FTM/LIBRARY/_Imagens/BackgroundAlternativo.JPG" sourceLastImported="1421680462" externalFileCRC32="2107337262" externalFileSize="40796" allowSmoothing="true" quality="50" href="_Imagens/BackgroundAlternativo.JPG" bitmapDataHRef="M 95 1407259823.dat" frameRight="19220" frameBottom="12020" isJPEG="true"/>
+          <DOMBitmapItem name="_Imagens/BackgroundTutorial" itemID="55084795-00000352" sourceLastImported="1426605973" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/BackgroundTutorial" bitmapDataHRef="M 66 1426605929.dat" frameTop="-658" frameRight="1051"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 84" itemID="5492dfa8-0000033e" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 84" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 84" bitmapDataHRef="M 84 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 85" itemID="5492dfa8-00000340" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 85" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 85" bitmapDataHRef="M 85 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 86" itemID="5492dfa8-00000342" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 86" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 86" bitmapDataHRef="M 86 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 87" itemID="5492dfa8-00000344" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 87" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 87" bitmapDataHRef="M 87 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 88" itemID="5492dfa8-00000346" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 88" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 88" bitmapDataHRef="M 88 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 89" itemID="5492dfa8-00000348" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 89" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 89" bitmapDataHRef="M 89 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 90" itemID="5492dfa8-0000034a" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 90" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 90" bitmapDataHRef="M 90 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 91" itemID="5492dfa8-0000034c" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 91" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 91" bitmapDataHRef="M 91 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 92" itemID="5492dfa8-0000034e" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 92" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 92" bitmapDataHRef="M 92 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 93" itemID="5492dfa8-00000350" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 93" sourceLastImported="1418911656" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 93" bitmapDataHRef="M 93 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/Bitmap 94" itemID="54bd1fd0-00000326" sourceExternalFilepath="Gustavo/Documents/Backpacker/ftm/FTM/LIBRARY/_SimpleLoadingGIF/Bitmap 94" sourceLastImported="1421680462" externalFileCRC32="1154712605" externalFileSize="210823" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/Bitmap 94" bitmapDataHRef="M 94 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMSoundItem name="_Sounds/BringStuffSFX" itemID="53d6b7f2-00000311" linkageExportForAS="true" linkageClassName="BringStuffSFX" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/BringStuffSFX.wav" sourceLastImported="1406580722" href="_Sounds/BringStuffSFX.wav" soundDataHRef="M 83 1406580713.dat" format="44kHz 16bit Stereo" sampleCount="38912"/>
+          <DOMBitmapItem name="_Imagens/btnAzulClaro" itemID="54bd1fd1-0000032a" sourceExternalFilepath="Gustavo/Documents/Backpacker/ftm/FTM/LIBRARY/_Imagens/btnAzulClaro.png" sourceLastImported="1421680462" externalFileCRC32="3799267105" externalFileSize="3662" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/btnAzulClaro.png" bitmapDataHRef="M 93 1407536885.dat" frameRight="3560" frameBottom="1540"/>
+          <DOMSoundItem name="_Sounds/BtnPressedSFX" itemID="53d180c5-000007f0" linkageExportForAS="true" linkageClassName="BtnPressedSFX" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/BtnPressedSFX.mp3" sourceLastImported="1406238917" href="_Sounds/BtnPressedSFX.mp3" soundDataHRef="M 84 1406238910.dat" format="44kHz 16bit Stereo" sampleCount="5760"/>
+          <DOMBitmapItem name="_Imagens/cadeira_frente" itemID="53f23768-00000ec9" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/cadeira_frente.png" sourceLastImported="1408382824" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/cadeira_frente.png" bitmapDataHRef="M 71 1400604822.dat" frameRight="1740" frameBottom="2560"/>
+          <DOMSoundItem name="_Sounds/CashRegisterSFX" itemID="54bd1fd7-0000032b" linkageExportForAS="true" linkageClassName="CashRegisterSFX" sourceExternalFilepath="Gustavo/Documents/Backpacker/ftm/FTM/LIBRARY/_Sounds/CashRegisterSFX.mp3" sourceLastImported="1421680462" externalFileCRC32="2139293653" externalFileSize="56062" href="_Sounds/CashRegisterSFX.mp3" soundDataHRef="M 81 1406230598.dat" format="44kHz 16bit Stereo" sampleCount="154368" exportFormat="1" exportBits="7" dataLength="56006" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="19296"/>
+          <DOMBitmapItem name="_Imagens/china_Flag" itemID="553534eb-000004cc" sourceLastImported="1429550315" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/china_Flag" bitmapDataHRef="M 68 1427310651.dat" frameRight="9040" frameBottom="6040"/>
+          <DOMSoundItem name="_Sounds/CoinSE" itemID="5446c6a7-00000318" linkageExportForAS="true" linkageClassName="CoinSE" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/CoinSE.wav" sourceLastImported="1413924519" externalFileCRC32="2018132032" externalFileSize="59224" href="_Sounds/CoinSE.wav" soundDataHRef="M 83 1413924502.dat" format="44kHz 16bit Stereo" sampleCount="75797"/>
+          <DOMSoundItem name="_Sounds/CorrectSE" itemID="5522c715-000004b3" linkageExportForAS="true" linkageClassName="CorrectSE" sourceExternalFilepath="C:/Users/Gustavo/Documents/Backpacker/ftm/assets/images/Alt_CorrectSE.mp3" sourceLastImported="1428342549" href="_Sounds/CorrectSE.mp3" soundDataHRef="M 72 1428342540.dat" format="44kHz 16bit Stereo" sampleCount="67968" exportFormat="1" exportBits="7" dataLength="24660" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="8496"/>
+          <DOMBitmapItem name="_Imagens/disco" itemID="553534ef-000004cd" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/disco.png" sourceLastImported="1429550319" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/disco.png" bitmapDataHRef="M 3 1400024460.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="_Imagens/disco_dourado" itemID="553534f3-000004ce" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/disco_dourado.png" sourceLastImported="1429550323" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/disco_dourado.png" bitmapDataHRef="M 11 1399588184.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="_Imagens/disco_dourado_inclinado.png" itemID="554bb7cc-000006cd" sourceExternalFilepath="./LIBRARY/_Imagens/disco_dourado_inclinado" sourceLastImported="1431025606" externalFileSize="13787" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/disco_dourado_inclinado.png" bitmapDataHRef="M 69 1427989819.dat" frameRight="2260" frameBottom="2280"/>
+          <DOMSoundItem name="_Sounds/DrumRollSFX" itemID="53e6251e-0000031c" linkageExportForAS="true" linkageClassName="DrumRollSFX" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/DrumRollSFX.wav" sourceLastImported="1407591710" href="_Sounds/DrumRollSFX.wav" soundDataHRef="M 95 1407591702.dat" format="44kHz 16bit Stereo" sampleCount="264960"/>
+          <DOMSoundItem name="_Sounds/EndStuffSFX" itemID="53d2b70d-00000702" linkageExportForAS="true" linkageClassName="EndStuffSFX" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/EndStuffSFX.wav" sourceLastImported="1406318349" externalFileCRC32="3651651187" externalFileSize="299252" href="_Sounds/EndStuffSFX.wav" soundDataHRef="M 82 1406317669.dat" format="44kHz 16bit Stereo" sampleCount="74752"/>
+          <DOMSoundItem name="_Sounds/ExplosionSFX" itemID="53dbc36e-000004c8" linkageExportForAS="true" linkageClassName="ExplosionSFX" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/ExplosionSFX.wav" sourceLastImported="1406911342" href="_Sounds/ExplosionSFX.wav" soundDataHRef="M 91 1406911291.dat" format="44kHz 16bit Mono" sampleCount="84870"/>
+          <DOMBitmapItem name="_Imagens/facebook_user" itemID="55230b30-00000775" sourceExternalFilepath="C:/Users/Gustavo/Documents/Backpacker/ftm/FTM/LIBRARY/_Imagens/facebook_user.jpg" sourceLastImported="1428358507" externalFileSize="1030" allowSmoothing="true" quality="50" href="_Imagens/facebook_user.jpg" bitmapDataHRef="M 71 1428007898.dat" frameRight="1000" frameBottom="1000" isJPEG="true"/>
+          <DOMBitmapItem name="_Imagens/Feel-the-music" itemID="553534f8-000004cf" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/Feel-the-music.png" sourceLastImported="1429550328" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/Feel-the-music.png" bitmapDataHRef="M 84 1415729129.dat" frameRight="12840" frameBottom="3040"/>
+          <DOMSoundItem name="_Sounds/FillLevelSE" itemID="53ee509e-000005e8" linkageExportForAS="true" linkageClassName="FillLevelSE" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/FillLevelSE.wav" sourceLastImported="1408127134" externalFileCRC32="1197206602" externalFileSize="212012" href="_Sounds/FillLevelSE.wav" soundDataHRef="M 96 1408124531.dat" format="44kHz 16bit Stereo" sampleCount="52992"/>
+          <DOMSoundItem name="_Sounds/IceInGlassSFX" itemID="53dbc372-000004c9" linkageExportForAS="true" linkageClassName="IceInGlassSFX" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/IceInGlassSFX.wav" sourceLastImported="1406911346" href="_Sounds/IceInGlassSFX.wav" soundDataHRef="M 92 1406911302.dat" format="44kHz 16bit Stereo" sampleCount="33206"/>
+          <DOMBitmapItem name="_Imagens/icone_premium" itemID="553534fc-000004d0" sourceExternalFilepath="C:/Users/JoãoLucas/Dropbox/backpacker - SJC/João Lucas (Gal)/FeelTheMusic/FTM (1)/FTM_gal_2.4.15/LIBRARY/_Imagens/icone_premium.png" sourceLastImported="1429550332" externalFileSize="3296" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/icone_premium.png" bitmapDataHRef="M 70 1428006937.dat" frameRight="840" frameBottom="880"/>
+          <DOMBitmapItem name="_Imagens/lara1.png" itemID="537586a5-00000272" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/lara1.png" sourceLastImported="1400210534" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/lara1.png" bitmapDataHRef="M 54 1400264854.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="_Imagens/lara2.png" itemID="537586a4-00000259" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/lara2.png" sourceLastImported="1400210351" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/lara2.png" bitmapDataHRef="M 55 1400264854.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="_Imagens/lara3.png" itemID="537586a7-00000290" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/lara3.png" sourceLastImported="1400210268" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/lara3.png" bitmapDataHRef="M 56 1400264854.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMSoundItem name="_Sounds/LaserGunSE" itemID="53358719-000002b4" linkageExportForAS="true" linkageClassName="LaserGunSE" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/LaserGunSE.mp3" sourceLastImported="1396016921" href="_Sounds/LaserGunSE.mp3" soundDataHRef="M 14 1399588184.dat" format="44kHz 16bit Stereo" sampleCount="59904" exportFormat="1" exportBits="7" dataLength="21734" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="7488"/>
+          <DOMSoundItem name="_Sounds/LevelUpSE" itemID="53ee51fb-000005ed" linkageExportForAS="true" linkageClassName="LevelUpSE" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/LevelUpSE.wav" sourceLastImported="1408127483" href="_Sounds/LevelUpSE.wav" soundDataHRef="M 97 1408127476.dat" format="22kHz 16bit Mono" sampleCount="28672"/>
+          <DOMSoundItem name="_Sounds/MetalBamSE" itemID="5335871f-000002b5" linkageExportForAS="true" linkageClassName="MetalBamSE" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/MetalBamSE.mp3" sourceLastImported="1396016927" href="_Sounds/MetalBamSE.mp3" soundDataHRef="M 15 1399588184.dat" format="44kHz 16bit Stereo" sampleCount="41472" exportFormat="1" exportBits="7" dataLength="15046" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="5184"/>
+          <DOMBitmapItem name="_Imagens/MoreBase" itemID="54bd1fd7-0000032d" sourceExternalFilepath="Gustavo/Documents/Backpacker/ftm/FTM/LIBRARY/_Imagens/MoreBase.png" sourceLastImported="1421680463" externalFileCRC32="3542423310" externalFileSize="1106" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/MoreBase.png" bitmapDataHRef="M 85 1416599276.dat" frameRight="720" frameBottom="680"/>
+          <DOMBitmapItem name="_Imagens/MoreDown" itemID="546f978d-00000770" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/MoreDown" sourceLastImported="1416599437" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/MoreDown" bitmapDataHRef="M 86 1416599314.dat" frameRight="920" frameBottom="860"/>
+          <DOMBitmapItem name="_Imagens/MoreOver" itemID="546f977f-0000076e" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/MoreOver" sourceLastImported="1416599423" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/MoreOver" bitmapDataHRef="M 84 1416599253.dat" frameRight="980" frameBottom="940"/>
+          <DOMBitmapItem name="_Imagens/multi_coin50.png" itemID="54f0cac1-00000358" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/multi_coin50.png" sourceLastImported="1421680463" externalFileCRC32="1026731517" externalFileSize="5055" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/multi_coin50.png" bitmapDataHRef="M 91 1406757594.dat" frameRight="1000" frameBottom="720"/>
+          <DOMBitmapItem name="_Imagens/multi_coin75.png" itemID="54f87956-000003e7" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/multi_coin75.png" sourceLastImported="1421680463" externalFileCRC32="788828650" externalFileSize="8096" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/multi_coin75.png" bitmapDataHRef="M 92 1406757594.dat" frameRight="1500" frameBottom="1080"/>
+          <DOMBitmapItem name="_Imagens/multi_group.png" itemID="53dd55c5-00000316" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/multi_group.png" sourceLastImported="1407014278" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/multi_group.png" bitmapDataHRef="M 92 1407014341.dat" frameRight="800" frameBottom="660"/>
+          <DOMSoundItem name="_Sounds/PianoTumSFX" itemID="53e3d025-00000641" linkageExportForAS="true" linkageClassName="PianoTumSFX" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/PianoTumSFX.wav" sourceLastImported="1407438885" href="_Sounds/PianoTumSFX.wav" soundDataHRef="M 95 1407438871.dat" format="44kHz 16bit Stereo" sampleCount="28672"/>
+          <DOMBitmapItem name="_Imagens/Player1_icon.jpg" itemID="55074f43-00000383" sourceExternalFilepath="../FTM/LIBRARY/Player1_icon.jpg" sourceLastImported="1426529486" externalFileSize="1669" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/Player1_icon.jpg" bitmapDataHRef="M 66 1426542380.dat" frameRight="760" frameBottom="880"/>
+          <DOMBitmapItem name="_Imagens/Player2_icon.jpg" itemID="55074f8f-00000388" sourceExternalFilepath="../FTM/LIBRARY/_Imagens/Player2_icon.jpg" sourceLastImported="1426529851" externalFileSize="1264" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/Player2_icon.jpg" bitmapDataHRef="M 67 1426542420.dat" frameRight="840" frameBottom="880"/>
+          <DOMBitmapItem name="_Imagens/ProfilePicAnonymous" itemID="541c5de0-000005a4" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/ProfilePicAnonymous" sourceLastImported="1411145184" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/ProfilePicAnonymous" bitmapDataHRef="M 80 1411145176.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
+          <DOMBitmapItem name="_SimpleLoadingGIF/simple_load.GIF" itemID="5492dfa8-0000033c" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_SimpleLoadingGIF/simple_load.GIF" sourceLastImported="1418844535" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_SimpleLoadingGIF/simple_load.GIF" bitmapDataHRef="M 83 1418911656.dat" frameRight="5120" frameBottom="5120"/>
+          <DOMBitmapItem name="_Imagens/single_goldcoin25.png" itemID="54e75a48-000004c1" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/single_goldcoin25.png" sourceLastImported="1421680463" externalFileCRC32="735971138" externalFileSize="2293" allowSmoothing="true" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="_Imagens/single_goldcoin25.png" bitmapDataHRef="M 86 1406832766.dat" frameRight="500" frameBottom="360"/>
+          <DOMBitmapItem name="_Imagens/single_goldcoin50.png" itemID="55063111-000001f1" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/single_goldcoin50.png" sourceLastImported="1421680463" externalFileCRC32="4134255775" externalFileSize="4794" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/single_goldcoin50.png" bitmapDataHRef="M 88 1406755462.dat" frameRight="1000" frameBottom="720"/>
+          <DOMBitmapItem name="_Imagens/single_goldcoin75.png" itemID="54f87956-000003e8" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/single_goldcoin75.png" sourceLastImported="1421680463" externalFileSize="7668" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/single_goldcoin75.png" bitmapDataHRef="M 89 1406755462.dat" frameRight="1500" frameBottom="1080"/>
+          <DOMBitmapItem name="_Imagens/single_group.png" itemID="53dd55c5-0000031b" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/single_group.png" sourceLastImported="1407014231" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/single_group.png" bitmapDataHRef="M 93 1407014341.dat" frameRight="800" frameBottom="660"/>
+          <DOMBitmapItem name="_Imagens/sugira1.png" itemID="54bd1fd7-00000334" sourceExternalFilepath="Gustavo/Documents/Backpacker/ftm/FTM/LIBRARY/_Imagens/sugira1.png" sourceLastImported="1421680463" externalFileCRC32="1502651220" externalFileSize="8945" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/sugira1.png" bitmapDataHRef="M 71 1401379874.dat" frameRight="2320" frameBottom="2320"/>
+          <DOMBitmapItem name="_Imagens/verd1.png copy" itemID="53766ec7-000004ed" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/verd1.png copy" sourceLastImported="1400210576" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/verd1.png copy" bitmapDataHRef="M 21 1400211110.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="_Imagens/verd2.png copy" itemID="53766ec7-000004ee" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/verd2.png copy" sourceLastImported="1400210453" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/verd2.png copy" bitmapDataHRef="M 16 1400211108.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="_Imagens/verd3.png copy" itemID="53766ec7-000004ef" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/verd3.png copy" sourceLastImported="1400210291" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/verd3.png copy" bitmapDataHRef="M 26 1400211112.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="_Imagens/verm1.png copy" itemID="53766ec7-000004f0" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/verm1.png copy" sourceLastImported="1400210482" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/verm1.png copy" bitmapDataHRef="M 17 1400211108.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="_Imagens/verm2.png copy" itemID="53766ec7-000004f1" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/verm2.png copy" sourceLastImported="1400210319" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/verm2.png copy" bitmapDataHRef="M 12 1400211107.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMBitmapItem name="_Imagens/verm3.png copy" itemID="53766ec7-000004f2" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Imagens/verm3.png copy" sourceLastImported="1400210170" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="_Imagens/verm3.png copy" bitmapDataHRef="M 22 1400211110.dat" frameRight="10000" frameBottom="10000"/>
+          <DOMSoundItem name="_Sounds/WrongSE" itemID="53ebcb59-00000599" linkageExportForAS="true" linkageClassName="WrongSE" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/WrongSE.mp3" sourceLastImported="1407961945" href="_Sounds/WrongSE.mp3" soundDataHRef="M 94 1407961890.dat" format="44kHz 16bit Stereo" sampleCount="78314"/>
+          <DOMSoundItem name="_Sounds/WrongSoundSFX" itemID="53d186f7-00000800" linkageExportForAS="true" linkageClassName="WrongSoundSFX" sourceExternalFilepath="../../../../../Desktop/FTM (1)/FTM/LIBRARY/_Sounds/WrongSoundSFX.mp3" sourceLastImported="1406240503" href="_Sounds/WrongSoundSFX.mp3" soundDataHRef="M 86 1406240461.dat" format="44kHz 16bit Stereo" sampleCount="65664" exportFormat="1" exportBits="7" dataLength="23824" exportNative="true" cacheFormat="5kHz 8bit Stereo" cachedSampleCount="8208"/>
+     </media>
+     <symbols>
+          <Include href="__FTM.xml" itemID="54ee0e54-0000061c" lastModified="1434225689"/>
+          <Include href="_SimpleLoadingGIF/SimpleLoading.xml" itemID="5492df37-00000337" lastModified="1431023203"/>
+          <Include href="_Tweens/Tween 40.xml" itemIcon="1" loadImmediate="false" itemID="5457b6ac-000003d1" lastModified="1417895566"/>
+          <Include href="_Tweens/Tween 41.xml" itemIcon="1" loadImmediate="false" itemID="5457b6ac-000003d3" lastModified="1415106781"/>
+          <Include href="_Tweens/Tween 42.xml" itemIcon="1" loadImmediate="false" itemID="5457c344-000003e6" lastModified="1415037764"/>
+          <Include href="_Tweens/Tween 43.xml" itemIcon="1" loadImmediate="false" itemID="5457c344-000003e8" lastModified="1415106722"/>
+          <Include href="_Tweens/Tween 44.xml" itemIcon="1" loadImmediate="false" itemID="5457c54f-000003f4" lastModified="1415038287"/>
+          <Include href="_Tweens/Tween 45.xml" itemIcon="1" loadImmediate="false" itemID="5457c54f-000003f6" lastModified="1415038287"/>
+          <Include href="_Tweens/Tween 48.xml" itemIcon="1" loadImmediate="false" itemID="5458ce30-000002c1" lastModified="1415106096"/>
+          <Include href="_Tweens/Tween 49.xml" itemIcon="1" loadImmediate="false" itemID="5458ce30-000002c3" lastModified="1415106172"/>
+          <Include href="_Tweens/Tween 50.xml" itemIcon="1" loadImmediate="false" itemID="5458cf7a-000002cc" lastModified="1415106426"/>
+          <Include href="_Tweens/Tween 51.xml" itemIcon="1" loadImmediate="false" itemID="5458cf7a-000002ce" lastModified="1415106508"/>
+          <Include href="_Tweens/Tween 52.xml" itemIcon="1" loadImmediate="false" itemID="5458d17c-000002d7" lastModified="1421763094"/>
+          <Include href="_Tweens/Tween 53.xml" itemIcon="1" loadImmediate="false" itemID="5458d17c-000002d9" lastModified="1421769655"/>
+          <Include href="_Tweens/Tween 54.xml" itemIcon="1" loadImmediate="false" itemID="5458d26a-000002e5" lastModified="1415107178"/>
+          <Include href="_Tweens/Tween 55.xml" itemIcon="1" loadImmediate="false" itemID="5458d26a-000002e7" lastModified="1415107178"/>
+          <Include href="_Tweens/Tween 56.xml" itemIcon="1" loadImmediate="false" itemID="5458d419-000002ff" lastModified="1415107671"/>
+          <Include href="_Tweens/Tween 57.xml" itemIcon="1" loadImmediate="false" itemID="5458d419-00000301" lastModified="1415107609"/>
+          <Include href="_Tweens/Tween 58.xml" itemIcon="1" loadImmediate="false" itemID="5458d554-0000030f" lastModified="1415107924"/>
+          <Include href="_Tweens/Tween 59.xml" itemIcon="1" loadImmediate="false" itemID="5458d554-00000311" lastModified="1415108920"/>
+          <Include href="_Tweens/Tween 60.xml" itemIcon="1" loadImmediate="false" itemID="5458d951-00000328" lastModified="1415108945"/>
+          <Include href="_Tweens/Tween 61.xml" itemIcon="1" loadImmediate="false" itemID="5458d951-0000032a" lastModified="1415108945"/>
+          <Include href="_Tweens/Tween 62.xml" itemIcon="1" loadImmediate="false" itemID="5458d9db-0000033b" lastModified="1415109083"/>
+          <Include href="_Tweens/Tween 63.xml" itemIcon="1" loadImmediate="false" itemID="5458d9db-0000033d" lastModified="1415109143"/>
+          <Include href="_Tweens/Tween 64.xml" itemIcon="1" loadImmediate="false" itemID="5458de3d-00000352" lastModified="1415110453"/>
+          <Include href="_Tweens/Tween 65.xml" itemIcon="1" loadImmediate="false" itemID="5458de3d-00000354" lastModified="1415110415"/>
+          <Include href="_Tweens/Tween 68.xml" itemIcon="1" loadImmediate="false" itemID="5458e08c-00000377" lastModified="1415110796"/>
+          <Include href="_Tweens/Tween 69.xml" itemIcon="1" loadImmediate="false" itemID="5458e08c-00000379" lastModified="1415110975"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/antebracoD.xml" loadImmediate="false" itemID="5476a61f-000025b9" lastModified="1426615974"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/antebracoE.xml" loadImmediate="false" itemID="5476a624-000025bb" lastModified="1426615982"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/bracoD.xml" loadImmediate="false" itemID="5476a628-000025bd" lastModified="1426615989"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/bracoE.xml" loadImmediate="false" itemID="5476a62d-000025bf" lastModified="1426616113"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/cabeca.xml" loadImmediate="false" itemID="54767e3d-0000133a" lastModified="1426616123"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/calcinha.xml" loadImmediate="false" itemID="53f236f2-00000eb6" lastModified="1426616126"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/canelaD.xml" loadImmediate="false" itemID="5476a633-000025c1" lastModified="1426616316"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/canelaE.xml" loadImmediate="false" itemID="5476a638-000025c3" lastModified="1426616325"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/coxaD.xml" loadImmediate="false" itemID="5476a63d-000025c5" lastModified="1426616335"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/coxaE.xml" loadImmediate="false" itemID="5476f494-00001435" lastModified="1426616346"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/maD.xml" loadImmediate="false" itemID="5476f590-00001439" lastModified="1426616353"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/maE.xml" loadImmediate="false" itemID="5476f592-0000143a" lastModified="1426616370"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/maoD.xml" loadImmediate="false" itemID="53f236f2-00000ebb" lastModified="1426616373"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/maoE.xml" loadImmediate="false" itemID="53f236f2-00000eac" lastModified="1426616375"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/Mãos Frente/maE_Aberta.xml" loadImmediate="false" itemID="54879904-000001f2" lastModified="1426616380"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/Mãos Frente/maE_Estendida.xml" loadImmediate="false" itemID="5487990e-000001f9" lastModified="1418181939"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/Mãos Frente/maE_Fechada.xml" loadImmediate="false" itemID="5476f5bd-0000143f" lastModified="1426613728"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/Mãos Frente/maE_Rock.xml" loadImmediate="false" itemID="5476f5fa-00001447" lastModified="1417082362"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/peD.xml" loadImmediate="false" itemID="5476a656-000025ce" lastModified="1426616396"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/peE.xml" loadImmediate="false" itemID="5476a65a-000025d0" lastModified="1426616403"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/pescoco.xml" loadImmediate="false" itemID="5476a65e-000025d2" lastModified="1426616409"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/tronco.xml" loadImmediate="false" itemID="5476ac47-00002761" lastModified="1426616419"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/tronco_calcinha.xml" loadImmediate="false" itemID="54769eab-00002113" lastModified="1426616420"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneca/frente/tronco_soutien.xml" loadImmediate="false" itemID="54769e19-0000209d" lastModified="1426616427"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/antebracoD.xml" loadImmediate="false" itemID="5273a68d-00000237" lastModified="1426616434"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/antebracoE.xml" loadImmediate="false" itemID="54541281-00000540" lastModified="1426616441"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/bracoD.xml" loadImmediate="false" itemID="545410f7-00000466" lastModified="1426616449"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/bracoE.xml" loadImmediate="false" itemID="54541512-000005a7" lastModified="1426616456"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/cabeça.xml" loadImmediate="false" itemID="546d8de9-0000006b" lastModified="1426616474"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/canelaD.xml" loadImmediate="false" itemID="5454168c-000006e7" lastModified="1426616481"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/canelaE.xml" loadImmediate="false" itemID="54541827-0000081c" lastModified="1426616489"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/coxaD.xml" loadImmediate="false" itemID="545415d6-00000624" lastModified="1426616496"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/coxaE.xml" loadImmediate="false" itemID="5454179a-000007b5" lastModified="1426617651"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/maoD.xml" loadImmediate="false" itemID="54540658-000002b5" lastModified="1426616508"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/maoE.xml" loadImmediate="false" itemID="545411a3-000004d2" lastModified="1426616521"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente/maD aberta.xml" loadImmediate="false" itemID="546e99a6-0000095e" lastModified="1416534466"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente/maD fechada.xml" loadImmediate="false" itemID="546e999c-00000959" lastModified="1426609612"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente/maD rock.xml" loadImmediate="false" itemID="546e99bb-00000966" lastModified="1416534459"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente/maD segurando.xml" loadImmediate="false" itemID="546e99b3-00000962" lastModified="1416534451"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente/maE aberta.xml" loadImmediate="false" itemID="546e9a0e-0000096e" lastModified="1418183372"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente/maE fechada.xml" loadImmediate="false" itemID="546e9a03-0000096a" lastModified="1426609588"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente/maE rock.xml" loadImmediate="false" itemID="546e9a23-00000972" lastModified="1416534563"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente/maE segurando.xml" loadImmediate="false" itemID="5487c2dc-0000087a" lastModified="1418183402"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/peD.xml" loadImmediate="false" itemID="5481a554-00001b09" lastModified="1426616531"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/peE.xml" loadImmediate="false" itemID="5481a551-00001b08" lastModified="1426616538"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/pescoço.xml" loadImmediate="false" itemID="5481a53e-00001b05" lastModified="1426616555"/>
+          <Include href="AssistanceMCs/_BonecosMCs/_boneco/frente/tronco.xml" loadImmediate="false" itemID="54819e35-00000050" lastModified="1426617073"/>
+          <Include href="AssistanceMCs/_BonecosMCs/animacao_frente_fem.xml" loadImmediate="false" itemID="55086a2c-00000477" lastModified="1426615773"/>
+          <Include href="AssistanceMCs/_BonecosMCs/animacao_frente_mas.xml" loadImmediate="false" itemID="55086a1c-00000452" lastModified="1426615098"/>
+          <Include href="AssistanceMCs/_BonecosMCs/bonecos.xml" loadImmediate="false" itemID="53f236f2-00000dc0" lastModified="1426615699"/>
+          <Include href="AssistanceMCs/3QuestsLabelMcs/Checked.xml" loadImmediate="false" itemID="54c276ab-000004ed" lastModified="1422030507"/>
+          <Include href="AssistanceMCs/3QuestsLabelMcs/ComboRate_full.xml" loadImmediate="false" itemID="54c11852-0000018a" lastModified="1422028467"/>
+          <Include href="AssistanceMCs/3QuestsLabelMcs/QuestRate.xml" loadImmediate="false" itemID="54c26f92-000004ab" lastModified="1427813905"/>
+          <Include href="AssistanceMCs/3QuestsLabelMcs/Quests_icon.xml" loadImmediate="false" itemID="54da7789-0000098b" lastModified="1432145810"/>
+          <Include href="AssistanceMCs/Background.xml" loadImmediate="false" itemID="5377e318-00000376" lastModified="1430417056"/>
+          <Include href="AssistanceMCs/BackJogoBtn.xml" itemIcon="0" loadImmediate="false" itemID="552d4c24-000009b3" lastModified="1429033062"/>
+          <Include href="AssistanceMCs/BackMenuEstilo.xml" itemIcon="0" loadImmediate="false" itemID="548094c2-000007ba" lastModified="1426618930"/>
+          <Include href="AssistanceMCs/Barra_invite.xml" loadImmediate="false" itemID="5575d8b5-00000678" lastModified="1433786549"/>
+          <Include href="AssistanceMCs/BeginningGif.xml" loadImmediate="false" itemID="53ee392a-00000596" lastModified="1434651265"/>
+          <Include href="AssistanceMCs/BestMusicScore.xml" itemID="53555a2f-000002b8" lastModified="1428432330"/>
+          <Include href="AssistanceMCs/Botao_Artista.xml" loadImmediate="false" itemID="548354c8-000004b5" lastModified="1433786382"/>
+          <Include href="AssistanceMCs/Botao_Artista_neon.xml" loadImmediate="false" itemID="548354d3-000004b6" lastModified="1417893075"/>
+          <Include href="AssistanceMCs/Botao_Back.xml" itemIcon="0" loadImmediate="false" itemID="5575d96b-00000679" lastModified="1433786731"/>
+          <Include href="AssistanceMCs/Botao_Compradas.xml" loadImmediate="false" itemID="54865998-000049cb" lastModified="1433786487"/>
+          <Include href="AssistanceMCs/Botao_Estilo.xml" loadImmediate="false" itemID="54860c76-00001bc1" lastModified="1438698911"/>
+          <Include href="AssistanceMCs/Botao_fem.xml" itemIcon="0" loadImmediate="false" itemID="55087942-00000379" lastModified="1428087585"/>
+          <Include href="AssistanceMCs/Botao_masc.xml" itemIcon="0" loadImmediate="false" itemID="5508794c-00000381" lastModified="1438714102"/>
+          <Include href="AssistanceMCs/Botao_Nivel.xml" loadImmediate="false" itemID="54860c7b-00001bc2" lastModified="1428101101"/>
+          <Include href="AssistanceMCs/Botao_Pesquisar.xml" loadImmediate="false" itemID="5575d7a2-00000667" lastModified="1433788930"/>
+          <Include href="AssistanceMCs/BotaoLyrics_stroke.xml" itemIcon="0" loadImmediate="false" itemID="55689fa2-00000384" lastModified="1432920476"/>
+          <Include href="AssistanceMCs/BotaoSkip.xml" itemIcon="0" loadImmediate="false" itemID="541c5a6b-0000057e" lastModified="1432919934"/>
+          <Include href="AssistanceMCs/BotaoSkip_stroke.xml" loadImmediate="false" itemID="5480b155-0000081e" lastModified="1432920036"/>
+          <Include href="AssistanceMCs/BotaoSkipPlayScreen.xml" itemIcon="0" loadImmediate="false" itemID="54ef322c-00000356" lastModified="1426618930"/>
+          <Include href="AssistanceMCs/Botoes_Basicos_base.xml" loadImmediate="false" itemID="54f5fd61-000005d1" lastModified="1416686647"/>
+          <Include href="AssistanceMCs/Botoes_Basicos_stroke.xml" loadImmediate="false" itemID="54f5fd61-000005d0" lastModified="1424967348"/>
+          <Include href="AssistanceMCs/Botoes_Basicos_strokeover.xml" loadImmediate="false" itemID="54f5fd61-000005d2" lastModified="1425404482"/>
+          <Include href="AssistanceMCs/Botoes_tipo2_base.xml" loadImmediate="false" itemID="55087a28-00000500" lastModified="1422479072"/>
+          <Include href="AssistanceMCs/Botoes_tipo2_neon.xml" loadImmediate="false" itemID="55087a28-00000501" lastModified="1417728438"/>
+          <Include href="AssistanceMCs/Botoes_tipo3_base.xml" loadImmediate="false" itemID="54f5fd61-000005da" lastModified="1417732705"/>
+          <Include href="AssistanceMCs/Botoes_tipo3_neon.xml" loadImmediate="false" itemID="54f5fd61-000005db" lastModified="1417732723"/>
+          <Include href="AssistanceMCs/Botoes_tipo3_opaco.xml" loadImmediate="false" itemID="54f88760-00000799" lastModified="1425573986"/>
+          <Include href="AssistanceMCs/Cadastro_stroke.xml" loadImmediate="false" itemID="5483718d-0000085a" lastModified="1417900590"/>
+          <Include href="AssistanceMCs/Cadeado.xml" loadImmediate="false" itemID="5491cfe2-00000a60" lastModified="1428618107"/>
+          <Include href="AssistanceMCs/Caixa_pesquisa.xml" loadImmediate="false" itemID="537cf593-0000032a" lastModified="1428101591"/>
+          <Include href="AssistanceMCs/ChinaBtn.xml" itemIcon="0" loadImmediate="false" itemID="55130832-00000368" lastModified="1427401319"/>
+          <Include href="AssistanceMCs/Coins_glow.xml" loadImmediate="false" itemID="54f87b28-00000415" lastModified="1425570600"/>
+          <Include href="AssistanceMCs/Comprar.xml" itemIcon="0" loadImmediate="false" itemID="5406ae2d-000003af" lastModified="1436387301"/>
+          <Include href="AssistanceMCs/Continue.xml" itemIcon="0" loadImmediate="false" itemID="53765044-0000032f" lastModified="1425503808"/>
+          <Include href="AssistanceMCs/DailyComboRect.xml" loadImmediate="false" itemID="5409faa3-00000363" lastModified="1425565724"/>
+          <Include href="AssistanceMCs/Disco3.xml" loadImmediate="false" itemID="5491a80b-000006fa" lastModified="1431024866"/>
+          <Include href="AssistanceMCs/DiscoGirandoDourado.xml" loadImmediate="false" itemID="53cff418-0000056f" lastModified="1407536904"/>
+          <Include href="AssistanceMCs/Eh_Premium.xml" loadImmediate="false" itemID="5522fa06-0000076b" lastModified="1428355590"/>
+          <Include href="AssistanceMCs/EstrelaAzul_base.xml" loadImmediate="false" itemID="54820e6e-0000061d" lastModified="1430948655"/>
+          <Include href="AssistanceMCs/EstrelaDourada.xml" loadImmediate="false" itemID="54d387b6-00000600" lastModified="1423153409"/>
+          <Include href="AssistanceMCs/FichasParaMoedasBtn.xml" itemIcon="0" loadImmediate="false" itemID="54f5fd61-000005d3" lastModified="1426018137"/>
+          <Include href="AssistanceMCs/GenericContent.xml" loadImmediate="false" itemID="54db833f-0000034a" lastModified="1425355363"/>
+          <Include href="AssistanceMCs/GoShoppingBtn.xml" itemIcon="0" loadImmediate="false" itemID="54382276-00000678" lastModified="1425571909"/>
+          <Include href="AssistanceMCs/Invite.xml" itemIcon="0" loadImmediate="false" itemID="551e9cf7-000008f3" lastModified="1428069623"/>
+          <Include href="AssistanceMCs/InviteBtn.xml" itemIcon="0" loadImmediate="false" itemID="5503253d-00000667" lastModified="1428429552"/>
+          <Include href="AssistanceMCs/JogarBtn.xml" itemIcon="0" loadImmediate="false" itemID="546787e2-000004ba" lastModified="1429221044"/>
+          <Include href="AssistanceMCs/LeaveBtn.xml" itemIcon="0" loadImmediate="false" itemID="55007549-0000036f" lastModified="1435867437"/>
+          <Include href="AssistanceMCs/LevelBar.xml" itemID="53ee3d75-000005bc" lastModified="1429121566"/>
+          <Include href="AssistanceMCs/MensagemSugestao.xml" loadImmediate="false" itemID="5373d23c-00000293" lastModified="1426190802"/>
+          <Include href="AssistanceMCs/MoedasParaFichasBtn.xml" itemIcon="0" loadImmediate="false" itemID="54381525-00000419" lastModified="1426018034"/>
+          <Include href="AssistanceMCs/MostrarMais.xml" itemIcon="0" loadImmediate="false" itemID="54c28cf0-000004f5" lastModified="1429546980"/>
+          <Include href="AssistanceMCs/MostrarMaisBlock.xml" itemIcon="0" loadImmediate="false" itemID="54ef2c16-00000343" lastModified="1428070523"/>
+          <Include href="AssistanceMCs/NextBtn.xml" itemIcon="0" loadImmediate="false" itemID="55032fb2-0000067b" lastModified="1427816955"/>
+          <Include href="AssistanceMCs/NextSongBtn.xml" itemIcon="0" loadImmediate="false" itemID="55032fbd-0000067c" lastModified="1427309237"/>
+          <Include href="AssistanceMCs/OKBtn.xml" itemIcon="0" loadImmediate="false" itemID="551e927a-000005ff" lastModified="1428067139"/>
+          <Include href="AssistanceMCs/ParticleBalls.xml" itemID="55020819-00000358" lastModified="1429546448"/>
+          <Include href="AssistanceMCs/Ponteiro_do_medidor.xml" loadImmediate="false" itemID="53f236f2-00000ebd" lastModified="1400790562"/>
+          <Include href="AssistanceMCs/PopUp.xml" itemID="53d03edd-000006f7" lastModified="1438718249"/>
+          <Include href="AssistanceMCs/Preenchimento_Barras.xml" loadImmediate="false" itemID="55230333-00000773" lastModified="1428357939"/>
+          <Include href="AssistanceMCs/PremiumBtn.xml" itemIcon="0" loadImmediate="false" itemID="553527ba-00000382" lastModified="1429547062"/>
+          <Include href="AssistanceMCs/PriceBtn.xml" loadImmediate="false" itemID="54f5fd61-000005ce" lastModified="1436468307"/>
+          <Include href="AssistanceMCs/PriceBtnFB.xml" loadImmediate="false" itemID="551e9f78-00000901" lastModified="1437166187"/>
+          <Include href="AssistanceMCs/PrizeBtn.xml" loadImmediate="false" itemID="559d87d7-00000404" lastModified="1436476687"/>
+          <Include href="AssistanceMCs/Progresso_stroke.xml" loadImmediate="false" itemID="5477ab11-00000dcd" lastModified="1417128721"/>
+          <Include href="AssistanceMCs/Quadro_principal_fundo.xml" loadImmediate="false" itemID="53988c69-000002f8" lastModified="1410472902"/>
+          <Include href="AssistanceMCs/Quadro_principal_glow.xml" loadImmediate="false" itemID="53988c6c-000002f9" lastModified="1402506348"/>
+          <Include href="AssistanceMCs/Quadro_principal_laterais.xml" loadImmediate="false" itemID="53988c6f-000002fa" lastModified="1428081876"/>
+          <Include href="AssistanceMCs/QuestContentHolder.xml" loadImmediate="false" itemID="54dcee63-00000534" lastModified="1435867480"/>
+          <Include href="AssistanceMCs/QuestConteudo.xml" itemIcon="0" loadImmediate="false" itemID="54d9f648-0000034a" lastModified="1426618930"/>
+          <Include href="AssistanceMCs/QuestionBtn.xml" itemIcon="0" loadImmediate="false" itemID="554a8349-00000972" lastModified="1436301074"/>
+          <Include href="AssistanceMCs/QuestLabel.xml" itemID="54bfdcb8-00000325" lastModified="1436382907"/>
+          <Include href="AssistanceMCs/QuestMusics.xml" itemIcon="0" loadImmediate="false" itemID="54dbb6a9-0000081d" lastModified="1427825633"/>
+          <Include href="AssistanceMCs/QuestsBtn.xml" itemIcon="0" loadImmediate="false" itemID="54d91a19-000004c0" lastModified="1425504334"/>
+          <Include href="AssistanceMCs/RaioAnimado.xml" loadImmediate="false" itemID="54075242-000007e1" lastModified="1428065300"/>
+          <Include href="AssistanceMCs/RaioBase.xml" loadImmediate="false" itemID="54075264-000007f5" lastModified="1428071258"/>
+          <Include href="AssistanceMCs/Ranking_base.xml" loadImmediate="false" itemID="5477a7de-00000c4e" lastModified="1426618930"/>
+          <Include href="AssistanceMCs/Ranking_stroke.xml" loadImmediate="false" itemID="54862eec-00003686" lastModified="1429550633"/>
+          <Include href="AssistanceMCs/RankingCall.xml" itemIcon="0" loadImmediate="false" itemID="53766f33-00000501" lastModified="1428430825"/>
+          <Include href="AssistanceMCs/ReceberBtn.xml" itemIcon="0" loadImmediate="false" itemID="551db6b0-000001d5" lastModified="1428353614"/>
+          <Include href="AssistanceMCs/Rede_neon_pro_nome.xml" loadImmediate="false" itemID="5474c925-000004d5" lastModified="1416939813"/>
+          <Include href="AssistanceMCs/RepetirBtn.xml" itemIcon="0" loadImmediate="false" itemID="542c4642-00000329" lastModified="1432923382"/>
+          <Include href="AssistanceMCs/RepetirBtn_stroke.xml" loadImmediate="false" itemID="5480b41c-00000841" lastModified="1426624579"/>
+          <Include href="AssistanceMCs/SearchSymbol.xml" loadImmediate="false" itemID="54d3b7c2-00000639" lastModified="1424967751"/>
+          <Include href="AssistanceMCs/Seta_botão_back.xml" loadImmediate="false" itemID="54830bbf-0000031c" lastModified="1417874367"/>
+          <Include href="AssistanceMCs/ShowLyricsBtn.xml" itemIcon="0" loadImmediate="false" itemID="55689f50-0000037a" lastModified="1432922679"/>
+          <Include href="AssistanceMCs/StrokeBtn.xml" loadImmediate="false" itemID="5481ce70-0000033b" lastModified="1417793136"/>
+          <Include href="AssistanceMCs/StrokeBtn_over.xml" loadImmediate="false" itemID="5481ce75-0000033c" lastModified="1417793141"/>
+          <Include href="AssistanceMCs/SugerirMusica_forma.xml" itemIcon="0" loadImmediate="false" itemID="54074797-00000317" lastModified="1409763223"/>
+          <Include href="AssistanceMCs/SugerirMusica_formaMC.xml" loadImmediate="false" itemID="54074790-00000315" lastModified="1409763216"/>
+          <Include href="AssistanceMCs/SugerirMusica_glow.xml" loadImmediate="false" itemID="54074793-00000316" lastModified="1409763219"/>
+          <Include href="AssistanceMCs/TextoDeEntrada.xml" loadImmediate="false" itemID="5373d2dd-00000297" lastModified="1418846055"/>
+          <Include href="AssistanceMCs/ThemeLabel_stroke.xml" loadImmediate="false" itemID="5491a4c4-000004a8" lastModified="1418831044"/>
+          <Include href="AssistanceMCs/ThemeLabel_stroke_glowable.xml" loadImmediate="false" itemID="5491b8a1-0000081a" lastModified="1428099934"/>
+          <Include href="AssistanceMCs/VideoContainer.xml" loadImmediate="false" itemID="53e11764-00000345" lastModified="1418846050"/>
+          <Include href="CreateLoginScreenMCs/CreateLoginScreen.xml" itemID="535030ed-000002d9" lastModified="1432931466"/>
+          <Include href="CreateLoginScreenMCs/Vantagem3.xml" loadImmediate="false" itemID="53e64fda-0000032b" lastModified="1427310191"/>
+          <Include href="EndScreenMCs/BotaoBackToMenu.xml" itemIcon="0" loadImmediate="false" itemID="54bd3259-00000378" lastModified="1432920712"/>
+          <Include href="EndScreenMCs/BotaoNextSong.xml" loadImmediate="false" itemID="54d93bff-000002ef" lastModified="1426529641"/>
+          <Include href="EndScreenMCs/CoinsEnding.xml" loadImmediate="false" itemID="53f41ba4-00000816" lastModified="1426468875"/>
+          <Include href="EndScreenMCs/EndingBigLabel.xml" loadImmediate="false" itemID="53d2a9a1-000006eb" lastModified="1421858816"/>
+          <Include href="EndScreenMCs/EndingLabel.xml" loadImmediate="false" itemID="53d2a789-000005bd" lastModified="1426470128"/>
+          <Include href="EndScreenMCs/EndScreen.xml" itemID="52681cb8-000001ff" lastModified="1437523832"/>
+          <Include href="EndScreenMCs/LetraHolder.xml" loadImmediate="false" itemID="54db833a-00000349" lastModified="1426473739"/>
+          <Include href="EndScreenMCs/NewRecordBadge.xml" loadImmediate="false" itemID="53346716-000002ec" lastModified="1414603122"/>
+          <Include href="EndScreenMCs/QuantityBtn.xml" itemIcon="0" loadImmediate="false" itemID="54ef335d-0000059e" lastModified="1432931816"/>
+          <Include href="EndScreenMCs/QuantityBtnHolder.xml" loadImmediate="false" itemID="54ef5317-000005c2" lastModified="1432931498"/>
+          <Include href="EndScreenMCs/Star.xml" loadImmediate="false" itemID="526bf432-00000218" lastModified="1429121101"/>
+          <Include href="EndScreenMCs/TextNew.xml" loadImmediate="false" itemID="54ac3064-00000375" lastModified="1425498731"/>
+          <Include href="FacebookMCs/coin.xml" loadImmediate="false" itemID="54fe191d-0000051d" lastModified="1424807203"/>
+          <Include href="FacebookMCs/coin copy.xml" loadImmediate="false" itemID="54fe191d-0000051c" lastModified="1428005004"/>
+          <Include href="FacebookMCs/coins1.xml" loadImmediate="false" itemID="54f5fd61-000005df" lastModified="1428067962"/>
+          <Include href="FacebookMCs/coins2.xml" loadImmediate="false" itemID="54fe191d-00000512" lastModified="1425584415"/>
+          <Include href="FacebookMCs/coins3.xml" loadImmediate="false" itemID="54f5fd61-000005e1" lastModified="1428004978"/>
+          <Include href="FacebookMCs/f.xml" loadImmediate="false" itemID="54fe191d-0000051e" lastModified="1426270171"/>
+          <Include href="GameModeScreenMCs/GameModeScreen.xml" itemID="53ada933-00000541" lastModified="1434652935"/>
+          <Include href="GameModeScreenMCs/MultiplayerBlock.xml" itemIcon="0" loadImmediate="false" itemID="54b69c2d-0000033f" lastModified="1426529440"/>
+          <Include href="GameModeScreenMCs/MultiplayerBtn.xml" itemIcon="0" loadImmediate="false" itemID="53f50de8-000005d7" lastModified="1426478317"/>
+          <Include href="GameModeScreenMCs/SingleplayerBtn.xml" itemIcon="0" loadImmediate="false" itemID="53f50dd6-000005d5" lastModified="1426478246"/>
+          <Include href="LoadingScreenMCs/Equalizer.xml" loadImmediate="false" itemID="5458f15f-0000055f" lastModified="1428104173"/>
+          <Include href="LoadingScreenMCs/Equalizer_Reflexo.xml" loadImmediate="false" itemID="5458efd9-00000385" lastModified="1415190538"/>
+          <Include href="LoadingScreenMCs/LoadingScreen.xml" itemID="530f7f2f-00000732" lastModified="1437608314"/>
+          <Include href="LoadingScreenMCs/TutorialMsgs.xml" loadImmediate="false" itemID="53861f57-000008de" lastModified="1438624807"/>
+          <Include href="MenuEstilosMCs/_neonSorters/neon_estilo.xml" loadImmediate="false" itemID="5436a145-00000325" lastModified="1428100868"/>
+          <Include href="MenuEstilosMCs/_neonSorters/neon_nivel.xml" loadImmediate="false" itemID="543ff9d4-00000413" lastModified="1428100957"/>
+          <Include href="MenuEstilosMCs/ChooseMenuEstilosSort.xml" loadImmediate="false" itemID="548206ec-0000039d" lastModified="1434653005"/>
+          <Include href="MenuEstilosMCs/MenuEstilos.xml" itemID="530dfb9f-00000247" lastModified="1434661653"/>
+          <Include href="MenuEstilosMCs/ThemeBlock.xml" loadImmediate="false" itemID="54ba7b17-0000032c" lastModified="1432241429"/>
+          <Include href="MenuEstilosMCs/ThemeLabel.xml" loadImmediate="false" itemID="5491a7e0-000006dd" lastModified="1432241032"/>
+          <Include href="MenuEstilosMCs/ThemeListAnimado.xml" loadImmediate="false" itemID="537563e6-00000b99" lastModified="1435356093"/>
+          <Include href="MenuMusicasMCs/MenuMusicas.xml" itemID="530dfbe7-00000248" lastModified="1433281617"/>
+          <Include href="MenuMusicasMCs/MusicaLabel.xml" loadImmediate="false" itemID="537528e2-000002bf" lastModified="1431025542"/>
+          <Include href="MenuMusicasMCs/MusicasListAnimado.xml" loadImmediate="false" itemID="53752841-000002b7" lastModified="1428099961"/>
+          <Include href="MenuMusicasMCs/StarsLevel.xml" loadImmediate="false" itemID="5491be2e-00000a32" lastModified="1420565074"/>
+          <Include href="MenuMusicasMCs/SugerirBtn.xml" loadImmediate="false" itemID="53768340-0000056e" lastModified="1424980220"/>
+          <Include href="MenuMusicasMCs/SugerirMusica.xml" itemID="5373c2e5-0000024f" lastModified="1424980494"/>
+          <Include href="MultiplayerMCs/ChooseBetStyleMCs/ChooseBetLabel.xml" loadImmediate="false" itemID="53dd45c8-000005ac" lastModified="1426032461"/>
+          <Include href="MultiplayerMCs/ChooseBetStyleMCs/ChooseBetStyleScreen.xml" itemID="53cd7b16-00000309" lastModified="1426017775"/>
+          <Include href="MultiplayerMCs/MenuMPmusicScreenMCs/MenuMPmusicLabel.xml" loadImmediate="false" itemID="53baddc8-00000554" lastModified="1426018625"/>
+          <Include href="MultiplayerMCs/MenuMPmusicScreenMCs/MenuMPmusicScreen.xml" itemID="53badcdd-00000547" lastModified="1426019051"/>
+          <Include href="MultiplayerMCs/MPPlayScreenMCs/GrayProtectionEnding.xml" loadImmediate="false" itemID="53caa0de-000002fd" lastModified="1408514414"/>
+          <Include href="MultiplayerMCs/MPPlayScreenMCs/MPEndingMsg.xml" loadImmediate="false" itemID="53d00b2a-000006d7" lastModified="1429221039"/>
+          <Include href="MultiplayerMCs/MPPlayScreenMCs/MPPlayScreen.xml" itemID="53bc25cc-000002fe" lastModified="1429221004"/>
+          <Include href="MultiplayerMCs/MPPlayScreenMCs/SimboloP1P2.xml" loadImmediate="false" itemID="541c5e41-000005a5" lastModified="1426542436"/>
+          <Include href="PlayScreenMCs/_PlayScreenAssistanceMCs/BarraEstrelasECombo.xml" loadImmediate="false" itemID="537c17a7-000004ab" lastModified="1428089142"/>
+          <Include href="PlayScreenMCs/_PlayScreenAssistanceMCs/ComboRate.xml" loadImmediate="false" itemID="54bfded7-00000340" lastModified="1428091561"/>
+          <Include href="PlayScreenMCs/_PlayScreenAssistanceMCs/Medidor.xml" loadImmediate="false" itemID="53f236f2-00000ebc" lastModified="1406312718"/>
+          <Include href="PlayScreenMCs/BotaoDobrarCombo.xml" itemIcon="0" loadImmediate="false" itemID="5378f8a4-00000408" lastModified="1428342621"/>
+          <Include href="PlayScreenMCs/Cadeira.xml" loadImmediate="false" itemID="53f3e3f3-00000810" lastModified="1421177339"/>
+          <Include href="PlayScreenMCs/ComboRate.xml" loadImmediate="false" itemID="54c26f06-0000048d" lastModified="1422028650"/>
+          <Include href="PlayScreenMCs/GlowSpot.xml" loadImmediate="false" itemID="53332066-0000029f" lastModified="1430948119"/>
+          <Include href="PlayScreenMCs/GlowSpotSecondary.xml" loadImmediate="false" itemID="550890b0-00000528" lastModified="1430947951"/>
+          <Include href="PlayScreenMCs/MomentLine.xml" loadImmediate="false" itemID="550890b0-00000529" lastModified="1430947935"/>
+          <Include href="PlayScreenMCs/PerformanceRate.xml" itemID="536170c6-00000485" lastModified="1428087415"/>
+          <Include href="PlayScreenMCs/PlayScreen.xml" itemID="52fa67d9-00000512" lastModified="1435867364"/>
+          <Include href="PlayScreenMCs/ProgressRate.xml" itemID="53617969-00000640" lastModified="1429049274"/>
+          <Include href="PlayScreenMCs/ProgressRateFill.xml" loadImmediate="false" itemID="536a7119-000002ff" lastModified="1428090880"/>
+          <Include href="PlayScreenMCs/SubSpace.xml" loadImmediate="false" itemID="53ecf592-0000059b" lastModified="1408038386"/>
+          <Include href="PlayScreenMCs/TextBox.xml" itemID="51c4c01c-000001e6" lastModified="1418845253"/>
+          <Include href="PlayScreenMCs/TimeBar.xml" itemID="536a713d-00000301" lastModified="1421691719"/>
+          <Include href="PlayScreenMCs/TimeBarFill.xml" loadImmediate="false" itemID="5377f8fb-00000432" lastModified="1421691730"/>
+          <Include href="PlayScreenMCs/TimeBarPointer.xml" loadImmediate="false" itemID="536a738a-00000317" lastModified="1418845187"/>
+          <Include href="PlayScreenMCs/UnactiveBtn.xml" loadImmediate="false" itemID="5319f8f1-0000028c" lastModified="1423857117"/>
+          <Include href="PlayScreenMCs/WordBtn.xml" loadImmediate="false" itemID="53790c82-00000447" lastModified="1425407547"/>
+          <Include href="PlayScreenMCs/WordBtn2.xml" loadImmediate="false" itemID="54de52c7-00000333" lastModified="1426618930"/>
+          <Include href="Preloader/movColorProgressIndicator.xml" loadImmediate="false" itemID="4b3110e7-00001563" lastModified="1424819997"/>
+          <Include href="Preloader/movFullProgressBar.xml" loadImmediate="false" itemID="4b323deb-00000029" lastModified="1424820014"/>
+          <Include href="Preloader/movPreLoaderBarBackground.xml" loadImmediate="false" itemID="4b32892e-00003a38" lastModified="1261603118"/>
+          <Include href="Preloader/movPreLoaderBarColor.xml" loadImmediate="false" itemID="4b32892a-00003a2f" lastModified="1424819991"/>
+          <Include href="Preloader/movPreLoaderBarHighlight.xml" loadImmediate="false" itemID="4b328925-00003a1e" lastModified="1261603109"/>
+          <Include href="Preloader/movPreloaderBarOutline.xml" loadImmediate="false" itemID="4b32891a-000039fc" lastModified="1261603098"/>
+          <Include href="Preloader/movProgressBarEmboss.xml" loadImmediate="false" itemID="4b32891f-00003a0d" lastModified="1428018000"/>
+          <Include href="SongMasterMCs/IntroSongMasterScreen.xml" itemID="559c27f0-0000066d" lastModified="1436386385"/>
+          <Include href="StartScreenMCs/BuyCoins.xml" itemIcon="0" loadImmediate="false" itemID="53ebae1f-000003e6" lastModified="1416599347"/>
+          <Include href="StartScreenMCs/CadastrarBtn.xml" itemIcon="0" loadImmediate="false" itemID="53ebafe0-000004b5" lastModified="1426546174"/>
+          <Include href="StartScreenMCs/ErrorNoSound.xml" loadImmediate="false" itemID="538f6223-00000310" lastModified="1427309810"/>
+          <Include href="StartScreenMCs/GameTitle.xml" loadImmediate="false" itemID="53765093-00000330" lastModified="1426478131"/>
+          <Include href="StartScreenMCs/JanelaAprendizado.xml" itemID="53fb11e9-000005d0" lastModified="1432922647"/>
+          <Include href="StartScreenMCs/QuestsHolder.xml" loadImmediate="false" itemID="54da3d84-0000061b" lastModified="1428348880"/>
+          <Include href="StartScreenMCs/QuestsToggler.xml" loadImmediate="false" itemID="54da3be3-0000060c" lastModified="1427310014"/>
+          <Include href="StartScreenMCs/StartScreen.xml" itemID="52682372-00000204" lastModified="1434650587"/>
+          <Include href="StartScreenMCs/UsernameInfo.xml" loadImmediate="false" itemID="53dfbeda-0000047b" lastModified="1428352104"/>
+          <Include href="TutorialScreenMCs/TutorialAssistanceMCs/NextBtn.xml" itemIcon="0" loadImmediate="false" itemID="53ebb034-000004c2" lastModified="1425407547"/>
+          <Include href="TutorialScreenMCs/TutorialAssistanceMCs/NoBtn.xml" itemIcon="0" loadImmediate="false" itemID="55083d3e-0000034e" lastModified="1426603326"/>
+          <Include href="TutorialScreenMCs/TutorialAssistanceMCs/Setinha.xml" loadImmediate="false" itemID="538a025a-00000449" lastModified="1421256295"/>
+          <Include href="TutorialScreenMCs/TutorialAssistanceMCs/SetinhaPulsando.xml" loadImmediate="false" itemID="53ee3d21-000005ba" lastModified="1429205239"/>
+          <Include href="TutorialScreenMCs/TutorialAssistanceMCs/TutorialWelcome.xml" loadImmediate="false" itemID="54e6526a-000004d5" lastModified="1427309761"/>
+          <Include href="TutorialScreenMCs/TutorialAssistanceMCs/YesBtn.xml" itemIcon="0" loadImmediate="false" itemID="55083d42-0000034f" lastModified="1426603330"/>
+          <Include href="TutorialScreenMCs/TutorialScreen.xml" itemID="5389fcef-0000042a" lastModified="1438283003"/>
+     </symbols>
+     <timelines>
+          <DOMTimeline name="Scene 1">
+               <layers>
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+                         <frames>
+                              <DOMFrame index="0" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements>
+                                        <DOMSymbolInstance libraryItemName="Preloader/movFullProgressBar" name="loadingBar" centerPoint3DX="480" centerPoint3DY="299.95">
+                                             <matrix>
+                                                  <Matrix tx="273" ty="274.75"/>
+                                             </matrix>
+                                             <transformationPoint>
+                                                  <Point x="207.05" y="24.95"/>
+                                             </transformationPoint>
+                                        </DOMSymbolInstance>
+                                   </elements>
+                              </DOMFrame>
+                              <DOMFrame index="1" keyMode="9728">
+                                   <Actionscript>
+                                        <script><![CDATA[stop();
+]]></script>
+                                   </Actionscript>
+                                   <elements/>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+               </layers>
+          </DOMTimeline>
+     </timelines>
+     <swatchLists>
+          <swatchList>
+               <swatches>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#003300" hue="80" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006600" hue="80" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009900" hue="80" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC00" hue="80" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330000" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333300" hue="40" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#336600" hue="60" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#339900" hue="67" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#33CC00" hue="70" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#33FF00" hue="72" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#660000" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663300" hue="20" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#666600" hue="40" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#669900" hue="53" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#66CC00" hue="60" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#66FF00" hue="64" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000033" hue="160" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#003333" hue="120" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#006633" hue="100" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009933" hue="93" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC33" hue="90" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF33" hue="88" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330033" hue="200" saturation="239" brightness="24"/>
+                    <SolidSwatchItem color="#333333" brightness="48"/>
+                    <SolidSwatchItem color="#336633" hue="80" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339933" hue="80" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC33" hue="80" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF33" hue="80" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660033" hue="220" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663333" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666633" hue="40" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#669933" hue="60" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#66CC33" hue="67" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#66FF33" hue="70" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000066" hue="160" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#003366" hue="140" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#006666" hue="120" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#009966" hue="107" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC66" hue="100" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF66" hue="96" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330066" hue="180" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#333366" hue="160" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#336666" hue="120" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#339966" hue="100" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC66" hue="93" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF66" hue="90" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660066" hue="200" saturation="239" brightness="48"/>
+                    <SolidSwatchItem color="#663366" hue="200" saturation="80" brightness="72"/>
+                    <SolidSwatchItem color="#666666" brightness="96"/>
+                    <SolidSwatchItem color="#669966" hue="80" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC66" hue="80" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF66" hue="80" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#000099" hue="160" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#003399" hue="147" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#006699" hue="133" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#009999" hue="120" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#00CC99" hue="110" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FF99" hue="104" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#330099" hue="173" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#333399" hue="160" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#336699" hue="140" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#339999" hue="120" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#33CC99" hue="107" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FF99" hue="100" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#660099" hue="187" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#663399" hue="180" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#666699" hue="160" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#669999" hue="120" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#66CC99" hue="100" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FF99" hue="93" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000CC" hue="160" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0033CC" hue="150" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0066CC" hue="140" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#0099CC" hue="130" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00CCCC" hue="120" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#00FFCC" hue="112" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300CC" hue="170" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#3333CC" hue="160" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3366CC" hue="147" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#3399CC" hue="133" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33CCCC" hue="120" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#33FFCC" hue="110" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600CC" hue="180" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#6633CC" hue="173" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#6666CC" hue="160" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#6699CC" hue="140" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66CCCC" hue="120" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#66FFCC" hue="107" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0033FF" hue="152" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0066FF" hue="144" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#0099FF" hue="136" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00CCFF" hue="128" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3300FF" hue="168" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#3333FF" hue="160" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3366FF" hue="150" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#3399FF" hue="140" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33CCFF" hue="130" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#33FFFF" hue="120" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6600FF" hue="176" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#6633FF" hue="170" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#6666FF" hue="160" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#6699FF" hue="147" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66CCFF" hue="133" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#66FFFF" hue="120" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990000" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993300" hue="13" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#996600" hue="27" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#999900" hue="40" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#99CC00" hue="50" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#99FF00" hue="56" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC0000" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3300" hue="10" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC6600" hue="20" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC9900" hue="30" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCCC00" hue="40" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CCFF00" hue="48" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF0000" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3300" hue="8" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF6600" hue="16" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF9900" hue="24" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFCC00" hue="32" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FF00" hue="80" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990033" hue="227" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993333" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996633" hue="20" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#999933" hue="40" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#99CC33" hue="53" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#99FF33" hue="60" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC0033" hue="230" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3333" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6633" hue="13" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC9933" hue="27" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCCC33" hue="40" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CCFF33" hue="50" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF0033" hue="232" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3333" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6633" hue="10" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF9933" hue="20" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFCC33" hue="30" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FFFF33" hue="40" saturation="239" brightness="144"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#0000FF" hue="160" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990066" hue="213" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993366" hue="220" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996666" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999966" hue="40" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#99CC66" hue="60" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#99FF66" hue="67" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC0066" hue="220" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3366" hue="227" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6666" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9966" hue="20" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCCC66" hue="40" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CCFF66" hue="53" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF0066" hue="224" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3366" hue="230" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6666" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9966" hue="13" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFCC66" hue="27" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FFFF66" hue="40" saturation="239" brightness="168"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FFFF00" hue="40" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#990099" hue="200" saturation="239" brightness="72"/>
+                    <SolidSwatchItem color="#993399" hue="200" saturation="120" brightness="96"/>
+                    <SolidSwatchItem color="#996699" hue="200" saturation="48" brightness="120"/>
+                    <SolidSwatchItem color="#999999" brightness="144"/>
+                    <SolidSwatchItem color="#99CC99" hue="80" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FF99" hue="80" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC0099" hue="210" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC3399" hue="213" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC6699" hue="220" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC9999" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCC99" hue="40" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCFF99" hue="60" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FF0099" hue="216" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF3399" hue="220" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF6699" hue="227" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF9999" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCC99" hue="20" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFFF99" hue="40" saturation="239" brightness="192"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#00FFFF" hue="120" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900CC" hue="190" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#9933CC" hue="187" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#9966CC" hue="180" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#9999CC" hue="160" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99CCCC" hue="120" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#99FFCC" hue="100" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00CC" hue="200" saturation="239" brightness="96"/>
+                    <SolidSwatchItem color="#CC33CC" hue="200" saturation="144" brightness="120"/>
+                    <SolidSwatchItem color="#CC66CC" hue="200" saturation="120" brightness="144"/>
+                    <SolidSwatchItem color="#CC99CC" hue="200" saturation="80" brightness="168"/>
+                    <SolidSwatchItem color="#CCCCCC" brightness="192"/>
+                    <SolidSwatchItem color="#CCFFCC" hue="80" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00CC" hue="208" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33CC" hue="210" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66CC" hue="213" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99CC" hue="220" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCCC" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFCC" hue="40" saturation="239" brightness="216"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem/>
+                    <SolidSwatchItem color="#9900FF" hue="184" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#9933FF" hue="180" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#9966FF" hue="173" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#9999FF" hue="160" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99CCFF" hue="140" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#99FFFF" hue="120" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CC00FF" hue="192" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#CC33FF" hue="190" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#CC66FF" hue="187" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#CC99FF" hue="180" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#CCCCFF" hue="160" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#CCFFFF" hue="120" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FF00FF" hue="200" saturation="239" brightness="120"/>
+                    <SolidSwatchItem color="#FF33FF" hue="200" saturation="239" brightness="144"/>
+                    <SolidSwatchItem color="#FF66FF" hue="200" saturation="239" brightness="168"/>
+                    <SolidSwatchItem color="#FF99FF" hue="200" saturation="239" brightness="192"/>
+                    <SolidSwatchItem color="#FFCCFF" hue="200" saturation="239" brightness="216"/>
+                    <SolidSwatchItem color="#FFFFFF" brightness="240"/>
+                    <SolidSwatchItem alpha="0.901960784313726"/>
+                    <SolidSwatchItem color="#180847" hue="170" saturation="189" brightness="38"/>
+                    <SolidSwatchItem color="#CCDAE4" hue="137" saturation="76" brightness="204"/>
+               </swatches>
+          </swatchList>
+     </swatchLists>
+     <extendedSwatchLists>
+          <swatchList>
+               <swatches>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FFFFFF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#00FF00" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <RadialGradientSwatchItem>
+                         <GradientEntry color="#0000FF" ratio="0"/>
+                         <GradientEntry ratio="1"/>
+                    </RadialGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#0066FD" ratio="0"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.376470588235294"/>
+                         <GradientEntry color="#FFFFFF" ratio="0.47843137254902"/>
+                         <GradientEntry color="#996600" ratio="0.501960784313725"/>
+                         <GradientEntry color="#FFCC00" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FFFFFF" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#FF0000" ratio="0"/>
+                         <GradientEntry color="#FFFF00" ratio="0.164705882352941"/>
+                         <GradientEntry color="#00FF00" ratio="0.364705882352941"/>
+                         <GradientEntry color="#00FFFF" ratio="0.498039215686275"/>
+                         <GradientEntry color="#0000FF" ratio="0.666666666666667"/>
+                         <GradientEntry color="#FF00FF" ratio="0.831372549019608"/>
+                         <GradientEntry color="#FF0000" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry alpha="0" ratio="0"/>
+                         <GradientEntry alpha="0.501960784313725" ratio="0.00392156862745098"/>
+                         <GradientEntry alpha="0.949019607843137" ratio="1"/>
+                    </LinearGradientSwatchItem>
+                    <LinearGradientSwatchItem>
+                         <GradientEntry color="#35157F" alpha="0.949019607843137" ratio="0"/>
+                         <GradientEntry color="#0878B7" alpha="0.749019607843137" ratio="1"/>
+                    </LinearGradientSwatchItem>
+               </swatches>
+          </swatchList>
+     </extendedSwatchLists>
+     <persistentData>
+          <PD n="TestMovieChecked" v="FlashPro"/>
+          <PD n="ikNodeCount" t="i" v="15"/>
+          <PD n="ikTreeCount" t="i" v="2"/>
+          <PD n="ikBoneCount" t="i" v="15"/>
+     </persistentData>
+     <PrinterSettings/>
+     <publishHistory>
+          <PublishItem publishSize="2672207" publishTime="1439328931" publishDebug="true"/>
+          <PublishItem publishSize="2672199" publishTime="1439328613" publishDebug="true"/>
+          <PublishItem publishSize="2672039" publishTime="1439328494" publishDebug="true"/>
+          <PublishItem publishSize="2672042" publishTime="1439328120" publishDebug="true"/>
+          <PublishItem publishSize="2449141" publishTime="1439328068" publishDebug="true"/>
+          <PublishItem publishSize="2672049" publishTime="1439328042" publishDebug="true"/>
+          <PublishItem publishSize="2672194" publishTime="1438738770" publishDebug="true"/>
+          <PublishItem publishSize="2672236" publishTime="1438738712" publishDebug="true"/>
+          <PublishItem publishSize="2672231" publishTime="1438738635" publishDebug="true"/>
+          <PublishItem publishSize="2672074" publishTime="1438738570" publishDebug="true"/>
+          <PublishItem publishSize="2672155" publishTime="1438738047" publishDebug="true"/>
+          <PublishItem publishSize="2672283" publishTime="1438737929" publishDebug="true"/>
+          <PublishItem publishSize="2672158" publishTime="1438737827" publishDebug="true"/>
+          <PublishItem publishSize="2672147" publishTime="1438737788" publishDebug="true"/>
+          <PublishItem publishSize="2672133" publishTime="1438736901" publishDebug="true"/>
+          <PublishItem publishSize="2672131" publishTime="1438736852" publishDebug="true"/>
+          <PublishItem publishSize="2672129" publishTime="1438736781" publishDebug="true"/>
+          <PublishItem publishSize="2672138" publishTime="1438736726" publishDebug="true"/>
+          <PublishItem publishSize="2672302" publishTime="1438736679" publishDebug="true"/>
+          <PublishItem publishSize="2672093" publishTime="1438736501" publishDebug="true"/>
+     </publishHistory>
+</DOMDocument>

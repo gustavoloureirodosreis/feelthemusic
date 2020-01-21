@@ -1,0 +1,60 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Background" itemID="5377e318-00000376" lastModified="1430417056" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="Background">
+      <layers>
+        <DOMLayer name="title" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/GameTitle" name="gameTitle" centerPoint3DX="374.5" centerPoint3DY="133" isVisible="false">
+                  <matrix>
+                    <Matrix tx="160" ty="70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="214.5" y="63"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="30" contrast="20" saturation="50"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMBitmapInstance libraryItemName="_Imagens/Background_Aline1.png">
+                  <matrix>
+                    <Matrix a="1.00520324707031" d="1.00833129882813" tx="-2.5" ty="2.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_Imagens/BackgroundAlternativo">
+                  <matrix>
+                    <Matrix a="0.99896240234375" d="0.998336791992188"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/GameTitle" name="gameTitle" centerPoint3DX="485" centerPoint3DY="123" isVisible="false">
+                  <matrix>
+                    <Matrix a="1.0023193359375" tx="270" ty="60"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="214.5" y="63"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="StartScreenMCs/StartScreen" itemID="52682372-00000204" linkageExportForAS="true" linkageClassName="StartScreen" lastModified="1434650587" lastUniqueIdentifier="67">
+  <timeline>
+    <DOMTimeline name="StartScreen">
+      <layers>
+        <DOMLayer name="conteudo" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/UsernameInfo" name="usernameInfo" centerPoint3DX="106.05" centerPoint3DY="8.45">
+                  <matrix>
+                    <Matrix a="0.999984741210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="106.05" y="8.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/ErrorNoSound" name="errorNoSound" centerPoint3DX="480" centerPoint3DY="-350">
+                  <matrix>
+                    <Matrix ty="-650"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="300"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/BackMenuEstilo" name="backMenu" symbolType="button">
+                  <matrix>
+                    <Matrix tx="11" ty="100"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/JanelaAprendizado" name="janelaAprendizado" centerPoint3DX="598.7" centerPoint3DY="1.05">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="385" ty="-125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="391" y="299"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ChinaBtn" name="chinaBtn" symbolType="button">
+                  <matrix>
+                    <Matrix tx="5" ty="604.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Background" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Background" name="background" centerPoint3DX="480" centerPoint3DY="300">
+                  <matrix>
+                    <Matrix a="1.00518798828125" tx="-2.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="300"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

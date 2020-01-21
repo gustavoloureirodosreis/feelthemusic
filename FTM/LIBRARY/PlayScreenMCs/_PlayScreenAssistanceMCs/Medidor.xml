@@ -1,0 +1,295 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/_PlayScreenAssistanceMCs/Medidor" itemID="53f236f2-00000ebc" lastModified="1406312718">
+  <timeline>
+    <DOMTimeline name="Medidor" currentFrame="3">
+      <layers>
+        <DOMLayer name="bolinha" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" endAngle="0">
+                  <matrix>
+                    <Matrix a="0.11346435546875" d="0.11279296875" tx="69.1" ty="-2.45"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.108642578125" d="0.108642578125" tx="165.95" ty="695.7"/>
+                      </matrix>
+                      <GradientEntry color="#F1DCDC" ratio="0"/>
+                      <GradientEntry color="#FFFFFF" ratio="0"/>
+                      <GradientEntry color="#DBD8FF" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="medidor" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Ponteiro_do_medidor" name="ponteiro" centerPoint3DX="96" centerPoint3DY="116.45">
+                  <matrix>
+                    <Matrix tx="88" ty="75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8" y="43.7"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="amarelo" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="230" innerRadius="67" endAngle="310">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-628.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.06903076171875" d="0.06903076171875" tx="165.95" ty="628.85"/>
+                      </matrix>
+                      <GradientEntry color="#FFD700" ratio="0"/>
+                      <GradientEntry color="#FF9300" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="230" innerRadius="67.8857116699219" endAngle="310">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.06903076171875" d="0.06903076171875" tx="165.95" ty="628.85"/>
+                      </matrix>
+                      <GradientEntry color="#FFD700" ratio="0"/>
+                      <GradientEntry color="#FF9300" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="230" innerRadius="67" endAngle="310">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.06903076171875" d="0.06903076171875" tx="165.95" ty="628.85"/>
+                      </matrix>
+                      <GradientEntry color="#FFD700" ratio="0"/>
+                      <GradientEntry color="#FFFF00" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="230" innerRadius="67.8857116699219" endAngle="310">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.06903076171875" d="0.06903076171875" tx="165.95" ty="628.85"/>
+                      </matrix>
+                      <GradientEntry color="#FFD700" ratio="0"/>
+                      <GradientEntry color="#FF9300" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="verde" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="310" innerRadius="67" endAngle="30">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.071044921875" d="0.071044921875" tx="229.15" ty="684"/>
+                      </matrix>
+                      <GradientEntry color="#00D700" ratio="0"/>
+                      <GradientEntry color="#196B00" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="310" innerRadius="67.8857116699219" endAngle="30">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.071044921875" d="0.071044921875" tx="229.15" ty="684"/>
+                      </matrix>
+                      <GradientEntry color="#00D700" ratio="0"/>
+                      <GradientEntry color="#196B00" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="310" innerRadius="67.8857116699219" endAngle="30">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.071044921875" d="0.071044921875" tx="229.15" ty="684"/>
+                      </matrix>
+                      <GradientEntry color="#00D700" ratio="0"/>
+                      <GradientEntry color="#196B00" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="310" innerRadius="67" endAngle="30">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.071044921875" d="0.071044921875" tx="229.15" ty="684"/>
+                      </matrix>
+                      <GradientEntry color="#00D700" ratio="0"/>
+                      <GradientEntry color="#18FF00" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="vermelho" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="150" innerRadius="67" endAngle="230">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.06982421875" d="0.06982421875" tx="102.7" ty="684"/>
+                      </matrix>
+                      <GradientEntry color="#FF0000" ratio="0"/>
+                      <GradientEntry color="#980000" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF" alpha="0.8"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1236 -185[1293 -200 1341 -185!1341 -185[1388 -170 1398 -133!1398 -133[1408 -96 1375 -59!1375 -59[1341 -22 1284 -7!1284 -7[1227 9 1180 -6!1180 -6[1132 -22 1122 -59!1122 -59[1112 -96 1146 -132!1146 -132[1179 -169 1236 -185"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="150" innerRadius="67" endAngle="230">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.06982421875" d="0.06982421875" tx="102.7" ty="684"/>
+                      </matrix>
+                      <GradientEntry color="#FF0000" ratio="0"/>
+                      <GradientEntry color="#FA0010" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="150" innerRadius="67.8857116699219" endAngle="230">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.06982421875" d="0.06982421875" tx="102.7" ty="684"/>
+                      </matrix>
+                      <GradientEntry color="#FF0000" ratio="0"/>
+                      <GradientEntry color="#980000" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMOvalObject objectWidth="175.95" objectHeight="175.95" x="77.95" y="607.75" startAngle="150" innerRadius="67.8857116699219" endAngle="230">
+                  <matrix>
+                    <Matrix tx="-77.95" ty="-627.7"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.06982421875" d="0.06982421875" tx="102.7" ty="684"/>
+                      </matrix>
+                      <GradientEntry color="#FF0000" ratio="0"/>
+                      <GradientEntry color="#980000" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMOvalObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/EstrelaDourada" itemID="54d387b6-00000600" lastModified="1423153409">
+  <timeline>
+    <DOMTimeline name="EstrelaDourada">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0003814697265625" b="-0.04254150390625" c="0.04119873046875" d="-0.0003662109375" tx="34.85" ty="33.75"/>
+                        </matrix>
+                        <GradientEntry color="#FAE204" ratio="0"/>
+                        <GradientEntry color="#F5FF56" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!1394 512S1|873 502!873 502|692 0!692 0|524 504!524 504|0 523!0 523|0 525!0 525|420 840!420 840|275 1350!275 1350|704 1048!704 1048|1138 1344!1138 1344|1138 1342!1138 1342|982 836!982 836|1394 512"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

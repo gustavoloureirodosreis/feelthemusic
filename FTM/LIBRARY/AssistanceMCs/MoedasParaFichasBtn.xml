@@ -1,0 +1,279 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/MoedasParaFichasBtn" itemID="54381525-00000419" symbolType="button" lastModified="1426018034" lastUniqueIdentifier="26">
+  <timeline>
+    <DOMTimeline name="MoedasParaFichasBtn">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="67.5" centerPoint3DY="20.7">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="67.5" centerPoint3DY="20.7">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0066CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix tx="2" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix tx="80" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="67" y="19.9"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="67" y="19.9"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1604 399|1347 596!1347 596|1347 498!1347 498[1345 498 1341 498!1341 498|1109 498!1109 498[1075 498 1075 452!1075 452|1075 342!1075 342[1075 297 1109 297!1109 297|1341 297!1341 297[1345 297 1347 297!1347 297|1347 199!1347 199|1604 399"/>
+                        <Edge cubics="!1347 199(1347,199;1347,199 1604,399 1604,399q1347 199 1604 399);"/>
+                        <Edge cubics="!1347 596(;1347,596 1347,498 1347,498q1347 596 1347 498);"/>
+                        <Edge cubics="!1347 297(;1347,297 1347,199 1347,199q1347 297 1347 199);"/>
+                        <Edge cubics="!1604 399(;1604,399 1347,596 1347,596q1604 399 1347 596);"/>
+                        <Edge cubics="!1347 297(1347,297;1346,297 1343,297 1341,297q1347 297Q1345 297q1341 297);"/>
+                        <Edge cubics="!1109 297(;1086,297 1075,312 1075,342q1109 297Q1075 297q1075 342);"/>
+                        <Edge cubics="!1075 452(;1075,483 1086,498 1109,498q1075 452Q1075 498q1109 498);"/>
+                        <Edge cubics="!1341 498(;1343,498 1346,498 1347,498q1341 498Q1345 498q1347 498);"/>
+                        <Edge cubics="!1075 342(;1075,342 1075,452 1075,452q1075 342 1075 452);"/>
+                        <Edge cubics="!1341 297(;1341,297 1109,297 1109,297q1341 297 1109 297);"/>
+                        <Edge cubics="!1109 498(;1109,498 1341,498 1341,498q1109 498 1341 498);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="67.5" centerPoint3DY="20.7">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="67.5" centerPoint3DY="20.7">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0066CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix tx="2" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix tx="80" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="67" y="19.9"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="67" y="19.9"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1604 399|1347 596!1347 596|1347 498!1347 498[1345 498 1341 498!1341 498|1109 498!1109 498[1075 498 1075 452!1075 452|1075 342!1075 342[1075 297 1109 297!1109 297|1341 297!1341 297[1345 297 1347 297!1347 297|1347 199!1347 199|1604 399"/>
+                        <Edge cubics="!1347 199(1347,199;1347,199 1604,399 1604,399q1347 199 1604 399);"/>
+                        <Edge cubics="!1347 596(;1347,596 1347,498 1347,498q1347 596 1347 498);"/>
+                        <Edge cubics="!1347 297(;1347,297 1347,199 1347,199q1347 297 1347 199);"/>
+                        <Edge cubics="!1604 399(;1604,399 1347,596 1347,596q1604 399 1347 596);"/>
+                        <Edge cubics="!1347 297(1347,297;1346,297 1343,297 1341,297q1347 297Q1345 297q1341 297);"/>
+                        <Edge cubics="!1109 297(;1086,297 1075,312 1075,342q1109 297Q1075 297q1075 342);"/>
+                        <Edge cubics="!1075 452(;1075,483 1086,498 1109,498q1075 452Q1075 498q1109 498);"/>
+                        <Edge cubics="!1341 498(;1343,498 1346,498 1347,498q1341 498Q1345 498q1347 498);"/>
+                        <Edge cubics="!1075 342(;1075,342 1075,452 1075,452q1075 342 1075 452);"/>
+                        <Edge cubics="!1341 297(;1341,297 1109,297 1109,297q1341 297 1109 297);"/>
+                        <Edge cubics="!1109 498(;1109,498 1341,498 1341,498q1109 498 1341 498);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="67.5" centerPoint3DY="20.7">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="67.5" centerPoint3DY="20.7">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0066CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix tx="2" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix tx="80" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="67" y="19.9"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="67" y="19.9"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1604 399|1347 596!1347 596|1347 498!1347 498[1345 498 1341 498!1341 498|1109 498!1109 498[1075 498 1075 452!1075 452|1075 342!1075 342[1075 297 1109 297!1109 297|1341 297!1341 297[1345 297 1347 297!1347 297|1347 199!1347 199|1604 399"/>
+                        <Edge cubics="!1347 199(1347,199;1347,199 1604,399 1604,399q1347 199 1604 399);"/>
+                        <Edge cubics="!1347 596(;1347,596 1347,498 1347,498q1347 596 1347 498);"/>
+                        <Edge cubics="!1347 297(;1347,297 1347,199 1347,199q1347 297 1347 199);"/>
+                        <Edge cubics="!1604 399(;1604,399 1347,596 1347,596q1604 399 1347 596);"/>
+                        <Edge cubics="!1347 297(1347,297;1346,297 1343,297 1341,297q1347 297Q1345 297q1341 297);"/>
+                        <Edge cubics="!1109 297(;1086,297 1075,312 1075,342q1109 297Q1075 297q1075 342);"/>
+                        <Edge cubics="!1075 452(;1075,483 1086,498 1109,498q1075 452Q1075 498q1109 498);"/>
+                        <Edge cubics="!1341 498(;1343,498 1346,498 1347,498q1341 498Q1345 498q1347 498);"/>
+                        <Edge cubics="!1075 342(;1075,342 1075,452 1075,452q1075 342 1075 452);"/>
+                        <Edge cubics="!1341 297(;1341,297 1109,297 1109,297q1341 297 1109 297);"/>
+                        <Edge cubics="!1109 498(;1109,498 1341,498 1341,498q1109 498 1341 498);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="67.5" centerPoint3DY="20.7">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="67.5" centerPoint3DY="20.7">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="23"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0066CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="device" width="112.45" height="24.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="11.3" ty="8.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Convert</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.996078431372549" size="26" bitmapSize="520" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <AdjustColorFilter brightness="-25"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

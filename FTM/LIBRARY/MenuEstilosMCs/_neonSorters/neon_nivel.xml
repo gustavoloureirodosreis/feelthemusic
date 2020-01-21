@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuEstilosMCs/_neonSorters/neon_nivel" itemID="543ff9d4-00000413" lastModified="1428100957">
+  <timeline>
+    <DOMTimeline name="neon_nivel">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!588 48[626 -59 625 -340!625 -340|-281 -340!-281 -340[-280 -59 -318 48!-318 48[-383 233 -611 340!-611 340|295 340!295 340[523 233 588 48"/>
+                    <Edge cubics="!295 340(;184,340 -611,340 -611,340q295 340 -611 340);"/>
+                    <Edge cubics="!625 -340(;492,-340 -90,-340 -281,-340q625 -340 -281 -340);"/>
+                    <Edge cubics="!295 340(;636,180 626,-51 625,-340q295 340Q523 233q588 48Q626 -59q625 -340);"/>
+                    <Edge cubics="!-611 340(;-270,180 -280,-51 -281,-340q-611 340Q-383 233q-318 48Q-280 -59q-281 -340);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

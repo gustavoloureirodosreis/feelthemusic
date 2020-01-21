@@ -1,0 +1,111 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Barra_invite" itemID="5575d8b5-00000678" lastModified="1433786549" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Barra_invite">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#272766"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!8000 600|7200 600!7200 600|6400 600!6400 600|5600 600!5600 600|4800 600!4800 600|4000 600!4000 600|3200 600!3200 600|2400 600!2400 600|1600 600!1600 600|800 600!800 600|0 600!0 600|0 0!0 0|800 0!800 0|1600 0!1600 0|2400 0!2400 0|3200
+ 0!3200 0|4000 0!4000 0|4800 0!4800 0|5600 0!5600 0|6400 0!6400 0|7200 0!7200 0|8000 0!8000 0|8000 600!7200 600|7200 0!6400 600|6400 0!5600 600|5600 0!4800 0|4800 600!4000 600|4000 0!3200 0|3200 600!2400 600|2400 0!1600 0|1600 600!800
+ 600|800 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1 copy 2" color="#4FFF4F" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#000066"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!8000 -680|8000 1328!8000 1328|0 1328!0 1328|0 -680!0 -680|8000 -680"/>
+                    <Edge cubics="!8000 1328(8000,1328;8000,1328 0,1328 0,1328q8000 1328 0 1328);"/>
+                    <Edge cubics="!8000 -680(8000,-680;8000,-680 8000,1328 8000,1328q8000 -680 8000 1328);"/>
+                    <Edge cubics="!0 -680(0,-680;0,-680 8000,-680 8000,-680q0 -680 8000 -680);"/>
+                    <Edge cubics="!0 1328(;0,1328 0,-680 0,-680q0 1328 0 -680);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1 copy" color="#4FFF4F" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="10" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Preenchimento_Barras" centerPoint3DX="-200" centerPoint3DY="15">
+                  <matrix>
+                    <Matrix tx="-400"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="15"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFFFF"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Preenchimento_Barras" centerPoint3DX="200" centerPoint3DY="15">
+                  <transformationPoint>
+                    <Point x="200" y="15"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFFFF"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="11" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="400" objectHeight="30" x="188" y="954.95" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-188" ty="-954.95"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.8"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

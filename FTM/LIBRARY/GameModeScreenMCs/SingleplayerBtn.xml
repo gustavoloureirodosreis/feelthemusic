@@ -1,0 +1,219 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GameModeScreenMCs/SingleplayerBtn" itemID="53f50dd6-000005d5" symbolType="button" lastModified="1426478246" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="SingleplayerBtn" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0036468505859375" b="0.06951904296875" c="-0.0607147216796875" d="-0.003173828125" tx="138.8" ty="53.05"/>
+                        </matrix>
+                        <GradientEntry color="#0878B7" alpha="0.850980392156863" ratio="0"/>
+                        <GradientEntry color="#6633FF" alpha="0.850980392156863" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6247 425/5822 2050!5822 2050/1353 2052.5!1353 2052.5/661 2053!661 2053/358 2053!358 2053/4 1348!4 1348/6 48!6 48[318 46 661 45!661 45[#3E0.86 #2B.5C 1353 42.5!1353 42.5[#597.CF #2A.2E 1512 42!1512 42[3167 38 3918 56!3918 56[4899 79 5671
+ 253!5671 253[6057 341 6247 425"/>
+                    <Edge cubics="!6 48(6,48;6,48 267,46 661,45q6 48 661 45);"/>
+                    <Edge cubics="!661 45(;863,44 1100,43 1353,43q661 45 1353 43)1353,43;"/>
+                    <Edge cubics="!1353 43(1353,43;2215,39 3279,41 3918,56q1353 43 1512 42Q3167 38q3918 56);"/>
+                    <Edge cubics="!3918 56(;5486,92 6247,425 6247,425q3918 56Q4899 79q5671 253Q6057 341q6247 425);"/>
+                    <Edge cubics="!358 2053(;358,2053 4,1348 4,1348p358 2053 4 1348);"/>
+                    <Edge cubics="!5822 2050(5822,2050;5822,2050 1353,2053 1353,2053q5822 2050 1353 2053);"/>
+                    <Edge cubics="!1353 2053(1353,2053;1353,2053 661,2053 661,2053q1353 2053 661 2053);"/>
+                    <Edge cubics="!661 2053(;661,2053 358,2053 358,2053q661 2053 358 2053);"/>
+                    <Edge cubics="!6247 425(;6247,425 5822,2050 5822,2050q6247 425 5822 2050);"/>
+                    <Edge cubics="!4 1348(;4,1348 6,48 6,48p4 1348q6 48);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/StrokeBtn" centerPoint3DX="144.7" centerPoint3DY="52.1">
+                  <matrix>
+                    <Matrix a="0.922210693359375" d="0.922210693359375" tx="144.5" ty="51.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText fontRenderingMode="standard" width="240.05" height="45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="29.75" ty="32.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Single Player</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="45" bitmapSize="900" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0036468505859375" b="0.06951904296875" c="-0.0607147216796875" d="-0.003173828125" tx="138.8" ty="53.05"/>
+                        </matrix>
+                        <GradientEntry color="#0878B7" alpha="0.850980392156863" ratio="0"/>
+                        <GradientEntry color="#6633FF" alpha="0.850980392156863" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!6247 425/5969 1488!5969 1488/5822 2050!5822 2050/661 2053!661 2053/358 2053!358 2053/4 1348!4 1348/6 48!6 48[318 46 661 45!661 45[1065 43 1512 42!1512 42[3167 38 3918 56!3918 56[4899 79 5671 253!5671 253[#16CE.72 #123.2C 5969 328.5!5969
+ 328.5[#17FB.6C #179.7 6247 425"/>
+                    <Edge cubics="!6 48(6,48;6,48 267,46 661,45q6 48 661 45);"/>
+                    <Edge cubics="!661 45(;1543,40 3089,37 3918,56q661 45 1512 42Q3167 38q3918 56);"/>
+                    <Edge cubics="!3918 56(3918,56;4944,80 5624,230 5969,329q3918 56Q4899 79q5671 253 5969 329);"/>
+                    <Edge cubics="!5969 329(;6156,385 6247,425 6247,425q5969 329Q6139 377q6247 425);"/>
+                    <Edge cubics="!358 2053(;358,2053 4,1348 4,1348p358 2053 4 1348);"/>
+                    <Edge cubics="!5822 2050(;5822,2050 661,2053 661,2053q5822 2050 661 2053);"/>
+                    <Edge cubics="!661 2053(;661,2053 358,2053 358,2053q661 2053 358 2053);"/>
+                    <Edge cubics="!6247 425(;6247,425 5969,1488 5969,1488q6247 425 5969 1488);"/>
+                    <Edge cubics="!5969 1488(;5969,1488 5822,2050 5822,2050q5969 1488 5822 2050);"/>
+                    <Edge cubics="!4 1348(;4,1348 6,48 6,48p4 1348q6 48);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/StrokeBtn_over" centerPoint3DX="144.7" centerPoint3DY="52.1">
+                  <matrix>
+                    <Matrix a="0.922210693359375" d="0.922210693359375" tx="144.5" ty="51.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="6" blurY="6" color="#EEEEEE" quality="3" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText fontRenderingMode="standard" width="240.05" height="45" isSelectable="false" lineType="multiline no wrap">
+                  <matrix>
+                    <Matrix a="1.05735778808594" d="1.05735778808594" tx="22.85" ty="31.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="120" y="21.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Single Player</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="45" bitmapSize="900" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="1.5"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/StrokeBtn" selected="true" centerPoint3DX="145" centerPoint3DY="52.1">
+                  <matrix>
+                    <Matrix a="0.922210693359375" d="0.922210693359375" tx="144.8" ty="51.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" selected="true" centerPoint3DX="156.05" centerPoint3DY="52.55">
+                  <matrix>
+                    <Matrix ty="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156.05" y="50.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMDynamicText selected="true" fontRenderingMode="standard" width="240.05" height="45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="30.05" ty="32.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Single Player</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="45" bitmapSize="900" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <AdjustColorFilter brightness="-25"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/StrokeBtn" centerPoint3DX="145" centerPoint3DY="52.1">
+                  <matrix>
+                    <Matrix a="0.922210693359375" d="0.922210693359375" tx="144.8" ty="51.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="156.05" centerPoint3DY="52.55">
+                  <matrix>
+                    <Matrix ty="2.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156.05" y="50.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMDynamicText fontRenderingMode="standard" width="240.05" height="45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="30.05" ty="32.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Single Player</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="45" bitmapSize="900" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <AdjustColorFilter brightness="-25"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

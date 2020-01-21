@@ -1,0 +1,90 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/_BonecosMCs/_boneco/frente/Mãos Frente/maE fechada" itemID="546e9a03-0000096a" lastModified="1426609588">
+  <timeline>
+    <DOMTimeline name="maE fechada">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!501 -217[618 136 601 408!601 408[597 480 444 544!444 544[259 621 0 595!0 595[-28 592 -70 482!-70 482[-117 344 -137 287!-137 287[-199 329 -223 340!-223 340[-262 358 -309 326!-309 326[-383 275 -484 134!-484 134[-599 -26 -603 -124!-603
+ -124[-605 -164 -506 -194!-506 -194[-407 -225 -407 -229!-407 -229[-415 -336 -402 -363!-402 -363[-394 -382 -356 -409!-356 -409[-282 -487 -132 -548!-132 -548[97 -641 311 -573!311 -573[392 -547 501 -217"/>
+                        <Edge cubics="!-407 -229(;-419,-392 -400,-364 -356,-409q-407 -229Q-415 -336q-402 -363Q-394 -382q-356 -409);"/>
+                        <Edge cubics="!-356 -409(;-313,-454 -24,-679 311,-573q-356 -409Q-282 -487q-132 -548Q97 -641q311 -573);"/>
+                        <Edge cubics="!311 -573(;407,-542 625,17 601,408q311 -573Q392 -547q501 -217Q618 136q601 408);"/>
+                        <Edge cubics="!601 408(;597,482 386,634 0,595q601 408Q597 480q444 544Q259 621q0 595);"/>
+                        <Edge cubics="!0 595(;-44,591 -97,401 -137,287q0 595Q-28 592q-70 482Q-117 344q-137 287);"/>
+                        <Edge cubics="!-137 287(;-212,326 -235,376 -309,326q-137 287Q-199 329q-223 340Q-262 358q-309 326);"/>
+                        <Edge cubics="!-309 326(;-389,271 -597,20 -603,-124q-309 326Q-383 275q-484 134Q-599 -26q-603 -124);"/>
+                        <Edge cubics="!-603 -124(;-606,-192 -406,-209 -407,-229q-603 -124Q-605 -164q-506 -194Q-407 -225q-407 -229);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-1911.6" ty="-326.35"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter" miterLimit="10">
+                            <fill>
+                              <SolidColor color="#A87054"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!38733 6310[38850 6663 38833 6935!38833 6935[38829 7007 38676 7071!38676 7071[38491 7148 38232 7122!38232 7122[38204 7119 38162 7009!38162 7009[38115 6871 38095 6814!38095 6814[38033 6856 38009 6867!38009 6867[37970 6885 37923 6853!37923
+ 6853[37849 6802 37748 6661!37748 6661[37633 6501 37629 6403!37629 6403[37627 6363 37726 6333!37726 6333[37825 6302 37825 6298!37825 6298[37817 6191 37830 6164!37830 6164[37838 6145 37876 6118!37876 6118[37950 6040 38100 5979!38100 5979
+[38329 5886 38543 5954!38543 5954[38624 5980 38733 6310"/>
+                        <Edge cubics="!37825 6298(;37813,6135 37832,6163 37876,6118q37825 6298Q37817 6191q37830 6164Q37838 6145q37876 6118);"/>
+                        <Edge cubics="!37876 6118(;37919,6073 38208,5848 38543,5954q37876 6118Q37950 6040q38100 5979Q38329 5886q38543 5954);"/>
+                        <Edge cubics="!38543 5954(;38639,5985 38857,6544 38833,6935q38543 5954Q38624 5980q38733 6310Q38850 6663q38833 6935);"/>
+                        <Edge cubics="!38833 6935(;38829,7009 38618,7161 38232,7122q38833 6935Q38829 7007q38676 7071Q38491 7148q38232 7122);"/>
+                        <Edge cubics="!38232 7122(;38188,7118 38135,6928 38095,6814q38232 7122Q38204 7119q38162 7009Q38115 6871q38095 6814);"/>
+                        <Edge cubics="!38095 6814(;38020,6853 37997,6903 37923,6853q38095 6814Q38033 6856q38009 6867Q37970 6885q37923 6853);"/>
+                        <Edge cubics="!37923 6853(;37843,6798 37635,6547 37629,6403q37923 6853Q37849 6802q37748 6661Q37633 6501q37629 6403);"/>
+                        <Edge cubics="!37629 6403(;37626,6335 37826,6318 37825,6298q37629 6403Q37627 6363q37726 6333Q37825 6302q37825 6298);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMGroup>
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-1911.6" ty="-326.35"/>
+                          </matrix>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter" miterLimit="10">
+                                <fill>
+                                  <SolidColor color="#A87054"/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge strokeStyle="1" edges="
+!37825 6298|38095 6814"/>
+                            <Edge cubics="!37825 6298(;37825,6298 38095,6814 38095,6814q37825 6298 38095 6814);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

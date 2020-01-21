@@ -1,0 +1,44 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/_PlayScreenAssistanceMCs/BarraEstrelasECombo" itemID="537c17a7-000004ab" lastModified="1428089142" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="BarraEstrelasECombo">
+      <layers>
+        <DOMLayer name="barra" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-3.0517578125e-005" b="-0.01287841796875" c="0.0113525390625" d="-3.0517578125e-005" tx="87.65" ty="9.35"/>
+                        </matrix>
+                        <GradientEntry color="#260042" ratio="0.0862745098039216"/>
+                        <GradientEntry color="#36005D" ratio="0.36078431372549"/>
+                        <GradientEntry color="#37005F" ratio="0.635294117647059"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.1">
+                        <fill>
+                          <SolidColor color="#2ACBD0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!3505 186[3505 109 3450 54!3450 54[3396 0 3319 0!3319 0|186 0!186 0[109 0 54 54!54 54[0 109 0 186!0 186|0 187!0 187[0 264 54 318!54 318[109 373 186 373!186 373|3319 373!3319 373[3396 373 3450 318!3450 318[3505 264 3505 187!3505 187|3505
+ 186"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

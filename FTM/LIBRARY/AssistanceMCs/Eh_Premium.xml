@@ -1,0 +1,51 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Eh_Premium" itemID="5522fa06-0000076b" lastModified="1428355590">
+  <timeline>
+    <DOMTimeline name="Eh_Premium">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="premiumCheck" fontRenderingMode="device" width="14.1" height="25.4" isSelectable="false">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="132.65" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.05" y="18.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>✓</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.996078431372549" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="premiumDays" left="-35.05" width="90.55" height="12.95" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="62.5" ty="45.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>30 days premium!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="10" bitmapSize="200" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter alpha="0.749019607843137" color="#00FF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

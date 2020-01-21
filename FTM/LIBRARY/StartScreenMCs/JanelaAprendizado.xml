@@ -1,0 +1,417 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="StartScreenMCs/JanelaAprendizado" itemID="53fb11e9-000005d0" linkageExportForAS="true" linkageClassName="auxiliares.JanelaAprendizado" lastModified="1432922647" lastUniqueIdentifier="14">
+  <timeline>
+    <DOMTimeline name="JanelaAprendizado">
+      <layers>
+        <DOMLayer name="Titulo" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Progresso_stroke" centerPoint3DX="212.25" centerPoint3DY="60.8">
+                  <matrix>
+                    <Matrix a="2.5" d="2.46075439453125" tx="212.25" ty="61"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#00FFFF" quality="3" strength="2"/>
+                  </filters>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="myProgressTxt" width="404.7" height="63.5" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.04623413085938" d="1.02983093261719" tx="242.25" ty="32.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Meu progresso</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="50" bitmapSize="1000" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#00FFFF" quality="3" strength="1.2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Infos" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="hours" left="45.1" width="67.3" height="24.3" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.992233276367188" d="0.992919921875" tx="217.25" ty="433"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000h</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" size="18" bitmapSize="360" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="minutes" left="49.5" width="45" height="24.3" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.992233276367188" d="0.992919921875" tx="282.7" ty="433"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>00m</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="18" bitmapSize="360" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="seconds" left="54" width="36" height="24.3" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.992233276367188" d="0.992919921875" tx="326.8" ty="433"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>00s</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="18" bitmapSize="360" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="timeTxt" width="190.5" height="24.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.992233276367188" d="0.992919921875" tx="97" ty="433"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Tempo total de músicas:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="15" bitmapSize="300" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3" strength="5"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="expressoesTxt" width="242.4" height="24.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.992233276367188" d="0.992919921875" tx="96.05" ty="488.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Expressões distintas acertadas:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="15" bitmapSize="300" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3" strength="5"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="expressoesAmnt" width="80.9" height="24.3" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.992233276367188" d="0.992919921875" tx="320.85" ty="488.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" letterSpacing="2" size="18" bitmapSize="360" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="lacunasRelTxt" width="226.9" height="24.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.992233276367188" d="0.992919921875" tx="97" ty="461.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Acertos de lacunas (relativo):</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="15" bitmapSize="300" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3" strength="5"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="acertosRelativo" left="38.4" width="70.2" height="24.3" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.997543334960938" tx="268.55" ty="460.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>(100%)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="18" bitmapSize="360" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="lacunasAbsTxt" width="231.8" height="24.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.992233276367188" d="0.992919921875" tx="96.05" ty="516.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Acertos de lacunas (absoluto):</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="15" bitmapSize="300" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#000000" quality="3" strength="5"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="acertosAbsoluto" left="12.5" width="122.85" height="24.3" autoExpand="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.997543334960938" tx="303.4" ty="516.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>99999/99999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="18" bitmapSize="360" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/QuestsHolder" name="questsHolder" centerPoint3DX="479.85" centerPoint3DY="285">
+                  <matrix>
+                    <Matrix a="0.990921020507813" tx="4.15" ty="150"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480.05" y="135"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Botoes" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/LeaveBtn" name="backMenu" symbolType="button" centerPoint3DX="742.5" centerPoint3DY="46.2">
+                  <matrix>
+                    <Matrix tx="707.25" ty="13.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/QuestsToggler" name="questsAtuais" centerPoint3DX="405" centerPoint3DY="134.8">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="261" ty="116.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="240" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/QuestsToggler" name="questsTodas" centerPoint3DX="546.7" centerPoint3DY="134.8">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="402.65" ty="116.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="239.9" y="29.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/NextSongBtn" name="musicaSugeridaBtn" symbolType="button" centerPoint3DX="588.2" centerPoint3DY="486.3">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.8062744140625" tx="560" ty="460"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/NextSongBtn" name="musicaSugeridaBlock" symbolType="button" centerPoint3DX="588.2" centerPoint3DY="486.3">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.8062744140625" tx="560" ty="460"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Base" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient focalPointRatio="-0.0980392156862745">
+                        <matrix>
+                          <Matrix a="0.521865844726563" b="-0.02056884765625" c="0.0300750732421875" d="0.763015747070313" tx="406.05" ty="95.85"/>
+                        </matrix>
+                        <GradientEntry color="#05527A" ratio="0"/>
+                        <GradientEntry color="#1A0B3E" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.668487548828125" b="-0.000213623046875" c="0.000244140625" d="0.83154296875" tx="404.2" ty="275.6"/>
+                        </matrix>
+                        <GradientEntry color="#0C007E" ratio="0"/>
+                        <GradientEntry color="#060027" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <RadialGradient focalPointRatio="-0.0980392156862745">
+                        <matrix>
+                          <Matrix a="0.521865844726563" b="-0.02056884765625" c="0.0300750732421875" d="0.763015747070313" tx="406.15" ty="95.85"/>
+                        </matrix>
+                        <GradientEntry color="#05527A" ratio="0"/>
+                        <GradientEntry color="#1A0B3E" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="5">
+                        <fill>
+                          <RadialGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.533645629882813" d="0.533645629882813" tx="410" ty="280.25"/>
+                            </matrix>
+                            <GradientEntry color="#1F00FF" ratio="0"/>
+                            <GradientEntry color="#7F00E2" ratio="1"/>
+                          </RadialGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!14875 83|14898 83!14898 83/14898 9729!14898 9729/14876 9749!14876 9749/14874 9751!14874 9751/13355 11128!13355 11128/13163 11128!13163 11128/10815 11128!10815 11128/1503 11128!1503 11128|1503 11106"/>
+                    <Edge fillStyle1="1" edges="!1503 11106/1483 11106!1483 11106/1485 10906!1485 10906[1484 10839 1485 10773!1485 10773|1487 2151!1487 2151[1487 2049 1487 1948!1487 1948|1487 1696!1487 1696|1489 1696!1489 1696/1489 1405!1489 1405/1503 1392"/>
+                    <Edge strokeStyle="1" edges="!1503 1392/1503 1389!1503 1389/2937 83!2937 83/2941 83"/>
+                    <Edge fillStyle1="1" edges="!2941 83/2992 36!2992 36/14874 38!14874 38/14875 66!14875 66[14874 71 14875 76!14875 76[14874 79 14875 83"/>
+                    <Edge fillStyle1="2" edges="!14875 83[14874 86 14875 88!14875 88[14875 112 14875 138!14875 138|14875 553"/>
+                    <Edge fillStyle1="3" edges="!14875 553|14876 522!14876 522|14876 584!14876 584|14875 584"/>
+                    <Edge fillStyle1="2" edges="!14875 584|14875 1696"/>
+                    <Edge fillStyle1="3" edges="!14875 1696|14876 1696!14876 1696|14876 9749"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="!14875 553[14875 568 14875 584"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!14874 9736/14874 9721!14874 9721/14874 2353!14874 2353/14874 1948!14874 1948|14875 1948!14875 1948|14875 1696"/>
+                    <Edge fillStyle1="2" edges="!14874 9736/14874 9751"/>
+                    <Edge fillStyle0="2" fillStyle1="3" edges="!14851 9755|14873 9735!14873 9735/14873 9738"/>
+                    <Edge fillStyle0="2" edges="!14873 9738/14874 9751"/>
+                    <Edge fillStyle1="3" edges="!14876 9749/14875 9735!14875 9735/14874 9736!14873 9738/14817 9788!14817 9788|14851 9755"/>
+                    <Edge fillStyle1="2" edges="!14851 9755|13368 11106!13368 11106/13163 11106!13163 11106/10815 11106!10815 11106/1503 11106!1503 1392/2941 83"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!1503 11106|1503 1392!2941 83|14875 83"/>
+                    <Edge cubics="!14873 9735(;14873,9735 14873,9738 14873,9738q14873 9735 14873 9738);"/>
+                    <Edge cubics="!14874 9736(;14874,9736 14875,9735 14875,9735q14874 9736 14875 9735);"/>
+                    <Edge cubics="!1485 10773(;1484,10817 1484,10862 1485,10906q1485 10773Q1484 10839q1485 10906);"/>
+                    <Edge cubics="!1485 10906(;1485,10906 1483,11106 1483,11106q1485 10906 1483 11106);"/>
+                    <Edge cubics="!14817 9788(;14817,9788 14873,9738 14873,9738q14817 9788 14873 9738);"/>
+                    <Edge cubics="!14874 9736(;14874,9736 14874,9721 14874,9721q14874 9736 14874 9721);"/>
+                    <Edge cubics="!14874 9721(;14874,9721 14874,2353 14874,2353q14874 9721 14874 2353);"/>
+                    <Edge cubics="!14874 2353(;14874,2353 14874,1948 14874,1948q14874 2353 14874 1948);"/>
+                    <Edge cubics="!2992 36(;2992,36 14874,38 14874,38q2992 36 14874 38);"/>
+                    <Edge cubics="!1489 1405(;1489,1405 1489,1696 1489,1696q1489 1405 1489 1696);"/>
+                    <Edge cubics="!1503 1392(;1503,1392 1489,1405 1489,1405q1503 1392 1489 1405);"/>
+                    <Edge cubics="!14875 138(;14875,138 14875,88 14875,88q14875 138 14875 88);"/>
+                    <Edge cubics="!14875 1696(;14875,1696 14875,584 14875,584q14875 1696 14875 584);"/>
+                    <Edge cubics="!14876 1696(;14876,1696 14875,1696 14875,1696q14876 1696 14875 1696);"/>
+                    <Edge cubics="!14875 584(;14875,584 14876,584 14876,584q14875 584 14876 584);"/>
+                    <Edge cubics="!14874 1948(;14874,1948 14875,1948 14875,1948q14874 1948 14875 1948);"/>
+                    <Edge cubics="!14875 1948(;14875,1948 14875,1696 14875,1696q14875 1948 14875 1696);"/>
+                    <Edge cubics="!14876 584(14876,584;14876,584 14876,522 14876,522q14876 584 14876 522);"/>
+                    <Edge cubics="!1489 1696(;1489,1696 1487,1696 1487,1696q1489 1696 1487 1696);"/>
+                    <Edge cubics="!14874 38(;14874,38 14875,66 14875,66q14874 38 14875 66);"/>
+                    <Edge cubics="!14875 66(;14874,69 14874,72 14875,76q14875 66Q14874 71q14875 76);"/>
+                    <Edge cubics="!1487 1948(;1487,2015 1487,2084 1487,2151q1487 1948Q1487 2049q1487 2151);"/>
+                    <Edge cubics="!1487 1696(;1487,1696 1487,1948 1487,1948q1487 1696 1487 1948);"/>
+                    <Edge cubics="!1487 2151(;1487,2151 1485,10773 1485,10773q1487 2151 1485 10773);"/>
+                    <Edge cubics="!14898 83(;14898,83 14898,9729 14898,9729q14898 83p14898 9729);"/>
+                    <Edge cubics="!13355 11128(;13355,11128 13163,11128 13163,11128q13355 11128 13163 11128);"/>
+                    <Edge cubics="!13163 11128(;13163,11128 10815,11128 10815,11128q13163 11128 10815 11128);"/>
+                    <Edge cubics="!10815 11128(;10815,11128 1503,11128 1503,11128q10815 11128 1503 11128);"/>
+                    <Edge cubics="!1503 1392(;1503,1392 1503,1389 1503,1389q1503 1392p1503 1389);"/>
+                    <Edge cubics="!14875 76(;14874,78 14874,81 14875,83q14875 76Q14874 79q14875 83);"/>
+                    <Edge cubics="!14875 83(;14874,85 14874,87 14875,88q14875 83Q14874 86q14875 88);"/>
+                    <Edge cubics="!2941 83(;2941,83 2992,36 2992,36q2941 83 2992 36);"/>
+                    <Edge cubics="!2937 83(;2937,83 2941,83 2941,83q2937 83p2941 83);"/>
+                    <Edge cubics="!1503 1392(;1503,1392 2941,83 2941,83q1503 1392 2941 83);"/>
+                    <Edge cubics="!1503 11128(;1503,11128 1503,11106 1503,11106q1503 11128 1503 11106);"/>
+                    <Edge cubics="!1483 11106(;1483,11106 1503,11106 1503,11106q1483 11106 1503 11106);"/>
+                    <Edge cubics="!1503 11106(;1503,11106 1503,1392 1503,1392q1503 11106 1503 1392);"/>
+                    <Edge cubics="!1503 11106(;1503,11106 10815,11106 10815,11106q1503 11106 10815 11106);"/>
+                    <Edge cubics="!10815 11106(;10815,11106 13163,11106 13163,11106q10815 11106 13163 11106);"/>
+                    <Edge cubics="!13163 11106(;13163,11106 13368,11106 13368,11106q13163 11106 13368 11106);"/>
+                    <Edge cubics="!2941 83(;2941,83 14875,83 14875,83q2941 83 14875 83);"/>
+                    <Edge cubics="!14876 9749(;14876,9749 14874,9751 14874,9751q14876 9749 14874 9751);"/>
+                    <Edge cubics="!14874 9751(;14874,9751 14874,9736 14874,9736q14874 9751 14874 9736);"/>
+                    <Edge cubics="!14873 9738(;14873,9738 14874,9751 14874,9751q14873 9738 14874 9751);"/>
+                    <Edge cubics="!14875 9735(;14875,9735 14876,9749 14876,9749q14875 9735 14876 9749);"/>
+                    <Edge cubics="!14898 9729(;14898,9729 14876,9749 14876,9749q14898 9729 14876 9749);"/>
+                    <Edge cubics="!14874 9751(;14874,9751 13355,11128 13355,11128q14874 9751 13355 11128);"/>
+                    <Edge cubics="!14876 9749(;14876,9749 14876,1696 14876,1696q14876 9749 14876 1696);"/>
+                    <Edge cubics="!1503 1389(;1503,1389 2937,83 2937,83q1503 1389 2937 83);"/>
+                    <Edge cubics="!14875 83(;14875,83 14898,83 14898,83q14875 83 14898 83);"/>
+                    <Edge cubics="!14875 584(14875,584;14875,574 14875,563 14875,553q14875 584Q14875 568q14875 553);"/>
+                    <Edge cubics="!14875 553(14875,553;14875,553 14876,522 14876,522q14875 553 14876 522);"/>
+                    <Edge cubics="!14875 553(14875,553;14875,553 14875,138 14875,138q14875 553 14875 138);"/>
+                    <Edge cubics="!14851 9755(14851,9755;14851,9755 14817,9788 14817,9788q14851 9755 14817 9788);"/>
+                    <Edge cubics="!14873 9735(14873,9735;14873,9735 14851,9755 14851,9755q14873 9735 14851 9755);"/>
+                    <Edge cubics="!13368 11106(;13368,11106 14851,9755 14851,9755q13368 11106 14851 9755);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1200" objectHeight="800" x="-203" y="-117" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="23" ty="-3"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#004556" alpha="0.149019607843137"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

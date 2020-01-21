@@ -1,0 +1,100 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuMusicasMCs/SugerirBtn" itemID="53768340-0000056e" lastModified="1424980220" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="SugerirBtn">
+      <layers>
+        <DOMLayer name="glow" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/SugerirMusica_glow" centerPoint3DX="30" centerPoint3DY="30">
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="6" blurY="6" color="#00FFFF" strength="1.99"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="reflexo" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF" alpha="0.498039215686275"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!1039 399[1011 399 965 371!965 371[937 355 870 311!870 311[732 226 596 222!596 222[460 226 322 311!322 311[255 355 227 371!227 371[181 399 153 399!153 399[123 399 153 348!153 348[183 296 250 235!250 235[425 75 596 71!596 71[767 75 942
+ 235!942 235[1009 296 1039 348!1039 348[1069 399 1039 399"/>
+                        <Edge cubics="!870 311(;778,254 687,225 596,222q870 311Q732 226q596 222);"/>
+                        <Edge cubics="!942 235(;825,128 710,74 596,71q942 235Q767 75q596 71);"/>
+                        <Edge cubics="!1039 348(;1019,313 987,276 942,235q1039 348Q1009 296q942 235);"/>
+                        <Edge cubics="!1039 399(;1059,399 1059,382 1039,348q1039 399Q1069 399q1039 348);"/>
+                        <Edge cubics="!965 371(;946,360 915,340 870,311q965 371Q937 355q870 311);"/>
+                        <Edge cubics="!1039 399(;1020,399 996,390 965,371q1039 399Q1011 399q965 371);"/>
+                        <Edge cubics="!153 399(;172,399 196,390 227,371q153 399Q181 399q227 371);"/>
+                        <Edge cubics="!227 371(;246,360 277,340 322,311q227 371Q255 355q322 311);"/>
+                        <Edge cubics="!153 399(;133,399 133,382 153,348q153 399Q123 399q153 348);"/>
+                        <Edge cubics="!153 348(;173,313 205,276 250,235q153 348Q183 296q250 235);"/>
+                        <Edge cubics="!250 235(250,235;367,128 482,74 596,71q250 235Q425 75q596 71);"/>
+                        <Edge cubics="!322 311(;414,254 505,225 596,222q322 311Q460 226q596 222);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF" alpha="0.8"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!315 349[264 346 245 312!245 312[226 280 249 236!249 236[272 191 323 162!323 162[374 132 424 134!424 134[474 136 492 170!492 170[512 203 489 247!489 247[466 291 415 321!415 321[364 351 315 349"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_Imagens/sugira1.png">
+                  <matrix>
+                    <Matrix tx="-23.3" ty="-23.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="forma" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/SugerirMusica_forma" symbolType="button">
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

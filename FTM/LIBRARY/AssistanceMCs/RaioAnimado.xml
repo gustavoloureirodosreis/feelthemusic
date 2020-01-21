@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/RaioAnimado" itemID="54075242-000007e1" lastModified="1428065300" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="RaioAnimado">
+      <layers>
+        <DOMLayer name="Raios1 copy" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="179" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RaioBase" centerPoint3DX="317.7" centerPoint3DY="320.5">
+                  <transformationPoint>
+                    <Point x="303.1" y="315.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RaioBase" selected="true" centerPoint3DX="317.7" centerPoint3DY="320.5">
+                  <transformationPoint>
+                    <Point x="303.1" y="315.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Raios1" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="179" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RaioBase" centerPoint3DX="317.7" centerPoint3DY="320.5">
+                  <transformationPoint>
+                    <Point x="303.1" y="315.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RaioBase" centerPoint3DX="317.7" centerPoint3DY="320.5">
+                  <transformationPoint>
+                    <Point x="303.1" y="315.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

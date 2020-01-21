@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/VideoContainer" itemID="53e11764-00000345" lastModified="1418846050">
+  <timeline>
+    <DOMTimeline name="VideoContainer">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#D6D6D6" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!9900 7300|0 7300!0 7300|0 0!0 0|9900 0!9900 0|9900 7300"/>
+                    <Edge cubics="!0 0(;0,0 3060,0 3060,0q0 0 3060 0);"/>
+                    <Edge cubics="!3060 0(;3060,0 7420,0 7420,0q3060 0 7420 0);"/>
+                    <Edge cubics="!7420 0(7420,0;7420,0 9900,0 9900,0q7420 0 9900 0);"/>
+                    <Edge cubics="!9900 0(;9900,0 9900,534 9900,534q9900 0 9900 534);"/>
+                    <Edge cubics="!9900 534(;9900,534 9900,6765 9900,6765q9900 534 9900 6765);"/>
+                    <Edge cubics="!9900 6765(9900,6765;9900,6765 9900,7300 9900,7300q9900 6765 9900 7300);"/>
+                    <Edge cubics="!0 7300(0,7300;0,7300 0,3839 0,3839q0 7300 0 3839);"/>
+                    <Edge cubics="!0 3839(0,3839;0,3839 0,2740 0,2740q0 3839 0 2740);"/>
+                    <Edge cubics="!0 2740(;0,2740 0,0 0,0q0 2740 0 0);"/>
+                    <Edge cubics="!9900 7300(;9900,7300 0,7300 0,7300q9900 7300 0 7300);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

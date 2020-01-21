@@ -1,0 +1,256 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/InviteBtn" itemID="5503253d-00000667" symbolType="button" lastModified="1428429552" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="InviteBtn" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!946 699|770 699!770 699|770 1199!770 1199|574 1199!574 1199|574 699!574 699|402 699!402 699|402 499!402 499|574 499!574 499|574 319!574 319|577 319!577 319[#23F.F8 #13E.F8 575 318!575 318|575 317!575 317[575 316 575 315!575 315[575 312
+ 577 310!577 310[577 307 577 303!577 303[577 299 581 286!581 286[580 286 580 285!580 285[580 284 580 281!580 281[581 275 583 268!583 268[588 250 595 232!595 232[632 143 714 117!714 117[747 100 822 99!822 99[826 99 975 101!975 101|973
+ 103!973 103/978 103!978 103/978 283!978 283/840 283!840 283[808 283 789 317!789 317[774 342 770 378!770 378|770 499!770 499/968 499!968 499/946 699!620 250[620 #FA.F8 620 252!620 252[#26C.08 #FA.F8 621 250!621 250|620 250"/>
+                    <Edge cubics="!770 378(;770,378 770,499 770,499q770 378 770 499);"/>
+                    <Edge cubics="!574 499(;574,499 574,319 574,319q574 499 574 319);"/>
+                    <Edge cubics="!402 499(;402,499 574,499 574,499q402 499 574 499);"/>
+                    <Edge cubics="!978 103(;978,103 978,283 978,283q978 103 978 283);"/>
+                    <Edge cubics="!770 499(;770,499 968,499 968,499q770 499 968 499);"/>
+                    <Edge cubics="!770 1199(;770,1199 574,1199 574,1199q770 1199 574 1199);"/>
+                    <Edge cubics="!574 699(;574,699 402,699 402,699q574 699 402 699);"/>
+                    <Edge cubics="!574 1199(;574,1199 574,699 574,699q574 1199 574 699);"/>
+                    <Edge cubics="!770 699(;770,699 770,1199 770,1199q770 699 770 1199);"/>
+                    <Edge cubics="!946 699(;946,699 770,699 770,699q946 699 770 699);"/>
+                    <Edge cubics="!968 499(;968,499 946,699 946,699q968 499p946 699);"/>
+                    <Edge cubics="!402 699(;402,699 402,499 402,499q402 699 402 499);"/>
+                    <Edge cubics="!840 283(;793,284 774,341 770,378q840 283Q808 283q789 317Q774 342q770 378);"/>
+                    <Edge cubics="!978 283(;978,283 840,283 840,283q978 283 840 283);"/>
+                    <Edge cubics="!580 281(;580,277 581,273 583,268q580 281 583 268);"/>
+                    <Edge cubics="!583 268(;595,220 629,144 714,117q583 268Q588 250q595 232Q632 143q714 117);"/>
+                    <Edge cubics="!714 117(;765,91 863,99 975,101q714 117Q747 100q822 99Q826 99q975 101);"/>
+                    <Edge cubics="!577 303(;577,301 578,294 581,286q577 303 581 286);"/>
+                    <Edge cubics="!620 250(620,250;620,251 620,251 620,252q620 250Q620 251q620 252);"/>
+                    <Edge cubics="!621 250(;620,250 620,250 620,250q621 250Q620 250q620 250);"/>
+                    <Edge cubics="!620 252(620,252;620,251 620,251 621,250q620 252Q620 251q621 250);"/>
+                    <Edge cubics="!581 286(;580,286 580,285 580,285q581 286Q580 286q580 285);"/>
+                    <Edge cubics="!580 285(;580,284 580,283 580,281q580 285Q580 284q580 281);"/>
+                    <Edge cubics="!575 315(;575,313 575,311 577,310q575 315Q575 312q577 310);"/>
+                    <Edge cubics="!577 310(;577,308 577,306 577,303q577 310Q577 307q577 303);"/>
+                    <Edge cubics="!577 319(;576,319 576,318 575,318q577 319Q576 319q575 318);"/>
+                    <Edge cubics="!574 319(;574,319 577,319 577,319q574 319 577 319);"/>
+                    <Edge cubics="!575 318(;575,317 575,317 575,317q575 318Q575 317q575 317);"/>
+                    <Edge cubics="!575 317(;575,316 575,316 575,315q575 317Q575 316q575 315);"/>
+                    <Edge cubics="!975 101(;975,101 973,103 973,103q975 101 973 103);"/>
+                    <Edge cubics="!973 103(;973,103 978,103 978,103q973 103 978 103);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!975 101|973 103!973 103/978 103!978 103/978 283!978 283/840 283!840 283[808 283 789 317!789 317[774 342 770 378!770 378|770 499!770 499/968 499!968 499/946 699!946 699|770 699!770 699|770 1199!770 1199|574 1199!574 1199|574 699!574 699
+|402 699!402 699|402 499!402 499|574 499!574 499|574 319!574 319|577 319!577 319[#23F.F8 #13E.F8 575 318!575 318|575 317!575 317[575 316 575 315!575 315[575 312 577 310!577 310[577 307 577 303!577 303[577 299 581 286!581 286[580 286 580
+ 285!580 285[580 284 580 281!580 281[581 275 583 268!583 268[588 250 595 232!595 232[632 143 714 117!714 117[747 100 822 99!822 99[826 99 975 101!620 252[#26C.08 #FA.F8 621 250!621 250|620 250!620 250[620 #FA.F8 620 252"/>
+                    <Edge cubics="!770 378(;770,378 770,499 770,499q770 378 770 499);"/>
+                    <Edge cubics="!574 499(;574,499 574,319 574,319q574 499 574 319);"/>
+                    <Edge cubics="!402 499(;402,499 574,499 574,499q402 499 574 499);"/>
+                    <Edge cubics="!978 103(;978,103 978,283 978,283q978 103 978 283);"/>
+                    <Edge cubics="!770 499(;770,499 968,499 968,499q770 499 968 499);"/>
+                    <Edge cubics="!770 1199(;770,1199 574,1199 574,1199q770 1199 574 1199);"/>
+                    <Edge cubics="!574 699(;574,699 402,699 402,699q574 699 402 699);"/>
+                    <Edge cubics="!574 1199(;574,1199 574,699 574,699q574 1199 574 699);"/>
+                    <Edge cubics="!770 699(;770,699 770,1199 770,1199q770 699 770 1199);"/>
+                    <Edge cubics="!946 699(;946,699 770,699 770,699q946 699 770 699);"/>
+                    <Edge cubics="!968 499(;968,499 946,699 946,699q968 499p946 699);"/>
+                    <Edge cubics="!402 699(;402,699 402,499 402,499q402 699 402 499);"/>
+                    <Edge cubics="!840 283(;793,284 774,341 770,378q840 283Q808 283q789 317Q774 342q770 378);"/>
+                    <Edge cubics="!978 283(;978,283 840,283 840,283q978 283 840 283);"/>
+                    <Edge cubics="!580 281(;580,277 581,273 583,268q580 281 583 268);"/>
+                    <Edge cubics="!583 268(;595,220 629,144 714,117q583 268Q588 250q595 232Q632 143q714 117);"/>
+                    <Edge cubics="!714 117(;765,91 863,99 975,101q714 117Q747 100q822 99Q826 99q975 101);"/>
+                    <Edge cubics="!577 303(;577,301 578,294 581,286q577 303 581 286);"/>
+                    <Edge cubics="!620 250(620,250;620,251 620,251 620,252q620 250Q620 251q620 252);"/>
+                    <Edge cubics="!621 250(;620,250 620,250 620,250q621 250Q620 250q620 250);"/>
+                    <Edge cubics="!620 252(620,252;620,251 620,251 621,250q620 252Q620 251q621 250);"/>
+                    <Edge cubics="!581 286(;580,286 580,285 580,285q581 286Q580 286q580 285);"/>
+                    <Edge cubics="!580 285(;580,284 580,283 580,281q580 285Q580 284q580 281);"/>
+                    <Edge cubics="!575 315(;575,313 575,311 577,310q575 315Q575 312q577 310);"/>
+                    <Edge cubics="!577 310(;577,308 577,306 577,303q577 310Q577 307q577 303);"/>
+                    <Edge cubics="!577 319(;576,319 576,318 575,318q577 319Q576 319q575 318);"/>
+                    <Edge cubics="!574 319(;574,319 577,319 577,319q574 319 577 319);"/>
+                    <Edge cubics="!575 318(;575,317 575,317 575,317q575 318Q575 317q575 317);"/>
+                    <Edge cubics="!575 317(;575,316 575,316 575,315q575 317Q575 316q575 315);"/>
+                    <Edge cubics="!975 101(;975,101 973,103 973,103q975 101 973 103);"/>
+                    <Edge cubics="!973 103(;973,103 978,103 978,103q973 103 978 103);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!973 103/978 103!978 103/978 283!978 283/840 283!840 283[808 283 789 317!789 317[774 342 770 378!770 378|770 499!770 499/968 499!968 499/946 699!946 699|770 699!770 699|770 1199!770 1199|574 1199!574 1199|574 699!574 699|402 699!402 699
+|402 499!402 499|574 499!574 499|574 319!574 319|577 319!577 319[#23F.F8 #13E.F8 575 318!575 318|575 317!575 317[575 316 575 315!575 315[575 312 577 310!577 310[577 307 577 303!577 303[577 299 581 286!581 286[580 286 580 285!580 285[580
+ 284 580 281!580 281[581 275 583 268!583 268[588 250 595 232!595 232[632 143 714 117!714 117[747 100 822 99!822 99[826 99 975 101!975 101|973 103!621 250|620 250!620 250[620 #FA.F8 620 252!620 252[#26C.08 #FA.F8 621 250"/>
+                    <Edge cubics="!770 378(;770,378 770,499 770,499q770 378 770 499);"/>
+                    <Edge cubics="!574 499(;574,499 574,319 574,319q574 499 574 319);"/>
+                    <Edge cubics="!402 499(;402,499 574,499 574,499q402 499 574 499);"/>
+                    <Edge cubics="!978 103(;978,103 978,283 978,283q978 103 978 283);"/>
+                    <Edge cubics="!770 499(;770,499 968,499 968,499q770 499 968 499);"/>
+                    <Edge cubics="!770 1199(;770,1199 574,1199 574,1199q770 1199 574 1199);"/>
+                    <Edge cubics="!574 699(;574,699 402,699 402,699q574 699 402 699);"/>
+                    <Edge cubics="!574 1199(;574,1199 574,699 574,699q574 1199 574 699);"/>
+                    <Edge cubics="!770 699(;770,699 770,1199 770,1199q770 699 770 1199);"/>
+                    <Edge cubics="!946 699(;946,699 770,699 770,699q946 699 770 699);"/>
+                    <Edge cubics="!968 499(;968,499 946,699 946,699q968 499p946 699);"/>
+                    <Edge cubics="!402 699(;402,699 402,499 402,499q402 699 402 499);"/>
+                    <Edge cubics="!840 283(;793,284 774,341 770,378q840 283Q808 283q789 317Q774 342q770 378);"/>
+                    <Edge cubics="!978 283(;978,283 840,283 840,283q978 283 840 283);"/>
+                    <Edge cubics="!580 281(;580,277 581,273 583,268q580 281 583 268);"/>
+                    <Edge cubics="!583 268(;595,220 629,144 714,117q583 268Q588 250q595 232Q632 143q714 117);"/>
+                    <Edge cubics="!714 117(;765,91 863,99 975,101q714 117Q747 100q822 99Q826 99q975 101);"/>
+                    <Edge cubics="!577 303(;577,301 578,294 581,286q577 303 581 286);"/>
+                    <Edge cubics="!620 250(620,250;620,251 620,251 620,252q620 250Q620 251q620 252);"/>
+                    <Edge cubics="!621 250(;620,250 620,250 620,250q621 250Q620 250q620 250);"/>
+                    <Edge cubics="!620 252(620,252;620,251 620,251 621,250q620 252Q620 251q621 250);"/>
+                    <Edge cubics="!581 286(;580,286 580,285 580,285q581 286Q580 286q580 285);"/>
+                    <Edge cubics="!580 285(;580,284 580,283 580,281q580 285Q580 284q580 281);"/>
+                    <Edge cubics="!575 315(;575,313 575,311 577,310q575 315Q575 312q577 310);"/>
+                    <Edge cubics="!577 310(;577,308 577,306 577,303q577 310Q577 307q577 303);"/>
+                    <Edge cubics="!577 319(;576,319 576,318 575,318q577 319Q576 319q575 318);"/>
+                    <Edge cubics="!574 319(;574,319 577,319 577,319q574 319 577 319);"/>
+                    <Edge cubics="!575 318(;575,317 575,317 575,317q575 318Q575 317q575 317);"/>
+                    <Edge cubics="!575 317(;575,316 575,316 575,315q575 317Q575 316q575 315);"/>
+                    <Edge cubics="!975 101(;975,101 973,103 973,103q975 101 973 103);"/>
+                    <Edge cubics="!973 103(;973,103 978,103 978,103q973 103 978 103);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="35.3" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="35.4" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="35.4" ty="32.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="35.3" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="35.4" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="35.4" ty="32.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMDynamicText width="96.65" height="36.45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-23.35" ty="72"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Invite</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="3"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="35.3" centerPoint3DY="17.5">
+                  <matrix>
+                    <Matrix a="2" d="2.91410827636719" ty="-30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="35.4" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="35.4" ty="32.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,59 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="StartScreenMCs/ErrorNoSound" itemID="538f6223-00000310" lastModified="1427309810">
+  <timeline>
+    <DOMTimeline name="ErrorNoSound">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="960" objectHeight="600" x="0" y="-1.25" lockFlag="true">
+                  <matrix>
+                    <Matrix ty="1.25"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.498039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#000066"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="530" objectHeight="300" x="11.5" y="7.7" lockFlag="true" topLeftRadius="29.85" topRightRadius="29.85" bottomLeftRadius="29.85" bottomRightRadius="29.85">
+                  <matrix>
+                    <Matrix tx="203.5" ty="142.3"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#0033FF" alpha="0.498039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#000066"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMDynamicText name="errorSound" selected="true" fontRenderingMode="standard" left="-179.3" width="502.6" height="209.4" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00132751464844" d="1.0028076171875" tx="407.1" ty="202.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Nenhum aúdio detectado.&#xD; Favor reiniciar o jogo &#xD;quando com aúdio&#xD;presente. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.498039215686275" size="40" bitmapSize="800" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

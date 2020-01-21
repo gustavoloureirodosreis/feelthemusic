@@ -1,0 +1,502 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MultiplayerMCs/ChooseBetStyleMCs/ChooseBetLabel" itemID="53dd45c8-000005ac" lastModified="1426032461" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="ChooseBetLabel" currentFrame="3">
+      <layers>
+        <DOMLayer name="Diferentes" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="407.35" height="54.7" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Videokê</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="45" bitmapSize="900" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMDynamicText name="tax" fontRenderingMode="standard" width="70.55" height="48.6" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="229.8" ty="168.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>5</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="198.65" ty="174.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="prize" fontRenderingMode="standard" width="84.45" height="60.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="189.1" ty="82.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="50" bitmapSize="1000" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="120.6" height="36.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="97.3" ty="174.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Taxa:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="125" ty="88.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="407.35" height="54.7" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Karaokê</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="45" bitmapSize="900" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FF00" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMDynamicText name="tax" fontRenderingMode="standard" width="70.55" height="48.6" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="237" ty="168.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>10</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="198.65" ty="174.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="prize" fontRenderingMode="standard" width="84.45" height="60.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="189.1" ty="82.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>20</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="50" bitmapSize="1000" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="120.6" height="36.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="97.3" ty="174.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Taxa:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="125" ty="88.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="123.65" ty="80.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="587.8" height="54.7" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="-95.2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Talents Show</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="45" bitmapSize="900" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFF00" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMDynamicText name="tax" fontRenderingMode="standard" width="70.55" height="48.6" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="237" ty="168.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>25</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="198.65" ty="174.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="prize" fontRenderingMode="standard" width="84.45" height="60.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="189.1" ty="82.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>50</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="50" bitmapSize="1000" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="120.6" height="36.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="97.3" ty="174.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Taxa:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="125" ty="88.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="123.65" ty="80.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="48.65" ty="94.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="407.35" height="54.7" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Live Show</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="45" bitmapSize="900" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#CC6600" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMDynamicText name="tax" fontRenderingMode="standard" width="70.55" height="48.6" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="237" ty="168.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>50</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#CC6600" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="198.65" ty="174.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="prize" fontRenderingMode="standard" width="111.7" height="60.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="189.1" ty="82.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>100</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="50" bitmapSize="1000" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#CC6600" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="120.6" height="36.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="97.3" ty="174.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Taxa:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#CC6600" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="125" ty="88.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="123.65" ty="88.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="89.35" ty="96.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="72.45" ty="92.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="95.3" ty="80.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="standard" width="407.35" height="48.6" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="2" ty="2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters> Rockstar</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#990000" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMDynamicText name="tax" fontRenderingMode="standard" width="83.8" height="48.6" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="237" ty="168.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>100</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#990000" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin50.png">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="198.65" ty="174.95"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="prize" fontRenderingMode="standard" width="111.7" height="60.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.00460815429688" tx="189.1" ty="82.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>200</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="50" bitmapSize="1000" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#990000" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText fontRenderingMode="standard" width="120.6" height="36.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="97.3" ty="174.2"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Taxa:</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#990000" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="125" ty="88.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="123.65" ty="88.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="89.35" ty="96.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="72.45" ty="92.25"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="95.3" ty="80.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="49.6" ty="96.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="89.35" ty="104.85"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="117.7" ty="112.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_coin75.png">
+                  <matrix>
+                    <Matrix tx="72.45" ty="84.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Fundo" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="944.75" objectHeight="244.6" x="-265.65" y="-23.4" lockFlag="true">
+                  <matrix>
+                    <Matrix ty="13.4"/>
+                  </matrix>
+                  <fill>
+                    <RadialGradient>
+                      <matrix>
+                        <Matrix a="0.595703125" d="0.595703125" tx="206.75" ty="98.9"/>
+                      </matrix>
+                      <GradientEntry color="#0EEEF0" alpha="0.2" ratio="0"/>
+                      <GradientEntry color="#7019D9" alpha="0.298039215686275" ratio="1"/>
+                    </RadialGradient>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

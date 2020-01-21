@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Botao_Artista_neon" itemID="548354d3-000004b6" lastModified="1417893075">
+  <timeline>
+    <DOMTimeline name="Botao_Artista_neon">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!588 48[626 -59 625 -340!625 -340|-281 -340!-281 -340[#FFFEE7.B3 #FFFF70.35 -298.5 -32.5!-298.5 -32.5[-306.53125 #F.B6 -318 48!-318 48[-383 233 -611 340!-611 340|295 340!295 340[523 233 588 48"/>
+                    <Edge cubics="!295 340(;184,340 -611,340 -611,340q295 340 -611 340);"/>
+                    <Edge cubics="!-335 123(;-409,260 -611,340 -611,340q-335 123Q-381 209q-501 283Q-560 320q-611 340);"/>
+                    <Edge cubics="!-335 123(;-313,82 -302,29 -298,-32q-335 123Q-303 64q-298 -32);"/>
+                    <Edge cubics="!-298 -32(-298,-32;-290,-175 -335,-340 -335,-340q-298 -32Q-296 -92q-304 -166 -335 -340)-335,-340;"/>
+                    <Edge cubics="!625 -340(;492,-340 -90,-340 -281,-340q625 -340 -281 -340);"/>
+                    <Edge cubics="!-281 -340(;-314,-340 -335,-340 -335,-340q-281 -340 -335 -340);"/>
+                    <Edge cubics="!295 340(;636,180 626,-51 625,-340q295 340Q523 233q588 48Q626 -59q625 -340);"/>
+                    <Edge cubics="!-611 340(;-403,243 -326,119 -298,-32q-611 340Q-383 233q-318 48 -298 -32);"/>
+                    <Edge cubics="!-298 -32(;-279,-123 -281,-227 -281,-340q-298 -32Q-280 -144q-281 -340);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

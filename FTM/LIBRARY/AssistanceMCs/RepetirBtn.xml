@@ -1,0 +1,180 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/RepetirBtn" itemID="542c4642-00000329" symbolType="button" lastModified="1432923382" lastUniqueIdentifier="21">
+  <timeline>
+    <DOMTimeline name="RepetirBtn" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Ranking_base" centerPoint3DX="26.35" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="1.01434326171875" tx="-0.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.35" y="24.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RepetirBtn_stroke" centerPoint3DX="29.35" centerPoint3DY="23.4">
+                  <matrix>
+                    <Matrix a="0.449996948242188" d="0.449996948242188" tx="14.5" ty="12.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="25.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="24.85" centerPoint3DY="23.35">
+                  <matrix>
+                    <Matrix a="1.56161499023438" d="1.53459167480469" tx="26.05" ty="24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Ranking_base" centerPoint3DX="26.35" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="1.04998779296875" d="1.04998779296875" tx="-1.3" ty="-1.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.35" y="24.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="25"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="18.3" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix a="1.58831787109375" d="1.58831787109375" tx="26.25" ty="24.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-15.1" y="-13.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#EEEEEE" quality="3" strength="2"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RepetirBtn_stroke" centerPoint3DX="29.35" centerPoint3DY="23.4">
+                  <matrix>
+                    <Matrix a="0.449996948242188" d="0.449996948242188" tx="14.5" ty="12.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="25.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText width="160.85" height="17.05" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-58" ty="58.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Repeat</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="13" bitmapSize="260" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="1" blurY="1" color="#00FFFF" quality="2" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Ranking_base" centerPoint3DX="26.35" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="1.04998779296875" d="1.04998779296875" tx="-1.3" ty="-1.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.35" y="24.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="-25"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="18.3" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix a="1.58831787109375" d="1.58831787109375" tx="26.25" ty="24.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-15.1" y="-13.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.26"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RepetirBtn_stroke" centerPoint3DX="29.35" centerPoint3DY="23.4">
+                  <matrix>
+                    <Matrix a="0.449996948242188" d="0.449996948242188" tx="14.5" ty="12.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="25.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText width="160.85" height="18.25" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-58" ty="58.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Repeat</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="13" bitmapSize="260" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="1" blurY="1" color="#00FFFF" quality="2" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Ranking_base" centerPoint3DX="26.35" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="1.04998779296875" d="1.04998779296875" tx="-1.3" ty="-1.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.35" y="24.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="-25"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="18.3" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix a="1.58831787109375" d="1.58831787109375" tx="26.25" ty="24.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-15.1" y="-13.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.26"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RepetirBtn_stroke" centerPoint3DX="29.35" centerPoint3DY="23.4">
+                  <matrix>
+                    <Matrix a="0.449996948242188" d="0.449996948242188" tx="14.5" ty="12.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="25.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

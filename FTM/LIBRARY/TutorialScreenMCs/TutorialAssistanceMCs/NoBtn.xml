@@ -1,0 +1,138 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TutorialScreenMCs/TutorialAssistanceMCs/NoBtn" itemID="55083d3e-0000034e" symbolType="button" lastModified="1426603326" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="NoBtn" currentFrame="2">
+      <layers>
+        <DOMLayer name="texto" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="92.5" centerPoint3DY="29.4">
+                  <matrix>
+                    <Matrix a="0.582275390625" d="0.582275390625" tx="1.65" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156.05" y="50.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" centerPoint3DX="98.85" centerPoint3DY="28.75">
+                  <matrix>
+                    <Matrix a="0.54034423828125" d="0.542831420898438" tx="84.65" ty="30.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.6" y="-0.65"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="33.25" height="28.25" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="72" ty="17"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>No</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="30" bitmapSize="600" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="1" blurY="1" distance="2"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="92.5" centerPoint3DY="32.5">
+                  <matrix>
+                    <Matrix a="0.579986572265625" d="0.579986572265625" tx="2" ty="3.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156.05" y="50.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.23"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_strokeover" centerPoint3DX="100.55" centerPoint3DY="29.45">
+                  <matrix>
+                    <Matrix a="0.544708251953125" d="0.55865478515625" tx="85.4" ty="31.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="-0.65"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="2.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="33.25" height="28.25" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="72" ty="17"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>No</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="30" bitmapSize="600" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="1" blurY="1" distance="2"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="92.5" centerPoint3DY="30.65">
+                  <matrix>
+                    <Matrix a="0.582275390625" d="0.582275390625" tx="1.65" ty="1.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156.05" y="50.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" centerPoint3DX="98.85" centerPoint3DY="30">
+                  <matrix>
+                    <Matrix a="0.54034423828125" d="0.542831420898438" tx="84.65" ty="31.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.6" y="-0.65"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText width="33.25" height="28.25" autoExpand="true" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="72" ty="17"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>No</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="30" bitmapSize="600" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="1" blurY="1" distance="2"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

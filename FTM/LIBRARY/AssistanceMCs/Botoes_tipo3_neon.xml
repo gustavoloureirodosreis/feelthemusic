@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Botoes_tipo3_neon" itemID="54f5fd61-000005db" lastModified="1417732723" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="Botoes_tipo3_neon">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#38436E"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2836 4|-7 4!-7 4|-7 791!-7 791|151 917!151 917|3007 917!3007 917|3007 148!3007 148|2836 4"/>
+                    <Edge cubics="!-7 4(;-7,3 -7,791 -7,791q-7 4Q-7 791q-7 791);"/>
+                    <Edge cubics="!-7 791(;-7,791 151,917 151,917q-7 791 151 917);"/>
+                    <Edge cubics="!3007 917(;3007,917 3007,148 3007,148q3007 917 3007 148);"/>
+                    <Edge cubics="!3007 148(;3007,148 2836,4 2836,4q3007 148 2836 4);"/>
+                    <Edge cubics="!151 917(;151,917 3007,917 3007,917q151 917 3007 917);"/>
+                    <Edge cubics="!2836 4(;2836,4 -7,4 -7,4q2836 4 -7 4);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/3QuestsLabelMcs/ComboRate_full" itemID="54c11852-0000018a" lastModified="1422028467">
+  <timeline>
+    <DOMTimeline name="ComboRate_full">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-1.52587890625e-005" b="-0.06988525390625" c="0.0113983154296875" d="0" tx="59.1" ty="8.95"/>
+                        </matrix>
+                        <GradientEntry color="#46B7FB" ratio="0.388235294117647"/>
+                        <GradientEntry color="#6600FF" ratio="0.494117647058824"/>
+                        <GradientEntry color="#BCA8F2" ratio="0.654901960784314"/>
+                        <GradientEntry color="#00FFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2377 47S1[2377 #1.77 2331 0!2331 0|37 0!37 0[-12 0 -12 47!-12 47|-12 311!-12 311[-12 358 37 358!37 358|2331 358!2331 358[2377 #164.89 2377 311!2377 311|2377 47"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

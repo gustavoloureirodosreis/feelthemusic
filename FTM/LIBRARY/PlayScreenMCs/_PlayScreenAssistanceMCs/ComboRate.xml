@@ -1,0 +1,78 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/_PlayScreenAssistanceMCs/ComboRate" itemID="54bfded7-00000340" lastModified="1428091561" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="ComboRate">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#0033FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2362 41[2325 0 2273 0!2273 0|127 0!127 0[75 0 37 41!37 41[0 82 0 140!0 140[0 198 37 239!37 239[75 280 127 280!127 280|2273 280!2273 280[2325 280 2362 239!2362 239[2400 198 2400 140!2400 140[2400 82 2362 41"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#FF800A" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/_PlayScreenAssistanceMCs/BarraEstrelasECombo" centerPoint3DX="60" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix a="0.684738159179688" d="0.75067138671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="9.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="preenchimento" color="#9933CC" parentLayerIndex="1" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/ProgressRateFill" name="bar" centerPoint3DX="-60" centerPoint3DY="7.6">
+                  <matrix>
+                    <Matrix a="0.666671752929688" tx="-120"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90" y="7.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bar" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/_PlayScreenAssistanceMCs/BarraEstrelasECombo" centerPoint3DX="60" centerPoint3DY="7">
+                  <matrix>
+                    <Matrix a="0.684738159179688" d="0.75067138671875"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="9.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

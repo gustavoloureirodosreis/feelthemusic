@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Botoes_tipo2_base" itemID="55087a28-00000500" lastModified="1422479072">
+  <timeline>
+    <DOMTimeline name="Botoes_tipo2_base">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0027618408203125" b="-0.0224456787109375" c="0.0654754638671875" d="-0.0080718994140625" tx="-275.95" ty="56.65"/>
+                        </matrix>
+                        <GradientEntry color="#0878B7" alpha="0.6" ratio="0"/>
+                        <GradientEntry color="#6633FF" alpha="0.749019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!599 0|0 0!0 0|0 556!0 556/113 652!113 652/237 652!237 652/524 652!524 652/536 652!536 652/706 652!706 652/706 88!706 88/599 0"/>
+                    <Edge cubics="!0 0(;0,-1 0,556 0,556q0 0Q0 556q0 556);"/>
+                    <Edge cubics="!0 556(;0,556 113,652 113,652q0 556 113 652);"/>
+                    <Edge cubics="!113 652(113,652;113,652 237,652 237,652q113 652 237 652);"/>
+                    <Edge cubics="!536 652(536,652;536,652 706,652 706,652q536 652 706 652);"/>
+                    <Edge cubics="!706 652(;706,652 706,88 706,88q706 652 706 88);"/>
+                    <Edge cubics="!706 88(;706,88 599,0 599,0q706 88 599 0);"/>
+                    <Edge cubics="!524 652(524,652;524,652 536,652 536,652q524 652 536 652);"/>
+                    <Edge cubics="!237 652(;237,652 524,652 524,652q237 652 524 652);"/>
+                    <Edge cubics="!599 0(;599,0 0,0 0,0q599 0 0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

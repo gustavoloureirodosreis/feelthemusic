@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="EndScreenMCs/LetraHolder" itemID="54db833a-00000349" lastModified="1426473739" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="LetraHolder">
+      <layers>
+        <DOMLayer name="botoes" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/NextBtn" name="upLetra" symbolType="button" centerPoint3DX="710.65" centerPoint3DY="53.75">
+                  <matrix>
+                    <Matrix a="1.52587890625e-005" b="-0.599990844726563" c="0.599990844726563" d="1.52587890625e-005" tx="691.1" ty="75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/NextBtn" name="downLetra" symbolType="button" centerPoint3DX="710.65" centerPoint3DY="294.55">
+                  <matrix>
+                    <Matrix a="1.52587890625e-005" b="0.599990844726563" c="-0.599990844726563" d="1.52587890625e-005" tx="730.2" ty="273.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#4FFF4F" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="500" objectHeight="350" x="-1.5" y="-2.5" selected="true" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="1.5" ty="2.5"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#66FF00" alpha="0.498039215686275"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#9933CC" parentLayerIndex="1" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/GenericContent" name="content" centerPoint3DX="250" centerPoint3DY="5">
+                  <transformationPoint>
+                    <Point x="250" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

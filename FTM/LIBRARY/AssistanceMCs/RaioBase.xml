@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/RaioBase" itemID="54075264-000007f5" lastModified="1428071258">
+  <timeline>
+    <DOMTimeline name="RaioBase">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.209518432617188" d="0.209518432617188" tx="302.4" ty="327.6"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" ratio="0.152941176470588"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!9537 6552[9537 7995 8513 9016!8513 9016[7492 10040 6046 10040!6046 10040[4603 10040 3581 9016!3581 9016[2560 7995 2560 6552!2560 6552[2560 5108 3581 4084!3581 4084[4603 3063 6046 3063!6046 3063[7492 3063 8513 4084!8513 4084[9537 5108
+ 9537 6552"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.396163940429688" d="0.39617919921875" tx="317.9" ty="320.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="5">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!10891 1876[11476 2460 11879 3122!11879 3122|6140 6327!6140 6327|12709 7327!12709 7327[12434 9399 10891 10942!10891 10942[10597 11236 10284 11485!10284 11485|6140 6327!6140 6327|5964 6618!5964 6618|6745 12810!6745 12810[6554 12820 6358
+ 12820!6358 12820[4392 12820 2852 11791!2852 11791|5964 6618!5964 6618|5932 6358!5932 6358|5491 6425!5491 6425|516 9096!516 9096[119 8237 0 7263!0 7263|5491 6425!5491 6425|5911 6200!5911 6200|721 3322!721 3322[1097 2648 1656 2051!1656
+ 2051|5952 6178!5952 6178|6047 6128!6047 6128|5428 61!5428 61[5880 0 6358 0!6358 0[6806 0 7229 53!7229 53|6063 6285!6063 6285|6140 6327!6140 6327|10109 1202!10109 1202[10516 1500 10891 1876"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!5932 6358|5911 6200!6063 6285|5952 6178"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

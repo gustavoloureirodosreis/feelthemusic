@@ -1,0 +1,130 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="StartScreenMCs/QuestsHolder" itemID="54da3d84-0000061b" lastModified="1428348880" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="QuestsHolder" currentFrame="1">
+      <layers>
+        <DOMLayer name="mask" color="#9933CC" locked="true" autoNamed="false" visible="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="520" objectHeight="262" x="197" y="3" selected="true" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-67"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="interal_content" color="#FF800A" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/GenericContent" name="listaHolder" selected="true" centerPoint3DX="415" centerPoint3DY="12.5">
+                  <matrix>
+                    <Matrix tx="165" ty="7.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="250" y="5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="content" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00021E"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!14878 5400|1492 5400!1492 5400|1492 0!1492 0|14878 0!14878 0|14878 5400"/>
+                    <Edge cubics="!14878 0(;14878,0 14878,5400 14878,5400q14878 0 14878 5400);"/>
+                    <Edge cubics="!1492 5400(1492,5400;1492,5400 1492,0 1492,0q1492 5400 1492 0);"/>
+                    <Edge cubics="!1492 0(1492,0;1492,0 14878,0 14878,0q1492 0 14878 0);"/>
+                    <Edge cubics="!14878 5400(14878,5400;14878,5400 1492,5400 1492,5400q14878 5400 1492 5400);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestLabel" name="quest1" centerPoint3DX="418.85" centerPoint3DY="49">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="165.05" ty="7.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="143.4" y="52"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestLabel" name="quest2" centerPoint3DX="418.8" centerPoint3DY="134">
+                  <matrix>
+                    <Matrix a="0.798080444335938" d="0.79998779296875" tx="165.65" ty="92.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="143.35" y="52"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestLabel" name="quest3" centerPoint3DX="418.8" centerPoint3DY="219">
+                  <matrix>
+                    <Matrix a="0.798080444335938" d="0.79998779296875" tx="165.65" ty="177.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="143.35" y="52"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00021E"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!14878 5400|1492 5400!1492 5400|1492 0!1492 0|14878 0!14878 0|14878 5400"/>
+                    <Edge cubics="!14878 0(;14878,0 14878,5400 14878,5400q14878 0 14878 5400);"/>
+                    <Edge cubics="!1492 5400(1492,5400;1492,5400 1492,0 1492,0q1492 5400 1492 0);"/>
+                    <Edge cubics="!1492 0(1492,0;1492,0 14878,0 14878,0q1492 0 14878 0);"/>
+                    <Edge cubics="!14878 5400(14878,5400;14878,5400 1492,5400 1492,5400q14878 5400 1492 5400);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/NextBtn" name="botaoUp" symbolType="button" centerPoint3DX="694.45" centerPoint3DY="73.55">
+                  <matrix>
+                    <Matrix a="3.0517578125e-005" b="-0.75" c="0.75" d="4.57763671875e-005" tx="670" ty="100"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/NextBtn" name="botaoDown" symbolType="button" centerPoint3DX="695.55" centerPoint3DY="196.5">
+                  <matrix>
+                    <Matrix a="4.57763671875e-005" b="0.75" c="-0.75" d="3.0517578125e-005" tx="720" ty="170"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

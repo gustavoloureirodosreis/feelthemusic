@@ -1,0 +1,440 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="EndScreenMCs/EndScreen" itemID="52681cb8-000001ff" linkageExportForAS="true" linkageClassName="EndScreen" lastModified="1437523832" lastUniqueIdentifier="89">
+  <timeline>
+    <DOMTimeline name="EndScreen">
+      <layers>
+        <DOMLayer name="SongMaster_Btns" color="#9933CC" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RaioAnimado" name="prizeRay" centerPoint3DX="562.5" centerPoint3DY="548.5" isVisible="false">
+                  <matrix>
+                    <Matrix tx="244.8" ty="228"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="317.7" y="320.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RepetirBtn" name="masterRepeatBtn" symbolType="button" centerPoint3DX="713.25" centerPoint3DY="539.8" isVisible="false">
+                  <matrix>
+                    <Matrix a="1.2283935546875" d="1.237060546875" tx="681.2" ty="510"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/PrizeBtn" name="masterPrizeBtn" centerPoint3DX="549.95" centerPoint3DY="539.95" isVisible="false">
+                  <matrix>
+                    <Matrix a="1.19999694824219" d="1.19999694824219" tx="460" ty="510"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/3QuestsLabelMcs/QuestRate" name="masterProgress" centerPoint3DX="266.5" centerPoint3DY="556.15" isVisible="false">
+                  <matrix>
+                    <Matrix a="1.79998779296875" d="1.5" tx="165" ty="544.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-43.05" y="7.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="progressTXT" width="182" height="36.45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="147" ty="498.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#00FFFF" quality="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="progressPercentage" width="72.1" height="24.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="372.05" ty="544.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="20" bitmapSize="400" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/PrizeBtn" name="masterPrizeBlockBtn" centerPoint3DX="549.95" centerPoint3DY="539.95" isVisible="false">
+                  <matrix>
+                    <Matrix a="1.19999694824219" d="1.19999694824219" tx="460" ty="510"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Botoes" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RepetirBtn" name="repeatBtn" symbolType="button" centerPoint3DX="405.95" centerPoint3DY="532.8">
+                  <matrix>
+                    <Matrix a="1.2283935546875" d="1.237060546875" tx="373.9" ty="503"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/NextSongBtn" name="continueBtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.992706298828125" tx="512.9" ty="500"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/BotaoBackToMenu" name="backToMenuBtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.992706298828125" tx="225" ty="500"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/NextSongBtn" name="continueBlock" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.992706298828125" tx="512.9" ty="500"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/MostrarMais" name="nextChunkBtn" symbolType="button" centerPoint3DX="864.35" centerPoint3DY="303.05">
+                  <matrix>
+                    <Matrix a="0.5999755859375" d="0.5999755859375" tx="809" ty="284.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/QuantityBtnHolder" name="continueQuantity" centerPoint3DX="583.55" centerPoint3DY="504.85">
+                  <matrix>
+                    <Matrix a="0.744537353515625" d="0.75" tx="572.8" ty="494"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestionBtn" name="questionBtn" symbolType="button" centerPoint3DX="787.7" centerPoint3DY="294.65">
+                  <matrix>
+                    <Matrix tx="752.3" ty="262.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ShowLyricsBtn" name="showLyricsBtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.992706298828125" tx="651.85" ty="500"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ShowLyricsBtn" name="showLyricsBlock" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.992706298828125" tx="651.85" ty="500"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/QuantityBtnHolder" name="showLyricsBtnQuantity" centerPoint3DX="724.15" centerPoint3DY="504.85">
+                  <matrix>
+                    <Matrix a="0.744537353515625" d="0.75" tx="713.4" ty="494"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="NomeMusica" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="musicTF" fontRenderingMode="device" width="956.75" height="40" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="2" ty="47"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>AAAAAAAAAAAAAAAAAAAAAAAAAAAAA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.996078431372549" size="40" bitmapSize="800" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="6" blurY="6" color="#CCCCCC" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="NewRecord" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/NewRecordBadge" name="newRecordBadge" centerPoint3DX="224.6" centerPoint3DY="-63.35">
+                  <matrix>
+                    <Matrix a="0.5999755859375" d="0.5999755859375" tx="178.5" ty="-101.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Items_da_tela" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/LevelBar" name="levelBar" centerPoint3DX="772.3" centerPoint3DY="412.9">
+                  <matrix>
+                    <Matrix a="1.01495361328125" tx="681.9" ty="410"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-36.25" y="2.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/EndingLabel" name="perfect" centerPoint3DX="-100" centerPoint3DY="689.9">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.7982177734375" tx="-160" ty="630.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.5" y="75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/EndingLabel" name="good" centerPoint3DX="-99.9" centerPoint3DY="759.9">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.7982177734375" tx="-160" ty="700.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.65" y="75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/EndingLabel" name="miss" centerPoint3DX="-99.9" centerPoint3DY="899.9">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.7982177734375" tx="-160" ty="840.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.65" y="75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/EndingLabel" name="bad" centerPoint3DX="-99.9" centerPoint3DY="829.95">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.7982177734375" tx="-160" ty="770.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.65" y="75.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/EndingBigLabel" name="total" centerPoint3DX="765" centerPoint3DY="844.5">
+                  <matrix>
+                    <Matrix d="0.997772216796875" tx="570" ty="650"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="195" y="194.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/CoinsEnding" name="coinsEnding" centerPoint3DX="649.4" centerPoint3DY="332.75">
+                  <matrix>
+                    <Matrix tx="580.35" ty="305"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.05" y="27.75"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="7" blurY="7" color="#FCFA2B" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/StarsLevel" name="musicLevel" centerPoint3DX="665.55" centerPoint3DY="278.65">
+                  <matrix>
+                    <Matrix a="1.00424194335938" tx="590.2" ty="253.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.05" y="25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#0099CC"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/Star" name="star3" centerPoint3DX="723.5" centerPoint3DY="263.25">
+                  <matrix>
+                    <Matrix a="0.29998779296875" d="0.298690795898438" tx="723.5" ty="263.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/Star" name="star1" centerPoint3DX="617.3" centerPoint3DY="263.25">
+                  <matrix>
+                    <Matrix a="0.29998779296875" d="0.298690795898438" tx="617.3" ty="263.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/Star" name="star2" centerPoint3DX="671.4" centerPoint3DY="263.25">
+                  <matrix>
+                    <Matrix a="0.29998779296875" d="0.298690795898438" tx="671.4" ty="263.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/LetraHolder" name="letraHolder" centerPoint3DX="2190.7" centerPoint3DY="136.4">
+                  <matrix>
+                    <Matrix a="1.03146362304688" tx="1800" ty="125"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="378.8" y="11.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="expGain" width="100" height="30.4" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="594.7" ty="431.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="25" bitmapSize="500" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/TextNew" name="new1" centerPoint3DX="613.55" centerPoint3DY="293.75" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="585" ty="280"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.7" y="17.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/TextNew" name="new2" centerPoint3DX="668.5" centerPoint3DY="293.75" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="640" ty="280"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.65" y="17.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="EndScreenMCs/TextNew" name="new3" centerPoint3DX="723.5" centerPoint3DY="293.75" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="695" ty="280"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.65" y="17.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestLabel" name="quest1" centerPoint3DX="1362.25" centerPoint3DY="198.5">
+                  <matrix>
+                    <Matrix tx="1005" ty="138"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="342.9" y="60.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestLabel" name="quest2" centerPoint3DX="1362.25" centerPoint3DY="308.5">
+                  <matrix>
+                    <Matrix tx="1005" ty="248"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="342.9" y="60.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestLabel" name="quest3" centerPoint3DX="1362.25" centerPoint3DY="418.5">
+                  <matrix>
+                    <Matrix tx="1005" ty="358"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="342.9" y="60.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Fundo_preto" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1000" objectHeight="370" x="-0.4" y="1" selected="true" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-19.6" ty="114"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.8"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Background" name="background" centerPoint3DX="480" centerPoint3DY="300">
+                  <matrix>
+                    <Matrix a="1.00518798828125" tx="-2.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="300"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

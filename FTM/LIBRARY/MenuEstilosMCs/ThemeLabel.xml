@@ -1,0 +1,793 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuEstilosMCs/ThemeLabel" itemID="5491a7e0-000006dd" lastModified="1432241032" lastUniqueIdentifier="36">
+  <timeline>
+    <DOMTimeline name="ThemeLabel" currentFrame="4">
+      <layers>
+        <DOMLayer name="blockage" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeBlock" name="block" centerPoint3DX="140.8" centerPoint3DY="126.4" isVisible="false">
+                  <matrix>
+                    <Matrix tx="33" ty="38.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108.25" y="89.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="discos" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="amntOwned" width="39.1" height="25.1" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.01060485839844" tx="60.35" ty="58.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" alpha="0" lineSpacing="13.65" size="20" bitmapSize="400" face="Verdana" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="amntTotal" width="46.05" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.01060485839844" tx="127.9" ty="59.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" alpha="0" lineSpacing="13.65" size="20" bitmapSize="400" face="Verdana" fillColor="#D6D6D6"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMStaticText width="16.7" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.01060485839844" tx="103.9" ty="59.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>/</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" alpha="0" lineSpacing="13.65" size="20" bitmapSize="400" face="Verdana" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="153.05" centerPoint3DY="218.65">
+                  <matrix>
+                    <Matrix tx="3" ty="68.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="164.4" centerPoint3DY="218.65">
+                  <matrix>
+                    <Matrix tx="14.35" ty="68.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="175.75" centerPoint3DY="218.65">
+                  <matrix>
+                    <Matrix tx="25.7" ty="68.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="amntOwned" width="39.1" height="25.1" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.01060485839844" tx="65.1" ty="168.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="13.65" size="20" bitmapSize="400" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="amntTotal" width="46.05" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.01060485839844" tx="132.65" ty="169.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="13.65" size="20" bitmapSize="400" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMStaticText width="16.7" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.01060485839844" tx="108.65" ty="169.4"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>/</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" rotation="true" lineSpacing="13.65" size="20" face="Verdana" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="textos" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMDynamicText name="levelTxt" fontRenderingMode="standard" width="36.8" height="34.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="1.34429931640625" d="1.34429931640625" tx="156.3" ty="88.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" size="30" bitmapSize="600" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0066CC" quality="3" strength="5"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="153.05" centerPoint3DY="218.65">
+                  <matrix>
+                    <Matrix tx="3" ty="68.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="164.4" centerPoint3DY="218.65">
+                  <matrix>
+                    <Matrix tx="14.35" ty="68.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="175.75" centerPoint3DY="218.65">
+                  <matrix>
+                    <Matrix tx="25.7" ty="68.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="tema" fontRenderingMode="standard" width="99.75" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="74.7" ty="173.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Nivel 99</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tema" fontRenderingMode="standard" width="153.5" height="50" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="83.75" ty="55.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>AAAAAAAAAAAAAAAA</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tema" fontRenderingMode="standard" width="186.95" height="30" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="59" ty="63.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Rock</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" size="30" bitmapSize="600" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tema" fontRenderingMode="standard" width="186.95" height="25.4" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="62" ty="63.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Indefinite Articles</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="desenhos" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/EstrelaAzul_base" centerPoint3DX="182.3" centerPoint3DY="105.55">
+                  <matrix>
+                    <Matrix a="1.6131591796875" d="1.6131591796875" tx="125.85" ty="51"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.95" y="33.75"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                    <GlowFilter blurX="4.5" blurY="4.5" color="#0066CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="131.95" ty="100.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0081787109375" b="-0.058074951171875" c="0.0565032958984375" d="0.007965087890625" tx="88.4" ty="45.5"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.0470588235294118" ratio="0.0862745098039216"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.698039215686274" ratio="0.63921568627451"/>
+                        <GradientEntry color="#FFFFFF" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!2053 450[2045 409 2014 354!2014 354[1998 324 1958 264!1958 264[1942 240 1893 204!1893 204|1848 173!1848 173[1811 124 1783 114!1783 114[1709 87 1676 65!1676 65[1636 40 1622 34!1622 34[1589 20 1551 25!1551 25[1538 27 1423 0!1423 0[1397
+ 0 1361 4!1361 4[1316 4 1265 17!1265 17[1163 44 1130 112!1130 112[1118 136 1113 167!1113 167[1103 227 1139 258!1139 258[1151 268 1150 263!1150 263[1145 249 1142 236!1142 236[1126 174 1157 121!1157 121[1155 140 1163 178!1163 178[#48D.E8
+ #BE.98 1166 194!1166 194[#48E.04 #B5.EF 1168 174!1168 174[1175 123 1220 90!1220 90[1209 99 1199 120!1199 120[1177 162 1192 209!1192 209|1191 210!1191 210[1176 227 1167 249!1167 249[1162 261 1155 279!1155 279[1149 288 1131 299!1131 299
+[1129 300 1086 325!1086 325[1056 343 1047 350!1047 350[1035 360 1031 370!1031 370[1026 380 1033 397!1033 397[1039 411 1046 415!1046 415[1053 421 1054 435!1054 435[1056 451 1043 456!1043 456[1031 461 1030 482!1030 482[1029 492 1031 501
+!1031 501|1044 529!1044 529[1056 560 1056 571!1056 571[1055 584 1040 600!1040 600[1028 612 1015 619!1015 619[1004 624 1003 639!1003 639[1001 655 1012 663!1012 663[1023 671 1024 681!1024 681[1026 690 1020 695!1020 695[1013 701 1009 717
+!1009 717[1005 735 1012 744!1012 744[1031 765 1067 784!1067 784[1019 824 1002 828!1002 828[975 835 1030 832!1030 832[1085 828 1140 814!1140 814[1161 822 1171 830!1171 830|1175 836!1175 836[1109 893 1096 898!1096 898|1183 870!1183 870
+|1188 900!1188 900[1190 912 1184 953!1184 953[1178 994 1173 999!1173 999|1169 1004!1169 1004|1168 1004!1168 1004[1111 1032 1049 1064!1049 1064[925 1129 903 1154!903 1154[868 1194 643 1299!643 1299|630 1207!630 1207[629 1195 631 1163!631
+ 1163|633 1134!633 1134[638 1027 643 1002!643 1002[646 986 648 949!648 949|650 914!650 914[655 901 663 886!663 886[679 855 696 844!696 844[723 827 821 735!821 735[876 694 879 692!879 692[936 653 977 642!977 642[988 638 977 623!977 623
+|968 609!968 609|988 599!988 599[1009 584 1013 553!1013 553[1017 515 1012 501!1012 501[1001 473 956 466!956 466[931 462 916 461!916 461|885 462!885 462[908 433 888 419!888 419[872 408 855 415!855 415|840 424!840 424|795 462!795 462[796
+ 451 793 439!793 439[785 413 760 404!760 404[735 395 714 413!714 413|698 434!698 434[670 412 653 414!653 414[642 416 627 432!627 432|615 447!615 447[590 424 573 429!573 429[562 432 547 451!547 451[540 460 535 469!535 469|353 459!353 459
+|349 462!349 462[344 467 344 473!344 473[344 475 299 477!299 477[240 478 190 498!190 498[92 535 34 689!34 689[-54 919 81 1253!81 1253[121 1351 365 1867!365 1867|385 1862!385 1862[165 1373 108 1255!108 1255[32 1101 21 927!21 927[4 665
+ 178 534!178 534|189 529!189 529[204 525 223 529!223 529[315 551 334 545!334 545[341 544 342 555!342 555|485 564!485 564|491 584!491 584[494 614 481 661!481 661[469 708 477 749!477 749[481 770 488 781!488 781|479 814!479 814|482 818!482
+ 818[483 824 479 831!479 831[473 842 468 866!468 866[421 1092 414 1105!414 1105[393 1147 398 1176!398 1176[402 1194 395 1225!395 1225[388 1255 377 1267!377 1267[362 1283 380 1324!380 1324[384 1334 382 1346!382 1346[380 1351 381 1411!381
+ 1411[382 1475 387 1492!387 1492[390 1505 392 1533!392 1533[396 1557 415 1564!415 1564[442 1575 474 1583!474 1583[510 1591 515 1583!515 1583|524 1588!524 1588[535 1593 549 1593!549 1593[595 1595 591 1588!591 1588[591 1587 600 1590!600
+ 1590[617 1593 645 1588!645 1588[659 1586 696 1581!696 1581[734 1577 743 1577!743 1577|747 1580!747 1580[750 1585 750 1599!750 1599[750 1627 789 1692!789 1692[802 1712 836 1756!836 1756|866 1802!866 1802[897 1850 900 1863!900 1863[903
+ 1877 1396 1871!1396 1871[1642 1869 1888 1863!1888 1863[1882 1827 1884 1746!1884 1746[1888 1585 1929 1364!1929 1364|1931 1282!1931 1282|1935 1288!1935 1288[1957 1321 2034 1350!2034 1350[2073 1365 2107 1373!2107 1373[2050 1351 2012 1312
+!2012 1312[2031 1309 2050 1302!2050 1302[2030 1306 2011 1302!2011 1302[2005 1301 1997 1294!1997 1294|1995 1290!1995 1290[1981 1269 1971 1218!1971 1218|1992 1172!1992 1172[2019 1202 2033 1213!2033 1213[2041 1219 2024 1193!2024 1193[1994
+ 1148 1978 1106!1978 1106|1969 1067!1969 1067[1986 1088 2001 1099!2001 1099[2014 1109 2014 1108!2014 1108|2003 1093!2003 1093[1970 1052 1957 1015!1957 1015[1955 985 1961 957!1961 957[1971 900 1978 906!1978 906[1983 909 1995 958!1995 958
+[2028 1093 2071 1113!2071 1113[2092 1123 2099 1127!2099 1127[2090 1120 2078 1107!2078 1107[2022 1043 2023 945!2023 945|2023 894!2023 894[2074 943 2121 967!2121 967[2102 955 2070 898!2070 898|2041 844!2041 844[2025 823 2017 800!2017 800
+|2012 764!2012 764[2027 790 2055 808!2055 808[2080 881 2121 913!2121 913[2125 917 2116 900!2116 900[2095 865 2084 824!2084 824[2114 838 2141 842!2141 842[2110 826 2079 804!2079 804[2065 734 2081 655!2081 655[2131 730 2171 739!2171 739
+[2194 745 2191 740!2191 740|2166 717!2166 717[2104 662 2091 601!2091 601|2091 593!2091 593|2128 624!2128 624[2113 568 2078 524!2078 524|2067 495!2067 495[2092 493 2109 489!2109 489[2083 480 2057 468!2057 468|2053 450!2013 669[2018 637
+ 2023 668!2023 668[2036 743 2044 773!2044 773[2022 750 2025 729!2025 729[2027 711 2012 677!2012 677|2013 669!1242 136[1222 163 1223 177!1223 177|1209 191!1209 191[1221 144 1259 116!1259 116[1252 124 1242 136!832 580[840 579 844 580!844
+ 580[849 580 861 583!861 583[877 586 890 591!890 591|921 599!921 599[923 600 908 609!908 609[888 620 883 624!883 624[856 645 854 646!854 646[844 653 835 652!835 652[825 651 823 639!823 639[817 602 818 593!818 593[819 579 832 580"/>
+                    <Edge cubics="!2025 729(;2026,717 2021,698 2012,677q2025 729Q2027 711q2012 677);"/>
+                    <Edge cubics="!2012 677(;2012,675 2013,672 2013,669q2012 677 2013 669);"/>
+                    <Edge cubics="!2013 669(;2021,612 2021,688 2044,773q2013 669Q2018 637q2023 668Q2036 743q2044 773);"/>
+                    <Edge cubics="!2044 773(;2031,759 2023,744 2025,729q2044 773Q2022 750q2025 729);"/>
+                    <Edge cubics="!1223 177(;1218,182 1214,186 1209,191q1223 177 1209 191);"/>
+                    <Edge cubics="!1209 191(;1215,167 1228,139 1259,116q1209 191Q1221 144q1259 116);"/>
+                    <Edge cubics="!1259 116(;1264,112 1221,154 1223,177q1259 116Q1252 124q1242 136Q1222 163q1223 177);"/>
+                    <Edge cubics="!832 580(;842,579 844,579 861,583q832 580Q840 579q844 580Q849 580q861 583);"/>
+                    <Edge cubics="!861 583(;876,586 882,588 890,591q861 583Q877 586q890 591);"/>
+                    <Edge cubics="!890 591(890,591;905,595 915,597 921,599q890 591 921 599);"/>
+                    <Edge cubics="!921 599(921,599;925,600 895,615 883,624q921 599Q923 600q908 609Q888 620q883 624);"/>
+                    <Edge cubics="!883 624(;874,631 865,640 854,646q883 624Q856 645q854 646);"/>
+                    <Edge cubics="!854 646(;842,654 826,656 823,639q854 646Q844 653q835 652Q825 651q823 639);"/>
+                    <Edge cubics="!823 639(;816,596 813,579 832,580q823 639Q817 602q818 593Q819 579q832 580);"/>
+                    <Edge cubics="!2091 601(;2091,598 2091,596 2091,593q2091 601 2091 593);"/>
+                    <Edge cubics="!2091 593(;2111,609 2128,624 2128,624q2091 593 2128 624);"/>
+                    <Edge cubics="!2128 624(;2128,624 2113,568 2078,524q2128 624Q2113 568q2078 524);"/>
+                    <Edge cubics="!2078 524(;2074,514 2070,505 2067,495q2078 524 2067 495);"/>
+                    <Edge cubics="!2067 495(;2092,493 2109,489 2109,489q2067 495Q2092 493q2109 489);"/>
+                    <Edge cubics="!2109 489(;2109,489 2083,480 2057,468q2109 489Q2083 480q2057 468);"/>
+                    <Edge cubics="!2057 468(;2056,462 2054,456 2053,450q2057 468 2053 450);"/>
+                    <Edge cubics="!2053 450(;2041,388 1993,317 1958,264q2053 450Q2045 409q2014 354Q1998 324q1958 264);"/>
+                    <Edge cubics="!1958 264(;1932,225 1848,173 1848,173q1958 264Q1942 240q1893 204Q1848 173q1848 173);"/>
+                    <Edge cubics="!1848 173(;1848,173 1811,124 1783,114q1848 173Q1811 124q1783 114);"/>
+                    <Edge cubics="!1783 114(;1756,104 1711,88 1676,65q1783 114Q1709 87q1676 65);"/>
+                    <Edge cubics="!1676 65(;1641,43 1609,18 1551,25q1676 65Q1636 40q1622 34Q1589 20q1551 25);"/>
+                    <Edge cubics="!1551 25(;1538,27 1423,0 1423,0q1551 25Q1538 27q1423 0);"/>
+                    <Edge cubics="!1423 0(;1423,0 1397,0 1361,4q1423 0Q1397 0q1361 4);"/>
+                    <Edge cubics="!1361 4(;1361,4 1182,3 1130,112q1361 4Q1316 4q1265 17Q1163 44q1130 112);"/>
+                    <Edge cubics="!1130 112(;1130,112 1082,209 1139,258q1130 112Q1118 136q1113 167Q1103 227q1139 258);"/>
+                    <Edge cubics="!1139 258(;1176,290 1104,213 1157,121q1139 258Q1151 268q1150 263Q1145 249q1142 236Q1126 174q1157 121);"/>
+                    <Edge cubics="!1157 121(;1155,137 1158,155 1163,178q1157 121Q1155 140q1163 178);"/>
+                    <Edge cubics="!1163 178(;1175,229 1144,146 1220,90q1163 178Q1166 191q1166 194Q1166 182q1168 174Q1175 123q1220 90);"/>
+                    <Edge cubics="!1220 90(;1224,87 1168,133 1192,209q1220 90Q1209 99q1199 120Q1177 162q1192 209);"/>
+                    <Edge cubics="!1192 209(;1191,210 1191,210 1191,210q1192 209 1191 210);"/>
+                    <Edge cubics="!1191 210(;1166,238 1163,264 1155,279q1191 210Q1176 227q1167 249Q1162 261q1155 279);"/>
+                    <Edge cubics="!1155 279(;1146,293 1123,304 1086,325q1155 279Q1149 288q1131 299Q1129 300q1086 325);"/>
+                    <Edge cubics="!1086 325(;1050,347 1037,355 1031,370q1086 325Q1056 343q1047 350Q1035 360q1031 370);"/>
+                    <Edge cubics="!1031 370(;1024,385 1039,411 1046,415q1031 370Q1026 380q1033 397Q1039 411q1046 415);"/>
+                    <Edge cubics="!1046 415(;1052,420 1063,449 1043,456q1046 415Q1053 421q1054 435Q1056 451q1043 456);"/>
+                    <Edge cubics="!1043 456(;1023,464 1031,501 1031,501q1043 456Q1031 461q1030 482Q1029 492q1031 501);"/>
+                    <Edge cubics="!1031 501(;1031,501 1056,553 1056,571q1031 501Q1031 501q1044 529Q1056 560q1056 571);"/>
+                    <Edge cubics="!1056 571(;1055,590 1028,612 1015,619q1056 571Q1055 584q1040 600Q1028 612q1015 619);"/>
+                    <Edge cubics="!1015 619(;1001,625 997,652 1012,663q1015 619Q1004 624q1003 639Q1001 655q1012 663);"/>
+                    <Edge cubics="!1012 663(;1027,674 1027,689 1020,695q1012 663Q1023 671q1024 681Q1026 690q1020 695);"/>
+                    <Edge cubics="!1020 695(;1012,702 1002,731 1012,744q1020 695Q1013 701q1009 717Q1005 735q1012 744);"/>
+                    <Edge cubics="!1012 744(;1020,753 1042,771 1067,784q1012 744Q1031 765q1067 784);"/>
+                    <Edge cubics="!1067 784(;1038,808 1014,825 1002,828q1067 784Q1019 824q1002 828);"/>
+                    <Edge cubics="!1002 828(;975,835 1058,835 1140,814q1002 828Q975 835q1030 832Q1085 828q1140 814);"/>
+                    <Edge cubics="!1140 814(;1155,820 1167,827 1171,830q1140 814Q1161 822q1171 830);"/>
+                    <Edge cubics="!1171 830(;1172,831 1174,834 1175,836q1171 830 1175 836);"/>
+                    <Edge cubics="!1175 836(;1140,866 1106,894 1096,898q1175 836Q1109 893q1096 898);"/>
+                    <Edge cubics="!1183 870(;1185,882 1187,894 1188,900q1183 870 1188 900);"/>
+                    <Edge cubics="!1188 900(;1191,916 1179,993 1173,999q1188 900Q1190 912q1184 953Q1178 994q1173 999);"/>
+                    <Edge cubics="!1173 999(;1172,1001 1170,1003 1169,1004q1173 999 1169 1004);"/>
+                    <Edge cubics="!1169 1004(;1169,1004 1168,1004 1168,1004q1169 1004 1168 1004);"/>
+                    <Edge cubics="!1168 1004(;1168,1004 938,1114 903,1154q1168 1004Q1111 1032q1049 1064Q925 1129q903 1154);"/>
+                    <Edge cubics="!903 1154(;868,1194 643,1299 643,1299q903 1154Q868 1194q643 1299);"/>
+                    <Edge cubics="!643 1299(;643,1299 633,1227 630,1207q643 1299 630 1207);"/>
+                    <Edge cubics="!630 1207(;628,1187 633,1134 633,1134q630 1207Q629 1195q631 1163Q633 1134q633 1134);"/>
+                    <Edge cubics="!633 1134(;633,1134 638,1027 643,1002q633 1134Q638 1027q643 1002);"/>
+                    <Edge cubics="!643 1002(;648,977 650,914 650,914q643 1002Q646 986q648 949Q650 914q650 914);"/>
+                    <Edge cubics="!650 914(;650,914 669,862 696,844q650 914Q655 901q663 886Q679 855q696 844);"/>
+                    <Edge cubics="!696 844(;723,827 808,744 821,735q696 844Q723 827q821 735);"/>
+                    <Edge cubics="!821 735(;833,726 911,660 977,642q821 735Q876 694q879 692Q936 653q977 642);"/>
+                    <Edge cubics="!977 642(;988,638 977,623 977,623q977 642Q988 638q977 623);"/>
+                    <Edge cubics="!977 623(;977,623 968,609 968,609q977 623 968 609);"/>
+                    <Edge cubics="!968 609(;968,609 1007,602 1013,553q968 609Q968 609q988 599Q1009 584q1013 553);"/>
+                    <Edge cubics="!1013 553(;1017,518 1025,477 956,466q1013 553Q1017 515q1012 501Q1001 473q956 466);"/>
+                    <Edge cubics="!885 462(;892,453 905,431 888,419q885 462Q908 433q888 419);"/>
+                    <Edge cubics="!888 419(;863,402 840,424 840,424q888 419Q872 408q855 415Q840 424q840 424);"/>
+                    <Edge cubics="!840 424(;840,424 795,462 795,462q840 424 795 462);"/>
+                    <Edge cubics="!795 462(;795,462 800,419 760,404q795 462Q796 451q793 439Q785 413q760 404);"/>
+                    <Edge cubics="!760 404(;720,389 698,434 698,434q760 404Q735 395q714 413Q698 434q698 434);"/>
+                    <Edge cubics="!698 434(;698,434 670,412 653,414q698 434Q670 412q653 414);"/>
+                    <Edge cubics="!653 414(;635,417 615,447 615,447q653 414Q642 416q627 432Q615 447q615 447);"/>
+                    <Edge cubics="!615 447(;615,447 590,424 573,429q615 447Q590 424q573 429);"/>
+                    <Edge cubics="!573 429(;555,434 535,469 535,469q573 429Q562 432q547 451Q540 460q535 469);"/>
+                    <Edge cubics="!535 469(;535,469 353,459 353,459q535 469 353 459);"/>
+                    <Edge cubics="!353 459(;353,459 344,463 344,473q353 459Q353 459q349 462Q344 467q344 473);"/>
+                    <Edge cubics="!344 473(;344,483 275,464 190,498q344 473Q344 475q299 477Q240 478q190 498);"/>
+                    <Edge cubics="!190 498(;130,521 -130,732 81,1253q190 498Q92 535q34 689Q-54 919q81 1253);"/>
+                    <Edge cubics="!81 1253(;121,1351 365,1867 365,1867q81 1253Q121 1351q365 1867);"/>
+                    <Edge cubics="!365 1867(;365,1867 385,1862 385,1862q365 1867 385 1862);"/>
+                    <Edge cubics="!385 1862(;385,1862 165,1373 108,1255q385 1862Q165 1373q108 1255);"/>
+                    <Edge cubics="!108 1255(;50,1138 -90,737 178,534q108 1255Q32 1101q21 927Q4 665q178 534);"/>
+                    <Edge cubics="!178 534(;178,534 193,522 223,529q178 534Q178 534q189 529Q204 525q223 529);"/>
+                    <Edge cubics="!223 529(;315,551 334,545 334,545q223 529Q315 551q334 545);"/>
+                    <Edge cubics="!334 545(;341,544 342,555 342,555q334 545Q341 544q342 555);"/>
+                    <Edge cubics="!342 555(;342,555 485,564 485,564q342 555 485 564);"/>
+                    <Edge cubics="!485 564(;485,564 501,586 481,661q485 564Q485 564q491 584Q494 614q481 661);"/>
+                    <Edge cubics="!481 661(;461,736 488,781 488,781q481 661Q469 708q477 749Q481 770q488 781);"/>
+                    <Edge cubics="!488 781(;488,781 479,814 479,814q488 781 479 814);"/>
+                    <Edge cubics="!479 814(;479,814 486,819 479,831q479 814Q479 814q482 818Q483 824q479 831);"/>
+                    <Edge cubics="!479 831(;473,842 468,866 468,866q479 831Q473 842q468 866);"/>
+                    <Edge cubics="!468 866(;468,866 421,1092 414,1105q468 866Q421 1092q414 1105);"/>
+                    <Edge cubics="!414 1105(;408,1117 394,1152 398,1176q414 1105Q393 1147q398 1176);"/>
+                    <Edge cubics="!398 1176(;403,1200 391,1251 377,1267q398 1176Q402 1194q395 1225Q388 1255q377 1267);"/>
+                    <Edge cubics="!377 1267(;363,1282 376,1315 380,1324q377 1267Q362 1283q380 1324);"/>
+                    <Edge cubics="!380 1324(;384,1333 383,1341 382,1346q380 1324Q384 1334q382 1346);"/>
+                    <Edge cubics="!382 1346(;380,1351 380,1466 387,1492q382 1346Q380 1351q381 1411Q382 1475q387 1492);"/>
+                    <Edge cubics="!387 1492(;393,1518 384,1552 415,1564q387 1492Q390 1505q392 1533Q396 1557q415 1564);"/>
+                    <Edge cubics="!415 1564(;446,1577 508,1594 515,1583q415 1564Q442 1575q474 1583Q510 1591q515 1583);"/>
+                    <Edge cubics="!515 1583(;515,1583 527,1593 549,1593q515 1583Q515 1583q524 1588Q535 1593q549 1593);"/>
+                    <Edge cubics="!549 1593(;572,1594 593,1592 591,1588q549 1593Q595 1595q591 1588);"/>
+                    <Edge cubics="!591 1588(;590,1585 598,1597 645,1588q591 1588Q591 1587q600 1590Q617 1593q645 1588);"/>
+                    <Edge cubics="!645 1588(;662,1585 730,1577 743,1577q645 1588Q659 1586q696 1581Q734 1577q743 1577);"/>
+                    <Edge cubics="!743 1577(;743,1577 750,1577 750,1599q743 1577Q743 1577q747 1580Q750 1585q750 1599);"/>
+                    <Edge cubics="!750 1599(;750,1622 777,1672 789,1692q750 1599Q750 1627q789 1692);"/>
+                    <Edge cubics="!789 1692(;802,1712 836,1756 836,1756q789 1692Q802 1712q836 1756);"/>
+                    <Edge cubics="!836 1756(;836,1756 895,1842 900,1863q836 1756Q836 1756q866 1802Q897 1850q900 1863);"/>
+                    <Edge cubics="!900 1863(;905,1885 1888,1863 1888,1863q900 1863Q903 1877q1396 1871Q1642 1869q1888 1863);"/>
+                    <Edge cubics="!1888 1863(;1888,1863 1863,1717 1929,1364q1888 1863Q1882 1827q1884 1746Q1888 1585q1929 1364);"/>
+                    <Edge cubics="!1929 1364(;1929,1364 1931,1282 1931,1282q1929 1364 1931 1282);"/>
+                    <Edge cubics="!1931 1282(;1932,1284 1933,1286 1935,1288q1931 1282 1935 1288);"/>
+                    <Edge cubics="!1935 1288(;1970,1340 2107,1373 2107,1373q1935 1288Q1957 1321q2034 1350Q2073 1365q2107 1373);"/>
+                    <Edge cubics="!2107 1373(;2107,1373 2050,1351 2012,1312q2107 1373Q2050 1351q2012 1312);"/>
+                    <Edge cubics="!2012 1312(;2031,1309 2050,1302 2050,1302q2012 1312Q2031 1309q2050 1302);"/>
+                    <Edge cubics="!2050 1302(;2050,1302 2030,1306 2011,1302q2050 1302Q2030 1306q2011 1302);"/>
+                    <Edge cubics="!2011 1302(;2007,1301 2002,1298 1997,1294q2011 1302Q2005 1301q1997 1294);"/>
+                    <Edge cubics="!1997 1294(;1996,1293 1995,1292 1995,1290q1997 1294 1995 1290);"/>
+                    <Edge cubics="!1995 1290(;1985,1275 1977,1248 1971,1218q1995 1290Q1981 1269q1971 1218);"/>
+                    <Edge cubics="!1971 1218(;1971,1218 1992,1172 1992,1172q1971 1218 1992 1172);"/>
+                    <Edge cubics="!1992 1172(;2007,1189 2021,1204 2033,1213q1992 1172Q2019 1202q2033 1213);"/>
+                    <Edge cubics="!2033 1213(;2054,1228 2007,1181 1978,1106q2033 1213Q2041 1219q2024 1193Q1994 1148q1978 1106);"/>
+                    <Edge cubics="!1978 1106(;1978,1106 1969,1067 1969,1067q1978 1106 1969 1067);"/>
+                    <Edge cubics="!1969 1067(;1980,1081 1991,1092 2001,1099q1969 1067Q1986 1088q2001 1099);"/>
+                    <Edge cubics="!2001 1099(;2040,1129 1981,1082 1957,1015q2001 1099Q2014 1109q2014 1108Q2014 1108q2003 1093Q1970 1052q1957 1015);"/>
+                    <Edge cubics="!1957 1015(;1956,996 1957,977 1961,957q1957 1015Q1955 985q1961 957);"/>
+                    <Edge cubics="!1961 957(;1990,791 1986,1073 2071,1113q1961 957Q1971 900q1978 906Q1983 909q1995 958Q2028 1093q2071 1113);"/>
+                    <Edge cubics="!2071 1113(;2156,1153 2021,1113 2023,945q2071 1113Q2092 1123q2099 1127Q2090 1120q2078 1107Q2022 1043q2023 945);"/>
+                    <Edge cubics="!2023 945(;2023,926 2023,910 2023,894q2023 945 2023 894);"/>
+                    <Edge cubics="!2023 894(;2074,943 2139,979 2121,967q2023 894Q2074 943q2121 967);"/>
+                    <Edge cubics="!2121 967(;2091,947 2041,844 2041,844q2121 967Q2102 955q2070 898Q2041 844q2041 844);"/>
+                    <Edge cubics="!2041 844(;2030,830 2022,815 2017,800q2041 844Q2025 823q2017 800);"/>
+                    <Edge cubics="!2017 800(;2015,787 2014,775 2012,764q2017 800 2012 764);"/>
+                    <Edge cubics="!2012 764(;2023,783 2038,797 2055,808q2012 764Q2027 790q2055 808);"/>
+                    <Edge cubics="!2055 808(;2069,849 2090,889 2121,913q2055 808Q2080 881q2121 913);"/>
+                    <Edge cubics="!2121 913(;2137,926 2103,895 2084,824q2121 913Q2125 917q2116 900Q2095 865q2084 824);"/>
+                    <Edge cubics="!2084 824(;2114,838 2141,842 2141,842q2084 824Q2114 838q2141 842);"/>
+                    <Edge cubics="!2141 842(;2141,842 2110,826 2079,804q2141 842Q2110 826q2079 804);"/>
+                    <Edge cubics="!2079 804(;2071,764 2069,714 2081,655q2079 804Q2065 734q2081 655);"/>
+                    <Edge cubics="!2081 655(;2109,697 2141,732 2171,739q2081 655Q2131 730q2171 739);"/>
+                    <Edge cubics="!2171 739(;2240,757 2114,709 2091,601q2171 739Q2194 745q2191 740Q2191 740q2166 717Q2104 662q2091 601);"/>
+                    <Edge cubics="!916 461(;916,461 885,462 885,462q916 461 885 462);"/>
+                    <Edge cubics="!956 466(;939,463 926,462 916,461q956 466Q931 462q916 461);"/>
+                    <Edge cubics="!1096 898(;1096,898 1183,870 1183,870q1096 898 1183 870);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="-0.00018310546875" b="-0.052001953125" c="0.0410308837890625" d="-0.000152587890625" tx="203.9" ty="157.15"/>
+                            </matrix>
+                            <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                            <GradientEntry color="#FFFFFF" alpha="0.749019607843137" ratio="0.564705882352941"/>
+                            <GradientEntry color="#FFFFFF" ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4786 2341[4859 2395 4863 2424!4863 2424|4866 2456!4866 2456[4866 2464 4797 2558!4797 2558[4738 2638 4722 2654!4722 2654|4722 2656!4722 2656[4729 2665 4706 2665!4706 2665[4691 2668 4666 2658!4666 2658[4660 2653 4657 2650!4657 2650[4622
+ 2701 4495 2847!4495 2847[4347 3015 4322 3038!4322 3038[4327 3065 4330 3066!4330 3066[4346 3092 4394 3089!4394 3089[4442 3086 4467 3055!4467 3055[4493 3024 4528 3021!4528 3021[4626 3013 4633 3104!4633 3104[4647 3297 4458 3354!4458 3354
+[4257 3421 4239 3501!4239 3501[4163 3816 4011 3884!4011 3884[4010 3875 4013 3868!4013 3868[3926 3905 3826 3912!3826 3912[3454 3941 3411 3573!3411 3573[3314 3626 3194 3626!3194 3626[3005 3626 2871 3493!2871 3493[2738 3361 2738 3173!2738
+ 3173[2738 2986 2871 2853!2871 2853[2908 2817 2949 2791!2949 2791|2875 2692!2875 2692[2872 2687 2871 2683!2871 2683[2802 2691 2721 2691!2721 2691[2572 2691 2465 2660!2465 2660[2358 2630 2358 2586!2358 2586[2358 2542 2465 2511!2465 2511
+[2572 2481 2721 2481!2721 2481[2871 2481 2978 2511!2978 2511[3085 2542 3085 2586!3085 2586[3085 2630 2978 2660!2978 2660[2960 2665 2940 2670!2940 2670[2927 2673 2913 2676!2913 2676|2983 2771!2983 2771[3078 2721 3194 2721!3194 2721[3314
+ 2721 3411 2774!3411 2774[3469 2812 3471 2814!3471 2814|3471 2677!3471 2677[3464 2677 3459 2678!3459 2678[3459 2677 3459 2675!3459 2675[3342 2671 3253 2645!3253 2645[3146 2615 3146 2571!3146 2571[3146 2527 3253 2496!3253 2496[3360 2466
+ 3509 2466!3509 2466[3659 2466 3766 2496!3766 2496[3873 2527 3873 2571!3873 2571[3873 2615 3766 2645!3766 2645[3660 2676 3511 2676!3511 2676|3511 2848!3511 2848[3514 2851 3516 2853!3516 2853[3632 2969 3648 3126!3648 3126[3737 3083 3868
+ 3035!3868 3035[3901 3004 3925 2972!3925 2972|3925 2976!3925 2976[3928 2962 3931 2955!3931 2955[3939 2916 3933 2847!3933 2847[3939 2789 3983 2744!3983 2744[4071 2650 4154 2649!4154 2649[4238 2650 4243 2725!4243 2725[4245 2746 4223 2806
+!4223 2806[4197 2869 4199 2901!4199 2901[4199 2907 4210 2914!4210 2914[4220 2925 4235 2938!4235 2938[4259 2890 4383 2755!4383 2755[4493 2632 4560 2575!4560 2575[4536 2557 4513 2510!4513 2510[4512 2489 4696 2309!4696 2309[4699 2311 4704
+ 2311!4704 2311[4734 2299 4786 2341"/>
+                        <Edge cubics="!4513 2510(;4512,2489 4663,2345 4696,2309q4513 2510Q4512 2489q4696 2309);"/>
+                        <Edge cubics="!4722 2656(;4722,2656 4729,2665 4706,2665q4722 2656Q4729 2665q4706 2665);"/>
+                        <Edge cubics="!4863 2424(;4863,2424 4866,2456 4866,2456q4863 2424 4866 2456);"/>
+                        <Edge cubics="!4866 2456(;4866,2464 4844,2496 4797,2558q4866 2456Q4866 2464q4797 2558);"/>
+                        <Edge cubics="!4786 2341(;4837,2377 4860,2405 4863,2424q4786 2341Q4859 2395q4863 2424);"/>
+                        <Edge cubics="!4696 2309(;4699,2311 4699,2311 4704,2311q4696 2309Q4699 2311q4704 2311);"/>
+                        <Edge cubics="!4560 2575(;4547,2562 4528,2541 4513,2510q4560 2575Q4536 2557q4513 2510);"/>
+                        <Edge cubics="!4722 2654(;4722,2654 4722,2654 4722,2656q4722 2654Q4722 2654q4722 2656);"/>
+                        <Edge cubics="!4706 2665(;4700,2666 4685,2662 4666,2658q4706 2665Q4691 2668q4666 2658);"/>
+                        <Edge cubics="!4666 2658(;4663,2653 4660,2653 4657,2650q4666 2658Q4660 2653q4657 2650);"/>
+                        <Edge cubics="!4657 2650(;4635,2684 4581,2750 4495,2847q4657 2650Q4622 2701q4495 2847);"/>
+                        <Edge cubics="!4383 2755(;4455,2673 4516,2614 4560,2575q4383 2755Q4493 2632q4560 2575);"/>
+                        <Edge cubics="!4797 2558(;4758,2610 4732,2641 4722,2654q4797 2558Q4738 2638q4722 2654);"/>
+                        <Edge cubics="!4704 2311(;4720,2299 4751,2311 4786,2341q4704 2311Q4734 2299q4786 2341);"/>
+                        <Edge cubics="!4243 2725(;4248,2775 4194,2839 4199,2901q4243 2725Q4245 2746q4223 2806Q4197 2869q4199 2901);"/>
+                        <Edge cubics="!3931 2955(;3943,2882 3913,2815 3983,2744q3931 2955Q3939 2916q3933 2847Q3939 2789q3983 2744);"/>
+                        <Edge cubics="!3983 2744(;4107,2610 4237,2634 4243,2725q3983 2744Q4071 2650q4154 2649Q4238 2650q4243 2725);"/>
+                        <Edge cubics="!4199 2901(;4198,2904 4200,2911 4210,2914q4199 2901Q4199 2907q4210 2914);"/>
+                        <Edge cubics="!4210 2914(;4220,2923 4224,2930 4235,2938q4210 2914Q4220 2925q4235 2938);"/>
+                        <Edge cubics="!4235 2938(;4250,2907 4300,2844 4383,2755q4235 2938Q4259 2890q4383 2755);"/>
+                        <Edge cubics="!4394 3089(;4489,3081 4447,3027 4528,3021q4394 3089Q4442 3086q4467 3055Q4493 3024q4528 3021);"/>
+                        <Edge cubics="!4528 3021(;4610,3015 4630,3068 4633,3104q4528 3021Q4626 3013q4633 3104);"/>
+                        <Edge cubics="!4633 3104(;4659,3449 4282,3296 4239,3501q4633 3104Q4647 3297q4458 3354Q4257 3421q4239 3501);"/>
+                        <Edge cubics="!3868 3035(;3890,3012 3910,2994 3925,2972q3868 3035Q3901 3004q3925 2972);"/>
+                        <Edge cubics="!3925 2972(;3925,2972 3925,2972 3925,2976q3925 2972Q3925 2972q3925 2976);"/>
+                        <Edge cubics="!3925 2976(;3929,2965 3928,2962 3931,2955q3925 2976Q3928 2962q3931 2955);"/>
+                        <Edge cubics="!4322 3038(;4327,3056 4327,3065 4330,3066q4322 3038Q4327 3065q4330 3066);"/>
+                        <Edge cubics="!4330 3066(;4338,3084 4362,3091 4394,3089q4330 3066Q4346 3092q4394 3089);"/>
+                        <Edge cubics="!4495 2847(;4397,2957 4341,3025 4322,3038q4495 2847Q4347 3015q4322 3038);"/>
+                        <Edge cubics="!3648 3126(;3709,3097 3782,3067 3868,3035q3648 3126Q3737 3083q3868 3035);"/>
+                        <Edge cubics="!4239 3501(;4189,3711 4109,3837 4011,3884q4239 3501Q4163 3816q4011 3884);"/>
+                        <Edge cubics="!4013 3868(;4009,3871 4010,3880 4011,3884q4013 3868Q4010 3875q4011 3884);"/>
+                        <Edge cubics="!4013 3868(;3956,3893 3891,3907 3826,3912q4013 3868Q3926 3905q3826 3912);"/>
+                        <Edge cubics="!3509 2466(;3609,2466 3695,2476 3766,2496q3509 2466Q3659 2466q3766 2496);"/>
+                        <Edge cubics="!3253 2645(;3182,2625 3146,2600 3146,2571q3253 2645Q3146 2615q3146 2571);"/>
+                        <Edge cubics="!3146 2571(;3146,2542 3182,2517 3253,2496q3146 2571Q3146 2527q3253 2496);"/>
+                        <Edge cubics="!3253 2496(;3324,2476 3410,2466 3509,2466q3253 2496Q3360 2466q3509 2466);"/>
+                        <Edge cubics="!3766 2496(;3837,2517 3873,2542 3873,2571q3766 2496Q3873 2527q3873 2571);"/>
+                        <Edge cubics="!3873 2571(;3873,2600 3837,2625 3766,2645q3873 2571Q3873 2615q3766 2645);"/>
+                        <Edge cubics="!3826 3912(;3578,3931 3440,3818 3411,3573q3826 3912Q3454 3941q3411 3573);"/>
+                        <Edge cubics="!3516 2853(;3593,2930 3637,3021 3648,3126q3516 2853Q3632 2969q3648 3126);"/>
+                        <Edge cubics="!3194 3626(;3068,3626 2960,3582 2871,3493q3194 3626Q3005 3626q2871 3493);"/>
+                        <Edge cubics="!2871 3493(;2782,3405 2738,3298 2738,3173q2871 3493Q2738 3361q2738 3173);"/>
+                        <Edge cubics="!2738 3173(;2738,3048 2782,2942 2871,2853q2738 3173Q2738 2986q2871 2853);"/>
+                        <Edge cubics="!3411 3573(;3346,3608 3274,3626 3194,3626q3411 3573Q3314 3626q3194 3626);"/>
+                        <Edge cubics="!2721 2481(;2821,2481 2907,2491 2978,2511q2721 2481Q2871 2481q2978 2511);"/>
+                        <Edge cubics="!2465 2660(;2394,2640 2358,2615 2358,2586q2465 2660Q2358 2630q2358 2586);"/>
+                        <Edge cubics="!2358 2586(;2358,2557 2394,2532 2465,2511q2358 2586Q2358 2542q2465 2511);"/>
+                        <Edge cubics="!2465 2511(;2536,2491 2622,2481 2721,2481q2465 2511Q2572 2481q2721 2481);"/>
+                        <Edge cubics="!2721 2691(;2622,2691 2536,2681 2465,2660q2721 2691Q2572 2691q2465 2660);"/>
+                        <Edge cubics="!2978 2511(;3049,2532 3085,2557 3085,2586q2978 2511Q3085 2542q3085 2586);"/>
+                        <Edge cubics="!3085 2586(;3085,2615 3049,2640 2978,2660q3085 2586Q3085 2630q2978 2660);"/>
+                        <Edge cubics="!2978 2660(;2966,2663 2953,2667 2940,2670q2978 2660Q2960 2665q2940 2670);"/>
+                        <Edge cubics="!3459 2675(;3459,2676 3459,2677 3459,2678q3459 2675Q3459 2677q3459 2678);"/>
+                        <Edge cubics="!3194 2721(;3274,2721 3346,2739 3411,2774q3194 2721Q3314 2721q3411 2774);"/>
+                        <Edge cubics="!3459 2675(;3381,2672 3312,2662 3253,2645q3459 2675Q3342 2671q3253 2645);"/>
+                        <Edge cubics="!2871 2683(;2872,2686 2873,2689 2875,2692q2871 2683Q2872 2687q2875 2692);"/>
+                        <Edge cubics="!2940 2670(;2931,2672 2922,2674 2913,2676q2940 2670Q2927 2673q2913 2676);"/>
+                        <Edge cubics="!2871 2853(;2896,2829 2922,2808 2949,2791q2871 2853Q2908 2817q2949 2791);"/>
+                        <Edge cubics="!2875 2692(;2875,2692 2949,2791 2949,2791q2875 2692 2949 2791);"/>
+                        <Edge cubics="!2983 2771(;2983,2771 2913,2676 2913,2676q2983 2771 2913 2676);"/>
+                        <Edge cubics="!2871 2683(;2825,2688 2775,2691 2721,2691q2871 2683Q2802 2691q2721 2691);"/>
+                        <Edge cubics="!2983 2771(;3046,2738 3117,2721 3194,2721q2983 2771Q3078 2721q3194 2721);"/>
+                        <Edge cubics="!3511 2848(;3513,2850 3515,2852 3516,2853q3511 2848Q3514 2851q3516 2853);"/>
+                        <Edge cubics="!3511 2848(;3511,2848 3511,2676 3511,2676q3511 2848 3511 2676);"/>
+                        <Edge cubics="!3766 2645(;3695,2666 3610,2676 3511,2676q3766 2645Q3660 2676q3511 2676);"/>
+                        <Edge cubics="!3471 2677(;3471,2677 3471,2814 3471,2814q3471 2677 3471 2814);"/>
+                        <Edge cubics="!3459 2678(;3462,2677 3466,2677 3471,2677q3459 2678Q3464 2677q3471 2677);"/>
+                        <Edge cubics="!3471 2814(;3469,2812 3412,2773 3411,2774q3471 2814Q3469 2812q3411 2774);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.599990844726563" d="0.599990844726563" tx="292.55" ty="70.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-153.5" y="140.85"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="0.0797119140625" d="0.052642822265625" tx="-154.25" ty="142"/>
+                            </matrix>
+                            <GradientEntry color="#8CE8FF" ratio="0.227450980392157"/>
+                            <GradientEntry color="#0099FF" ratio="0.505882352941176"/>
+                            <GradientEntry color="#89E7FF" ratio="0.847058823529412"/>
+                          </LinearGradient>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!-4329 2481/-4351 2508!-4351 2508/-3962 3651!-3962 3651/-2783.5 3150!-2783.5 3150|-2784 3214!-2784 3214|-2593 3126!-2593 3126|-2584 3070.5!-2584 3070.5|-1789 2783!-1789 2783|-1829 2744!-1829 2744[-1833 2734 -1834 2714!-1834 2714[#FFF8D3.07
+ #A73.5F -1823.5 2630"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!-1823.5 2630[-1833 2638 -1894 2653!-1894 2653[-1965 2669 -2051 2681!-2051 2681[-2223 2704 -2470 2875!-2470 2875[-2594 2961 -2683 3042!-2683 3042|-2723 3024!-2723 3024[-2778 3007 -2856 3010!-2856 3010[-3104 3021 -3480 3234!-3480 3234
+|-3644 3333!-3644 3333[-3817 3433 -3866 3440!-3866 3440/-3866.5 3439!-3866.5 3439[-3872 3478 -3876 3493!-3876 3493[-3884 3525 -3901 3560!-3901 3560[-3922 3588 -3942 3605!-3942 3605/-2764 3100!-2764 3100|-2759 3167!-2759 3167|-2631 3112
+!-2631 3112|-2623 3050!-2623 3050/-1823 2757"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!-1823.5 2630|-1823 2629!-1823 2629/-2699 1988!-2699 1988[-2758 2011 -2840 2001!-2840 2001[-2941 1989 -3027 2005!-3027 2005[-3173 2032 -3302 2102!-3302 2102[-3366 2137 -3402 2166"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!-3402 2166/-2683 3042"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!-3402 2166|-3543 2155!-3543 2155[-3714 2153 -3866 2201!-3866 2201[-3982 2238 -4121 2307!-4121 2307[-4212 2353 -4255 2346.5"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!-4255 2346.5/-3866.5 3439"/>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="
+!-4255 2346.5/-4256 2347!-4256 2347[-4271 2410 -4301 2452!-4301 2452[-4317 2473 -4329 2481"/>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="
+!-4329 2481/-3942 3605"/>
+                    <Edge cubics="!-1789 2783(;-1789,2783 -1829,2744 -1829,2744q-1789 2783 -1829 2744);"/>
+                    <Edge cubics="!-2593 3126(;-2593,3126 -2584,3071 -2584,3071q-2593 3126 -2584 3071);"/>
+                    <Edge cubics="!-2764 3100(;-2764,3100 -2759,3167 -2759,3167q-2764 3100 -2759 3167);"/>
+                    <Edge cubics="!-2783 3150(;-2783,3150 -2784,3214 -2784,3214q-2783 3150 -2784 3214);"/>
+                    <Edge cubics="!-2759 3167(;-2759,3167 -2631,3112 -2631,3112q-2759 3167 -2631 3112);"/>
+                    <Edge cubics="!-2784 3214(;-2784,3214 -2593,3126 -2593,3126q-2784 3214 -2593 3126);"/>
+                    <Edge cubics="!-2699 1988(;-2699,1988 -1823,2629 -1823,2629q-2699 1988 -1823 2629);"/>
+                    <Edge cubics="!-2623 3050(;-2623,3050 -1823,2757 -1823,2757q-2623 3050 -1823 2757);"/>
+                    <Edge cubics="!-2584 3071(;-2584,3071 -1789,2783 -1789,2783q-2584 3071 -1789 2783);"/>
+                    <Edge cubics="!-4351 2508(;-4351,2508 -4329,2481 -4329,2481q-4351 2508 -4329 2481);"/>
+                    <Edge cubics="!-4329 2481(;-4329,2481 -3942,3605 -3942,3605q-4329 2481 -3942 3605);"/>
+                    <Edge cubics="!-4351 2508(;-4351,2508 -3962,3651 -3962,3651q-4351 2508 -3962 3651);"/>
+                    <Edge cubics="!-3942 3605(;-3942,3605 -2764,3100 -2764,3100q-3942 3605 -2764 3100);"/>
+                    <Edge cubics="!-3962 3651(;-3962,3651 -2783,3150 -2783,3150q-3962 3651 -2783 3150);"/>
+                    <Edge cubics="!-4329 2481(;-4329,2481 -4280,2448 -4256,2347q-4329 2481Q-4317 2473q-4301 2452Q-4271 2410q-4256 2347);"/>
+                    <Edge cubics="!-2683 3042(;-2683,3042 -2327,2718 -2051,2681q-2683 3042Q-2594 2961q-2470 2875Q-2223 2704q-2051 2681);"/>
+                    <Edge cubics="!-1823 2630(;-1823,2630 -1823,2629 -1823,2629q-1823 2630 -1823 2629);"/>
+                    <Edge cubics="!-1834 2714(;-1836,2688 -1832,2660 -1823,2630q-1834 2714Q-1837 2675q-1823 2630);"/>
+                    <Edge cubics="!-1829 2744(;-1832,2737 -1833,2727 -1834,2714q-1829 2744Q-1833 2734q-1834 2714);"/>
+                    <Edge cubics="!-1823 2630(;-1834,2639 -1926,2664 -2051,2681q-1823 2630Q-1833 2638q-1894 2653Q-1965 2669q-2051 2681);"/>
+                    <Edge cubics="!-2683 3042(;-2683,3042 -2879,2893 -3480,3234q-2683 3042Q-2683 3042q-2723 3024Q-2778 3007q-2856 3010Q-3104 3021q-3480 3234);"/>
+                    <Edge cubics="!-3942 3605(;-3924,3590 -3918,3583 -3901,3560q-3942 3605Q-3922 3588q-3901 3560);"/>
+                    <Edge cubics="!-3480 3234(;-3480,3234 -3788,3429 -3866,3440q-3480 3234Q-3480 3234q-3644 3333Q-3817 3433q-3866 3440);"/>
+                    <Edge cubics="!-3901 3560(;-3876,3507 -3872,3475 -3866,3439q-3901 3560Q-3884 3525q-3876 3493Q-3872 3478q-3866 3439);"/>
+                    <Edge cubics="!-3866 3439(;-3866,3439 -3866,3440 -3866,3440q-3866 3439 -3866 3440);"/>
+                    <Edge cubics="!-2631 3112(;-2631,3112 -2625,3049 -2623,3050q-2631 3112Q-2631 3112q-2623 3050);"/>
+                    <Edge cubics="!-3402 2166(;-3402,2166 -3260,2048 -3027,2005q-3402 2166Q-3366 2137q-3302 2102Q-3173 2032q-3027 2005);"/>
+                    <Edge cubics="!-3027 2005(;-2852,1972 -2814,2033 -2699,1988q-3027 2005Q-2941 1989q-2840 2001Q-2758 2011q-2699 1988);"/>
+                    <Edge cubics="!-3402 2166(;-3402,2166 -3623,2124 -3866,2201q-3402 2166Q-3402 2166q-3543 2155Q-3714 2153q-3866 2201);"/>
+                    <Edge cubics="!-4121 2307(;-4182,2338 -4226,2351 -4255,2347q-4121 2307Q-4212 2353q-4255 2347);"/>
+                    <Edge cubics="!-4256 2347(;-4256,2347 -4255,2347 -4255,2347q-4256 2347 -4255 2347);"/>
+                    <Edge cubics="!-4255 2347(;-4255,2347 -3866,3439 -3866,3439q-4255 2347 -3866 3439);"/>
+                    <Edge cubics="!-3866 2201(;-3943,2226 -4028,2261 -4121,2307q-3866 2201Q-3982 2238q-4121 2307);"/>
+                    <Edge cubics="!-3402 2166(;-3402,2166 -2683,3042 -2683,3042q-3402 2166 -2683 3042);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="stroke" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ThemeLabel_stroke_glowable" name="stroke" centerPoint3DX="263.55" centerPoint3DY="199.2">
+                  <matrix>
+                    <Matrix tx="152.2" ty="118.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="corte_base" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="1.52587890625e-005" b="-0.09918212890625" c="0.097991943359375" d="3.0517578125e-005" tx="182.45" ty="104.65"/>
+                        </matrix>
+                        <GradientEntry color="#5CB0F5" alpha="0" ratio="0"/>
+                        <GradientEntry color="#8BC7F8" alpha="0.349019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!4885 1020S1[4867 905 4849 893!4849 893/3568 893!3568 893/2288 3984!2288 3984/4719 3984!4719 3984[4769 3632 4820 3177!4820 3177[4920 2268 4921 1758!4921 1758[4922 1248 4885 1020"/>
+                    <Edge cubics="!2288 3984(;2288,3984 4719,3984 4719,3984q2288 3984 4719 3984);"/>
+                    <Edge cubics="!4921 1758(;4922,942 4849,893 4849,893q4921 1758Q4922 1248q4885 1020Q4867 905q4849 893);"/>
+                    <Edge cubics="!4849 893(;4849,893 3568,893 3568,893q4849 893p3568 893);"/>
+                    <Edge cubics="!3568 893(;3568,893 2288,3984 2288,3984q3568 893p2288 3984);"/>
+                    <Edge cubics="!4719 3984(;4719,3984 4920,2574 4921,1758q4719 3984Q4769 3632q4820 3177Q4920 2268q4921 1758);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="base" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0118865966796875" b="-0.0965423583984375" c="0.0982666015625" d="-0.012115478515625" tx="-411.4" ty="190.95"/>
+                        </matrix>
+                        <GradientEntry color="#35157F" alpha="0.949019607843137" ratio="0"/>
+                        <GradientEntry color="#0878B7" alpha="0.749019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!4954 1754[4954 2182 4858 3159!4858 3159[4809 3647 4761 4050!4761 4050/1317 4050!1317 4050[1321 3507 1304 2901!1304 2901[1272 1687 1173 1367!1173 1367[1164 1327 1156 1303!1156 1303[1140 1258 1117 1250!1117 1250[1121 1247 1125 1244!1125
+ 1244[1253 1145 1667 1045!1667 1045[2523 840 4047 840!4047 840/4300 840!4300 840/4946 840!4946 840[#1359.1 #412.37 4954 1600!4954 1600[4954 #689.E2 4954 1754"/>
+                    <Edge cubics="!4946 840(;4946,840 4952,1035 4954,1600q4946 840Q4953 1042q4954 1600);"/>
+                    <Edge cubics="!4954 1600(4954,1600;4954,1649 4954,1700 4954,1754q4954 1600 4954 1754)4954,1754;"/>
+                    <Edge cubics="!4761 4050(;4761,4050 1317,4050 1317,4050q4761 4050 1317 4050);"/>
+                    <Edge cubics="!1173 1367(;1165,1340 1154,1262 1117,1250q1173 1367Q1164 1327q1156 1303Q1140 1258q1117 1250);"/>
+                    <Edge cubics="!4047 840(;4047,840 4300,840 4300,840q4047 840 4300 840);"/>
+                    <Edge cubics="!4300 840(;4300,840 4946,840 4946,840q4300 840 4946 840);"/>
+                    <Edge cubics="!1117 1250(;1120,1248 1122,1246 1125,1244q1117 1250Q1121 1247q1125 1244);"/>
+                    <Edge cubics="!1125 1244(;1210,1178 1391,1112 1667,1045q1125 1244Q1253 1145q1667 1045);"/>
+                    <Edge cubics="!1667 1045(;2238,908 3031,840 4047,840q1667 1045Q2523 840q4047 840);"/>
+                    <Edge cubics="!1317 4050(;1317,4050 1331,1879 1173,1367q1317 4050Q1321 3507q1304 2901Q1272 1687q1173 1367);"/>
+                    <Edge cubics="!4954 1754(;4954,2439 4761,4050 4761,4050q4954 1754Q4954 2182q4858 3159Q4809 3647q4761 4050);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

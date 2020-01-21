@@ -1,0 +1,267 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuEstilosMCs/ChooseMenuEstilosSort" itemID="548206ec-0000039d" lastModified="1434653005" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="ChooseMenuEstilosSort" currentFrame="4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botao_Artista" name="sort2" centerPoint3DX="77" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix tx="77" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botao_Estilo" name="sort1" centerPoint3DX="33.7" centerPoint3DY="17.45">
+                  <matrix>
+                    <Matrix tx="33.7" ty="20.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="-3.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botao_Nivel" name="sort3" centerPoint3DX="122.6" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix tx="123" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="500" objectHeight="37" x="0" y="0" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
+                  <matrix>
+                    <Matrix ty="37"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="250" y="18.5"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0.898039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3">
+                      <fill>
+                        <RadialGradient>
+                          <matrix>
+                            <Matrix a="0.306884765625" d="0.306884765625" tx="250" ty="18.5"/>
+                          </matrix>
+                          <GradientEntry color="#0400FF" ratio="0"/>
+                          <GradientEntry color="#FF75F3" ratio="0.517647058823529"/>
+                          <GradientEntry color="#02FFFF" ratio="1"/>
+                        </RadialGradient>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText width="449.6" height="28.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="41"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.8" y="14.45"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ordenado por artistas</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="25" bitmapSize="500" face="ArialRoundedMTBold" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/BotaoSkip" name="toggleBtn" symbolType="button" centerPoint3DX="488.2" centerPoint3DY="65.2">
+                  <matrix>
+                    <Matrix a="0.399993896484375" d="0.399993896484375" tx="465" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="500" objectHeight="37" x="0" y="0" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
+                  <matrix>
+                    <Matrix ty="37"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="250" y="18.5"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0.898039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3">
+                      <fill>
+                        <RadialGradient>
+                          <matrix>
+                            <Matrix a="0.306884765625" d="0.306884765625" tx="250" ty="18.5"/>
+                          </matrix>
+                          <GradientEntry color="#0400FF" ratio="0"/>
+                          <GradientEntry color="#FF75F3" ratio="0.517647058823529"/>
+                          <GradientEntry color="#02FFFF" ratio="1"/>
+                        </RadialGradient>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText width="449.6" height="28.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="41"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.8" y="14.45"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ordenado por estilos</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="25" face="ArialRoundedMTBold" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/BotaoSkip" name="toggleBtn" symbolType="button" centerPoint3DX="488.2" centerPoint3DY="65.2">
+                  <matrix>
+                    <Matrix a="0.399993896484375" d="0.399993896484375" tx="465" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="500" objectHeight="37" x="0" y="0" lockFlag="true" topLeftRadius="10" topRightRadius="10" bottomLeftRadius="10" bottomRightRadius="10">
+                  <matrix>
+                    <Matrix ty="37"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="250" y="18.5"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0.898039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="3">
+                      <fill>
+                        <RadialGradient>
+                          <matrix>
+                            <Matrix a="0.306884765625" d="0.306884765625" tx="250" ty="18.5"/>
+                          </matrix>
+                          <GradientEntry color="#0400FF" ratio="0"/>
+                          <GradientEntry color="#FF75F3" ratio="0.517647058823529"/>
+                          <GradientEntry color="#02FFFF" ratio="1"/>
+                        </RadialGradient>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMStaticText width="449.6" height="28.9" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="41"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="224.8" y="14.45"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ordenado por compradas</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="25" face="ArialRoundedMTBold" fillColor="#333333"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/BotaoSkip" name="toggleBtn" symbolType="button" centerPoint3DX="488.2" centerPoint3DY="65.2">
+                  <matrix>
+                    <Matrix a="0.399993896484375" d="0.399993896484375" tx="465" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="1000" objectHeight="50" x="-26" y="-17.75" lockFlag="true" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5" bottomRightRadius="5">
+                  <matrix>
+                    <Matrix tx="-224" ty="7.1"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0.567916870117188" b="0.221588134765625" c="-0.011077880859375" d="0.028411865234375" tx="474" ty="7.25"/>
+                      </matrix>
+                      <GradientEntry color="#6B41A8" alpha="0.101960784313725" ratio="0.00392156862745098"/>
+                      <GradientEntry color="#985CA3" ratio="0.262745098039216"/>
+                      <GradientEntry color="#3677D3" ratio="0.52156862745098"/>
+                      <GradientEntry color="#8A3AAF" ratio="0.796078431372549"/>
+                      <GradientEntry color="#000BFF" alpha="0.101960784313725" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMDynamicText name="estiloDesafioTxt" left="-135.5" width="785.75" height="36.45" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="19.85" ty="-6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Escolha um estilo para o desafio</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botao_Artista" name="sort2" centerPoint3DX="131.4" centerPoint3DY="-170.1">
+                  <matrix>
+                    <Matrix tx="131.4" ty="-170.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botao_Estilo" name="sort1" centerPoint3DX="42.7" centerPoint3DY="-169.65">
+                  <matrix>
+                    <Matrix tx="42.7" ty="-166.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.25" y="-3.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botao_Nivel" name="sort3" centerPoint3DX="85.25" centerPoint3DY="-170.1">
+                  <matrix>
+                    <Matrix tx="85.65" ty="-170.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

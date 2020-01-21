@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/SugerirMusica_forma" itemID="54074797-00000317" symbolType="button" lastModified="1409763223" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="SugerirMusica_forma">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/SugerirMusica_formaMC" centerPoint3DX="30" centerPoint3DY="30">
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/SugerirMusica_formaMC" centerPoint3DX="30" centerPoint3DY="30">
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.2"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/SugerirMusica_formaMC" centerPoint3DX="30" centerPoint3DY="30">
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.2"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/SugerirMusica_formaMC" centerPoint3DX="30" centerPoint3DY="30">
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

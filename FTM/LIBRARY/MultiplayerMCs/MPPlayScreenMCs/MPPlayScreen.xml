@@ -1,0 +1,521 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MultiplayerMCs/MPPlayScreenMCs/MPPlayScreen" itemID="53bc25cc-000002fe" linkageExportForAS="true" linkageClassName="multiplayer.MPPlayScreen" lastModified="1429221004" lastUniqueIdentifier="58">
+  <timeline>
+    <DOMTimeline name="MPPlayScreen">
+      <layers>
+        <DOMLayer name="LeaveBtn" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/LeaveBtn" name="leaveBtn" symbolType="button" isVisible="false">
+                  <matrix>
+                    <Matrix a="1.06195068359375" d="1.1494140625" tx="920" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="EndingMsg" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/MPPlayScreenMCs/MPEndingMsg" name="endingMsg" selected="true" centerPoint3DX="418" centerPoint3DY="746.45">
+                  <matrix>
+                    <Matrix a="0.75555419921875" d="0.75555419921875" tx="310" ty="650"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="142.95" y="127.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ContinueBtn" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Continue" name="continueBtn" symbolType="button">
+                  <matrix>
+                    <Matrix tx="388" ty="455"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="GrayBlockEnd" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/MPPlayScreenMCs/GrayProtectionEnding" name="grayProtection" centerPoint3DX="480" centerPoint3DY="300" isVisible="false">
+                  <transformationPoint>
+                    <Point x="480" y="300"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PauseProtection/Names" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="you" fontRenderingMode="device" width="156" height="23.15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="42" ty="42"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Fulano1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.901960784313726" size="20" bitmapSize="400" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="opponent" fontRenderingMode="device" width="156" height="23.15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="762" ty="42"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Fulano2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.901960784313726" size="20" bitmapSize="400" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Skip" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/BotaoSkipPlayScreen" name="skipButton" symbolType="button" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.9794921875" tx="445" ty="240"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BlockControles" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/UnactiveBtn" name="blackBtn" centerPoint3DX="472.5" centerPoint3DY="488.5">
+                  <matrix>
+                    <Matrix tx="240" ty="450"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Controle" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/WordBtn2" name="wBtn1" centerPoint3DX="302.05" centerPoint3DY="471.85">
+                  <matrix>
+                    <Matrix a="0.993270874023438" d="0.999984741210938" tx="240" ty="450"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/WordBtn2" name="wBtn2" centerPoint3DX="467.85" centerPoint3DY="471.8">
+                  <matrix>
+                    <Matrix a="0.993270874023438" d="0.999984741210938" tx="405.85" ty="450"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/WordBtn2" name="wBtn3" centerPoint3DX="633" centerPoint3DY="471.75">
+                  <matrix>
+                    <Matrix a="0.993270874023438" d="0.999984741210938" tx="571" ty="450"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PrecisionTexts" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/WordBtn" name="youPrecisionText" centerPoint3DX="-29.95" centerPoint3DY="-69.95">
+                  <matrix>
+                    <Matrix a="0.980392456054688" d="0.754730224609375" tx="-173.15" ty="-123.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="268.85" y="-1.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/WordBtn" name="opPrecisionText" centerPoint3DX="1137.6" centerPoint3DY="-58.75">
+                  <matrix>
+                    <Matrix a="0.980392456054688" d="0.754730224609375" tx="994.4" ty="-112.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="268.85" y="-1.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Caixinha_do_video" color="#9933CC" locked="true" autoNamed="false" layerType="folder"/>
+        <DOMLayer name="GlowSpots2" color="#4FFF4F" parentLayerIndex="9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/MomentLine" name="goodLine" centerPoint3DX="782.45" centerPoint3DY="213.75">
+                  <matrix>
+                    <Matrix d="1.846435546875" tx="482.5" ty="205"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.75"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/GlowSpotSecondary" name="glowSpotSecondary" centerPoint3DX="484.65" centerPoint3DY="329.95" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="2" tx="484.65" ty="330.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/MomentLine" name="badLine" centerPoint3DX="782.45" centerPoint3DY="97.6">
+                  <matrix>
+                    <Matrix d="1.72337341308594" tx="482.5" ty="89"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask_glowSpots2base" color="#4F80FF" parentLayerIndex="9" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.698039215686274"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5056 7969|14256 7969!14256 7969[14307 7969 14352 7963!14352 7963[14360 7961 14368 7960!14368 7960[14656 7908 14656 7569!14656 7569|14656 -2000!14656 -2000|4656 -2000!4656 -2000|4656 7594!4656 7594[4667 7913 4949 7961!4949 7961[4954 7961
+ 4959 7962!4959 7962[5004 7969 5056 7969"/>
+                    <Edge cubics="!4656 7594(;4664,7809 4763,7931 4949,7961q4656 7594Q4667 7913q4949 7961);"/>
+                    <Edge cubics="!14368 7960(14368,7960;14560,7926 14656,7795 14656,7569q14368 7960Q14656 7908q14656 7569);"/>
+                    <Edge cubics="!5056 7969(5056,7969;5056,7969 14256,7969 14256,7969q5056 7969 14256 7969);"/>
+                    <Edge cubics="!4959 7962(;4989,7967 5021,7969 5056,7969q4959 7962Q5004 7969q5056 7969);"/>
+                    <Edge cubics="!4949 7961(4949,7961;4952,7961 4956,7961 4959,7962q4949 7961Q4954 7961q4959 7962);"/>
+                    <Edge cubics="!14256 7969(;14290,7969 14322,7967 14352,7963q14256 7969Q14307 7969q14352 7963);"/>
+                    <Edge cubics="!14352 7963(14352,7963;14357,7962 14363,7961 14368,7960q14352 7963Q14360 7961q14368 7960);"/>
+                    <Edge cubics="!14656 -2000(14656,-2000;14656,-2000 4656,-2000 4656,-2000q14656 -2000 4656 -2000);"/>
+                    <Edge cubics="!14656 7569(;14656,7569 14656,-2000 14656,-2000q14656 7569 14656 -2000)14656,-2000;"/>
+                    <Edge cubics="!4656 -2000(4656,-2000;4656,-2000 4656,7594 4656,7594q4656 -2000 4656 7594)4656,7594;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="glowSpots2base" color="#FF4F4F" parentLayerIndex="11" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/GlowSpotSecondary" name="perfectLine" centerPoint3DX="483" centerPoint3DY="329.95">
+                  <matrix>
+                    <Matrix a="1.00006103515625" d="2" tx="483" ty="330.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="GlowSpots1" color="#808080" parentLayerIndex="9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/GlowSpot" name="glowSpotPerfect" centerPoint3DX="782.55" centerPoint3DY="264.15" isVisible="false">
+                  <matrix>
+                    <Matrix d="1.84625244140625" tx="482.5" ty="205"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/GlowSpot" name="glowSpotGood" centerPoint3DX="782.5" centerPoint3DY="144" isVisible="false">
+                  <matrix>
+                    <Matrix d="1.84642028808594" tx="482.5" ty="85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/GlowSpot" name="glowSpotBad" centerPoint3DX="782.5" centerPoint3DY="44.35" isVisible="false">
+                  <matrix>
+                    <Matrix d="1.384765625" tx="482.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pointers" color="#9933CC" parentLayerIndex="9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/MPPlayScreenMCs/SimboloP1P2" name="pointerP2" centerPoint3DX="250.05" centerPoint3DY="412.4">
+                  <matrix>
+                    <Matrix a="1.20001220703125" d="1.20001220703125" tx="229.05" ty="395"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.5" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/MPPlayScreenMCs/SimboloP1P2" name="pointerP1" centerPoint3DX="256.25" centerPoint3DY="412.4">
+                  <matrix>
+                    <Matrix a="1.19999694824219" d="1.19999694824219" tx="235.25" ty="395"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.5" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/MPPlayScreenMCs/SimboloP1P2" name="pointerNameP1" centerPoint3DX="121.85" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix tx="104.35" ty="14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.5" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/MPPlayScreenMCs/SimboloP1P2" name="pointerNameP2" centerPoint3DX="840.2" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix tx="822.7" ty="14"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.5" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask_timeBar" color="#4FFFFF" parentLayerIndex="9" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.698039215686274"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!14362 7962[14370 7960 14378 7959!14378 7959[14546 7929 14617 7800!14617 7800|4716 7800!4716 7800[4787 7931 4959 7960!4959 7960[4964 7960 4969 7961!4969 7961[5014 7968 5066 7968!5066 7968|14266 7968!14266 7968[14317 7968 14362 7962"/>
+                    <Edge cubics="!4716 7800(4716,7800;4765,7890 4846,7942 4959,7960q4716 7800Q4787 7931q4959 7960);"/>
+                    <Edge cubics="!14378 7959(14378,7959;14489,7939 14568,7887 14617,7800q14378 7959Q14546 7929q14617 7800);"/>
+                    <Edge cubics="!5066 7968(5066,7968;5066,7968 14266,7968 14266,7968q5066 7968 14266 7968);"/>
+                    <Edge cubics="!4969 7961(;4999,7966 5031,7968 5066,7968q4969 7961Q5014 7968q5066 7968);"/>
+                    <Edge cubics="!4959 7960(4959,7960;4962,7960 4966,7960 4969,7961q4959 7960Q4964 7960q4969 7961);"/>
+                    <Edge cubics="!14266 7968(;14300,7968 14332,7966 14362,7962q14266 7968Q14317 7968q14362 7962);"/>
+                    <Edge cubics="!14362 7962(14362,7962;14367,7961 14373,7960 14378,7959q14362 7962Q14370 7960q14378 7959);"/>
+                    <Edge cubics="!14617 7800(;14617,7800 4716,7800 4716,7800q14617 7800 4716 7800);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="timeBar" color="#FF4FFF" parentLayerIndex="15" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/TimeBar" name="timeBar" centerPoint3DX="477.5" centerPoint3DY="407.25">
+                  <matrix>
+                    <Matrix a="0.983642578125" d="1.219482421875" tx="237.5" ty="392"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="12.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SubSpace" color="#FF800A" parentLayerIndex="9" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/SubSpace" name="subSpace" centerPoint3DX="482.5" centerPoint3DY="200">
+                  <matrix>
+                    <Matrix d="0.7957763671875" tx="232.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="250" y="251.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.48828125"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask_YoutubeClip" color="#9933CC" parentLayerIndex="9" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="500" objectHeight="357.1" x="233.15" y="29.45" lockFlag="true">
+                  <matrix>
+                    <Matrix tx="-0.65" ty="0.55"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#33FF00" alpha="0.498039215686275"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="YoutubeClip" color="#9933CC" parentLayerIndex="18" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/VideoContainer" name="videoContainer" centerPoint3DX="284.95" centerPoint3DY="66.55">
+                  <matrix>
+                    <Matrix tx="235" ty="29"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="49.95" y="37.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="PerformanceRate" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/PerformanceRate" name="yourDancer" centerPoint3DX="100.15" centerPoint3DY="494.9">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="20" ty="522.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.4" y="-28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/PerformanceRate" name="opDancer" centerPoint3DX="859.85" centerPoint3DY="494.9">
+                  <matrix>
+                    <Matrix a="-0.899993896484375" d="0.899993896484375" tx="940" ty="522.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.45" y="-28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Score/Stars" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="yourPoints" fontRenderingMode="device" width="384.4" height="115.75" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.598495483398438" d="0.598495483398438" tx="3.75" ty="67.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="98.35" y="37.7"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.901960784313726" size="90" bitmapSize="1800" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMDynamicText name="opPoints" fontRenderingMode="device" width="396.25" height="115.75" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.598495483398438" d="0.598495483398438" tx="721.2" ty="66.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="110.2" y="37.7"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.901960784313726" size="90" bitmapSize="1800" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="background" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Background" centerPoint3DX="480" centerPoint3DY="300">
+                  <matrix>
+                    <Matrix a="1.00518798828125" tx="-2.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="480" y="300"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

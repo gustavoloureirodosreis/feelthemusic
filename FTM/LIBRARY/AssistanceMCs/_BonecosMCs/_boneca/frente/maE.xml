@@ -1,0 +1,63 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/_BonecosMCs/_boneca/frente/maE" itemID="5476f592-0000143a" lastModified="1426616370" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="maE">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/_BonecosMCs/_boneca/frente/Mãos Frente/maE_Fechada" name="mao" selected="true" centerPoint3DX="25.4" centerPoint3DY="26.35">
+                  <matrix>
+                    <Matrix tx="25.4" ty="26.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.25" y="-0.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/_BonecosMCs/_boneca/frente/Mãos Frente/maE_Aberta" name="mao" centerPoint3DX="42.7" centerPoint3DY="26.9">
+                  <matrix>
+                    <Matrix tx="42.7" ty="26.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/_BonecosMCs/_boneca/frente/Mãos Frente/maE_Estendida" name="mao" centerPoint3DX="19.45" centerPoint3DY="29.35">
+                  <matrix>
+                    <Matrix a="0.985641479492188" b="-0.168838500976563" c="0.168838500976563" d="0.985641479492188" tx="19.55" ty="29.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="1.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/_BonecosMCs/_boneca/frente/Mãos Frente/maE_Rock" name="mao" centerPoint3DX="46.45" centerPoint3DY="41.75">
+                  <matrix>
+                    <Matrix tx="46.45" ty="41.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-1.45" y="-0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

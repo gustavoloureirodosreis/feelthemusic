@@ -1,0 +1,111 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MultiplayerMCs/MenuMPmusicScreenMCs/MenuMPmusicLabel" itemID="53baddc8-00000554" lastModified="1426018625" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="MenuMPmusicLabel">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="musicSinger" fontRenderingMode="standard" width="256.45" height="62.8" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="23.6" ty="26.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Banda Banda Banda Banda Banda Banda</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="25" bitmapSize="500" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="musicSong" fontRenderingMode="standard" width="208.5" height="113.35" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="52.6" ty="112.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Musica Musica Musica Musica Musica Musica&#xD;Musica Musica</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#00FFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.017822265625" b="-0.144805908203125" c="0.14739990234375" d="-0.0181732177734375" tx="-700.85" ty="223.8"/>
+                        </matrix>
+                        <GradientEntry color="#35157F" alpha="0.949019607843137" ratio="0"/>
+                        <GradientEntry color="#0878B7" alpha="0.749019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="3.0517578125e-005" b="-0.148773193359375" c="0.146987915039063" d="4.57763671875e-005" tx="193.6" ty="94.85"/>
+                        </matrix>
+                        <GradientEntry color="#35157F" alpha="0.949019607843137" ratio="0"/>
+                        <GradientEntry color="#0878B7" alpha="0.749019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!5753 519.5[#1675.FB #B2.6C 5744 7!5744 7/4395 7!4395 7[2109 7 825 315!825 315[204 465 12 613!12 613[6 618 0 622!0 622[35 634 59 702!59 702[71 738 84 798!84 798[233 1278 281 3099!281 3099[306 4008 300 4822!300 4822/5466 4822!5466 4822
+[#155F.34 #12AA.58 5476.5 4734"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!5476.5 4734/1830 4734!1830 4734/3750 97!3750 97/5672 97!5672 97[5699 115 5726 288!5726 288[#166D.CE #182.44 5753 519.5"/>
+                    <Edge fillStyle0="2" edges="
+!5476.5 4734/5477 4734!5477 4734[5552 4206 5628 3523!5628 3523[5778 2160 5780 1395!5780 1395[#1694.B6 #351.CD 5753 519.5"/>
+                    <Edge cubics="!5744 7(;5744,7 5749,149 5753,520q5744 7 5753 520);"/>
+                    <Edge cubics="!5753 520(;5755,731 5756,1011 5756,1378q5753 520 5756 1378);"/>
+                    <Edge cubics="!5466 4822(;5466,4822 300,4822 300,4822q5466 4822 300 4822);"/>
+                    <Edge cubics="!84 798(;72,757 56,640 0,622q84 798Q71 738q59 702Q35 634q0 622);"/>
+                    <Edge cubics="!4395 7(;4395,7 5744,7 5744,7p4395 7 5744 7);"/>
+                    <Edge cubics="!0 622(;5,619 8,616 12,613q0 622Q6 618q12 613);"/>
+                    <Edge cubics="!12 613(;140,514 411,415 825,315q12 613Q204 465q825 315);"/>
+                    <Edge cubics="!825 315(;1682,109 2871,7 4395,7q825 315Q2109 7q4395 7);"/>
+                    <Edge cubics="!300 4822(;300,4822 321,1566 84,798q300 4822Q306 4008q281 3099Q233 1278q84 798);"/>
+                    <Edge cubics="!5756 1378(;5756,2292 5527,4301 5477,4734q5756 1378Q5756 2020q5612 3486 5477 4734);"/>
+                    <Edge cubics="!5477 4734(5477,4734;5470,4792 5466,4822 5466,4822q5477 4734 5466 4822)5466,4822;"/>
+                    <Edge cubics="!1830 4734(;1830,4734 5477,4734 5477,4734q1830 4734 5477 4734);"/>
+                    <Edge cubics="!5780 1395(;5780,996 5769,719 5753,520q5780 1395Q5781 850q5753 520);"/>
+                    <Edge cubics="!5753 520(;5721,131 5672,97 5672,97q5753 520Q5742 386q5726 288Q5699 115q5672 97);"/>
+                    <Edge cubics="!5672 97(;5672,97 3750,97 3750,97q5672 97p3750 97);"/>
+                    <Edge cubics="!3750 97(;3750,97 1830,4734 1830,4734q3750 97p1830 4734);"/>
+                    <Edge cubics="!5477 4734(;5477,4734 5778,2619 5780,1395q5477 4734Q5552 4206q5628 3523Q5778 2160q5780 1395);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ThemeLabel_stroke_glowable" name="stroke" centerPoint3DX="314.05" centerPoint3DY="240.75">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="147" ty="120.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

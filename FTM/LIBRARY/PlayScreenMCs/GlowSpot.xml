@@ -1,0 +1,179 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/GlowSpot" itemID="53332066-0000029f" lastModified="1430948119">
+  <timeline>
+    <DOMTimeline name="GlowSpot" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5000 -650|5000 650!5000 650|-5000 650!-5000 650|-5000 -650!-5000 -650|-4605 -650!-4605 -650[179 -650 4962 -650!4962 -650[4972 -650 4982 -650!4982 -650|5000 -650"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FF00"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient spreadMethod="reflect">
+                        <matrix>
+                          <Matrix a="0.305145263671875" d="0.0396728515625" tx="2.95"/>
+                        </matrix>
+                        <GradientEntry color="#00FF00" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#12FF00" alpha="0" ratio="0.0392156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <LinearGradient spreadMethod="reflect">
+                        <matrix>
+                          <Matrix a="-0.305145263671875" d="0.0396728515625" tx="-2.95"/>
+                        </matrix>
+                        <GradientEntry color="#00FF00" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#12FF00" alpha="0" ratio="0.0392156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4940 650S1|5000 650!5000 650|5000 -650!5000 -650|4940 -650"/>
+                    <Edge fillStyle0="1" fillStyle1="3" edges="!4940 -650S3|4940 650"/>
+                    <Edge fillStyle0="3" edges="!4940 -650S1|4300 -650!4300 -650|4300 650!4300 650|4940 650"/>
+                    <Edge fillStyle1="1" edges="!-4940 650S2|-5000 650!-5000 650|-5000 -650!-5000 -650|-4940 -650"/>
+                    <Edge fillStyle1="2" edges="!-4940 -650S2|-4300 -650!-4300 -650|-4300 650!-4300 650|-4940 650"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!-4940 -650S3|-4940 650"/>
+                    <Edge cubics="!-5000 650(-5000,650;-5000,650 -5000,-650 -5000,-650q-5000 650 -5000 -650);"/>
+                    <Edge cubics="!-5000 -650(;-5000,-650 -4940,-650 -4940,-650q-5000 -650 -4940 -650);"/>
+                    <Edge cubics="!-4940 650(;-4940,650 -5000,650 -5000,650q-4940 650 -5000 650);"/>
+                    <Edge cubics="!-4940 650(;-4940,650 -4940,-650 -4940,-650q-4940 650 -4940 -650);"/>
+                    <Edge cubics="!-4940 -650(;-4940,-650 -4300,-650 -4300,-650q-4940 -650 -4300 -650);"/>
+                    <Edge cubics="!-4300 650(-4300,650;-4300,650 -4940,650 -4940,650q-4300 650 -4940 650);"/>
+                    <Edge cubics="!-4300 -650(;-4300,-650 -4300,650 -4300,650q-4300 -650 -4300 650);"/>
+                    <Edge cubics="!5000 650(5000,650;5000,650 5000,-650 5000,-650q5000 650 5000 -650);"/>
+                    <Edge cubics="!5000 -650(;5000,-650 4940,-650 4940,-650q5000 -650 4940 -650);"/>
+                    <Edge cubics="!4940 650(;4940,650 5000,650 5000,650q4940 650 5000 650);"/>
+                    <Edge cubics="!4940 650(;4940,650 4940,-650 4940,-650q4940 650 4940 -650);"/>
+                    <Edge cubics="!4940 -650(;4940,-650 4300,-650 4300,-650q4940 -650 4300 -650);"/>
+                    <Edge cubics="!4300 650(4300,650;4300,650 4940,650 4940,650q4300 650 4940 650);"/>
+                    <Edge cubics="!4300 -650(;4300,-650 4300,650 4300,650q4300 -650 4300 650);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient spreadMethod="reflect">
+                        <matrix>
+                          <Matrix a="-0.305145263671875" d="0.0396728515625" tx="-2.95"/>
+                        </matrix>
+                        <GradientEntry color="#FFFF00" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFF00" alpha="0" ratio="0.0392156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <LinearGradient spreadMethod="reflect">
+                        <matrix>
+                          <Matrix a="0.305145263671875" d="0.0396728515625" tx="2.95"/>
+                        </matrix>
+                        <GradientEntry color="#FFFF00" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FFFF00" alpha="0" ratio="0.0392156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4940 650S1|5000 650!5000 650|5000 -650!5000 -650|4940 -650"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!4940 -650S3|4940 650"/>
+                    <Edge fillStyle0="2" edges="!4940 -650S1|4300 -650!4300 -650|4300 650!4300 650|4940 650"/>
+                    <Edge fillStyle1="1" edges="!-4940 650S2|-5000 650!-5000 650|-5000 -650!-5000 -650|-4940 -650"/>
+                    <Edge fillStyle1="3" edges="!-4940 -650S2|-4300 -650!-4300 -650|-4300 650!-4300 650|-4940 650"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!-4940 -650S3|-4940 650"/>
+                    <Edge cubics="!-5000 650(-5000,650;-5000,650 -5000,-650 -5000,-650q-5000 650 -5000 -650);"/>
+                    <Edge cubics="!-5000 -650(;-5000,-650 -4940,-650 -4940,-650q-5000 -650 -4940 -650);"/>
+                    <Edge cubics="!-4940 650(;-4940,650 -5000,650 -5000,650q-4940 650 -5000 650);"/>
+                    <Edge cubics="!-4940 650(;-4940,650 -4940,-650 -4940,-650q-4940 650 -4940 -650);"/>
+                    <Edge cubics="!-4940 -650(;-4940,-650 -4300,-650 -4300,-650q-4940 -650 -4300 -650);"/>
+                    <Edge cubics="!-4300 650(-4300,650;-4300,650 -4940,650 -4940,650q-4300 650 -4940 650);"/>
+                    <Edge cubics="!-4300 -650(;-4300,-650 -4300,650 -4300,650q-4300 -650 -4300 650);"/>
+                    <Edge cubics="!5000 650(5000,650;5000,650 5000,-650 5000,-650q5000 650 5000 -650);"/>
+                    <Edge cubics="!5000 -650(;5000,-650 4940,-650 4940,-650q5000 -650 4940 -650);"/>
+                    <Edge cubics="!4940 650(;4940,650 5000,650 5000,650q4940 650 5000 650);"/>
+                    <Edge cubics="!4940 650(;4940,650 4940,-650 4940,-650q4940 650 4940 -650);"/>
+                    <Edge cubics="!4940 -650(;4940,-650 4300,-650 4300,-650q4940 -650 4300 -650);"/>
+                    <Edge cubics="!4300 650(4300,650;4300,650 4940,650 4940,650q4300 650 4940 650);"/>
+                    <Edge cubics="!4300 -650(;4300,-650 4300,650 4300,650q4300 -650 4300 650);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF7E00"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient spreadMethod="reflect">
+                        <matrix>
+                          <Matrix a="-0.305145263671875" d="0.0396728515625" tx="-2.95"/>
+                        </matrix>
+                        <GradientEntry color="#FF7E00" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FF7E00" alpha="0" ratio="0.0392156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <LinearGradient spreadMethod="reflect">
+                        <matrix>
+                          <Matrix a="0.305145263671875" d="0.0396728515625" tx="2.95"/>
+                        </matrix>
+                        <GradientEntry color="#FF7E00" alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#FF7E00" alpha="0" ratio="0.0392156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4940 650|5000 650!5000 650|5000 -650!5000 -650|4940 -650"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!4940 -650|4940 650"/>
+                    <Edge fillStyle0="2" edges="!4940 -650|4300 -650!4300 -650|4300 650!4300 650|4940 650"/>
+                    <Edge fillStyle1="1" edges="!-4940 650|-5000 650!-5000 650|-5000 -650!-5000 -650|-4940 -650"/>
+                    <Edge fillStyle1="3" edges="!-4940 -650|-4300 -650!-4300 -650|-4300 650!-4300 650|-4940 650"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!-4940 -650|-4940 650"/>
+                    <Edge cubics="!-5000 650(-5000,650;-5000,650 -5000,-650 -5000,-650q-5000 650 -5000 -650);"/>
+                    <Edge cubics="!-5000 -650(;-5000,-650 -4940,-650 -4940,-650q-5000 -650 -4940 -650);"/>
+                    <Edge cubics="!-4940 650(;-4940,650 -5000,650 -5000,650q-4940 650 -5000 650);"/>
+                    <Edge cubics="!-4940 650(;-4940,650 -4940,-650 -4940,-650q-4940 650 -4940 -650);"/>
+                    <Edge cubics="!-4940 -650(;-4940,-650 -4300,-650 -4300,-650q-4940 -650 -4300 -650);"/>
+                    <Edge cubics="!-4300 650(-4300,650;-4300,650 -4940,650 -4940,650q-4300 650 -4940 650);"/>
+                    <Edge cubics="!-4300 -650(;-4300,-650 -4300,650 -4300,650q-4300 -650 -4300 650);"/>
+                    <Edge cubics="!5000 650(5000,650;5000,650 5000,-650 5000,-650q5000 650 5000 -650);"/>
+                    <Edge cubics="!5000 -650(;5000,-650 4940,-650 4940,-650q5000 -650 4940 -650);"/>
+                    <Edge cubics="!4940 650(;4940,650 5000,650 5000,650q4940 650 5000 650);"/>
+                    <Edge cubics="!4940 650(;4940,650 4940,-650 4940,-650q4940 650 4940 -650);"/>
+                    <Edge cubics="!4940 -650(;4940,-650 4300,-650 4300,-650q4940 -650 4300 -650);"/>
+                    <Edge cubics="!4300 650(4300,650;4300,650 4940,650 4940,650q4300 650 4940 650);"/>
+                    <Edge cubics="!4300 -650(;4300,-650 4300,650 4300,650q4300 -650 4300 650);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

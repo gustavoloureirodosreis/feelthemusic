@@ -1,0 +1,408 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TutorialScreenMCs/TutorialScreen" itemID="5389fcef-0000042a" linkageExportForAS="true" linkageClassName="TutorialScreen" lastModified="1438283003" lastUniqueIdentifier="62">
+  <timeline>
+    <DOMTimeline name="TutorialScreen">
+      <layers>
+        <DOMLayer name="NextBtn" color="#808080" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/NextBtn" name="confirmBtn" symbolType="button" centerPoint3DX="846.3" centerPoint3DY="306.4">
+                  <matrix>
+                    <Matrix tx="771.2" ty="279.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Textos" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMDynamicText name="askMsg" fontRenderingMode="standard" width="696" height="118.3" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="132" ty="302"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Parece que essa é sua primeira vez jogando.&#xD;&#xD;Deseja ver o tutorial?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/YesBtn" name="opcaoSim" symbolType="button">
+                  <matrix>
+                    <Matrix tx="491.75" ty="460"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.4" y="28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/NoBtn" name="opcaoNao" symbolType="button">
+                  <matrix>
+                    <Matrix tx="283.75" ty="460"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.4" y="28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/TutorialWelcome" name="welcomeMsg" selected="true" centerPoint3DX="480" centerPoint3DY="160.05">
+                  <matrix>
+                    <Matrix a="1.00370788574219" d="1.00364685058594" tx="115" ty="50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tutorialMsg1" fontRenderingMode="standard" width="198.45" height="189.8" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="11.15" ty="111.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Região dos versos que estão sendo cantados.&#xD;&#xD;Alguns versos possuem palavras faltando!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="30"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/SetinhaPulsando" centerPoint3DX="170.55" centerPoint3DY="58.35">
+                  <matrix>
+                    <Matrix a="0.2587890625" b="-0.965911865234375" c="0.965911865234375" d="0.2587890625" tx="131.8" ty="70.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.5" y="35.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="118.45" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="787" ty="254.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1/4</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="Verdana" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="30"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tutorialMsg2" selected="true" fontRenderingMode="standard" width="325.85" height="76.9" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="312.15" ty="357.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Escolha aqui a opção que completa corretamente a lacuna.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="30"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/SetinhaPulsando" centerPoint3DX="174.75" centerPoint3DY="457.85">
+                  <matrix>
+                    <Matrix a="0.00518798828125" b="-0.999984741210938" c="0.999984741210938" d="0.00518798828125" tx="140" ty="480"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.6" y="36.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="121.25" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="787" ty="254.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>2/4</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="Verdana" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="30"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMDynamicText fontRenderingMode="standard" width="100" height="24.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1259.05" ty="474"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="20" bitmapSize="400" face="Verdana" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tutorialMsg3" fontRenderingMode="standard" width="306.8" height="162.4" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="240.25" ty="332"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Aqui fica o medidor de sua performance. &#xD;&#xD;Quanto melhor você estiver jogando, melhor seu avatar estará dançando!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="30"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/SetinhaPulsando" centerPoint3DX="126.5" centerPoint3DY="88.95">
+                  <matrix>
+                    <Matrix tx="104.5" ty="53.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.6" y="36"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="119.85" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="787" ty="254.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>3/4</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="Verdana" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="30"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="tutorialMsg4" fontRenderingMode="standard" width="299.95" height="107.6" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="242.4" ty="29.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Acertando versos seguidos, você preenche sua barra de combo e multiplica seus pontos!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="30"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/SetinhaPulsando" centerPoint3DX="270.7" centerPoint3DY="190.9">
+                  <matrix>
+                    <Matrix a="-0.707077026367188" b="0.707077026367188" c="-0.707077026367188" d="-0.707077026367188" tx="310.9" ty="200.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.6" y="36.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="114.3" height="24.3" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="787" ty="254.3"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>4/4</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="Verdana" fillColor="#0000FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="30"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="FundosPretos" color="#FF4FFF" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <RadialGradient>
+                        <matrix>
+                          <Matrix a="0.089569091796875" b="-0.431137084960938" c="0.776336669921875" d="0.20172119140625" tx="470.65" ty="288.95"/>
+                        </matrix>
+                        <GradientEntry color="#041A27" ratio="0.0117647058823529"/>
+                        <GradientEntry color="#100025" ratio="1"/>
+                      </RadialGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!19250 11963S2|-50 11963!-50 11963|-50 0!-50 0|19250 0!19250 0|19250 11963"/>
+                    <Edge cubics="!-50 0(-50,0;-50,0 19250,0 19250,0q-50 0 19250 0);"/>
+                    <Edge cubics="!19250 11963(19250,11963;19250,11963 -50,11963 -50,11963q19250 11963 -50 11963);"/>
+                    <Edge cubics="!19250 0(19250,0;19250,0 19250,11963 19250,11963q19250 0 19250 11963);"/>
+                    <Edge cubics="!-50 11963(-50,11963;-50,11963 -50,0 -50,0q-50 11963 -50 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.898039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#333333" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4676 8046|14573 8046!14573 8046[14673 8046 14673 7946!14673 7946|14673 37!14673 37[14673 -63 14573 -63!14573 -63|4676 -63!4676 -63[4576 -63 4576 37!4576 37|4576 7946!4576 7946[4576 8046 4676 8046"/>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!19974 12400|-441 12400!-441 12400|-441 -316!-441 -316|19974 -316!19974 -316|19974 12400"/>
+                    <Edge cubics="!19974 -316(19974,-316;19974,-316 19974,12400 19974,12400q19974 -316 19974 12400);"/>
+                    <Edge cubics="!-441 12400(-441,12400;-441,12400 -441,-316 -441,-316q-441 12400 -441 -316);"/>
+                    <Edge cubics="!-441 -316(-441,-316;-441,-316 19974,-316 19974,-316q-441 -316 19974 -316);"/>
+                    <Edge cubics="!19974 12400(;19974,12400 -441,12400 -441,12400q19974 12400 -441 12400);"/>
+                    <Edge cubics="!14573 -63(;14573,-63 4676,-63 4676,-63q14573 -63 4676 -63)4676,-63;"/>
+                    <Edge cubics="!14573 8046(14573,8046;14640,8046 14673,8013 14673,7946q14573 8046Q14673 8046q14673 7946);"/>
+                    <Edge cubics="!14673 7946(;14673,7946 14673,37 14673,37q14673 7946 14673 37);"/>
+                    <Edge cubics="!4576 7946(4576,7946;4576,8013 4609,8046 4676,8046q4576 7946Q4576 8046q4676 8046);"/>
+                    <Edge cubics="!4576 37(4576,37;4576,37 4576,7946 4576,7946q4576 37 4576 7946);"/>
+                    <Edge cubics="!4676 8046(4676,8046;4676,8046 14573,8046 14573,8046q4676 8046 14573 8046);"/>
+                    <Edge cubics="!4676 -63(4676,-63;4609,-63 4576,-30 4576,37q4676 -63Q4576 -63q4576 37);"/>
+                    <Edge cubics="!14673 37(14673,37;14673,-30 14640,-63 14573,-63q14673 37Q14673 -63q14573 -63);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.898039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!19000 -1887|200 -1887!200 -1887[0 -1887 0 -1610!0 -1610|0 14479!0 14479[0 14756 200 14756!200 14756|19000 14756!19000 14756[19200 14756 19200 14479!19200 14479|19200 -1610!19200 -1610[19200 -1887 19000 -1887"/>
+                    <Edge fillStyle1="1" edges="!4638 9569|4638 10777!4638 10777[4638 11055 4838 11055!4838 11055|14321 11055!14321 11055[14521 11055 14521 10777!14521 10777|14521 9569!14521 9569[14521 9292 14321 9292!14321 9292|4838 9292!4838 9292[4638 9292 4638 9569"/>
+                    <Edge cubics="!19200 -1610(19200,-1610;19200,-1795 19133,-1887 19000,-1887q19200 -1610Q19200 -1887q19000 -1887);"/>
+                    <Edge cubics="!200 -1887(200,-1887;67,-1887 0,-1795 0,-1610q200 -1887Q0 -1887q0 -1610);"/>
+                    <Edge cubics="!4838 9292(4838,9292;4705,9292 4638,9384 4638,9569q4838 9292Q4638 9292q4638 9569);"/>
+                    <Edge cubics="!4638 10777(4638,10777;4638,10962 4705,11055 4838,11055q4638 10777Q4638 11055q4838 11055);"/>
+                    <Edge cubics="!4638 9569(4638,9569;4638,9569 4638,10777 4638,10777q4638 9569 4638 10777);"/>
+                    <Edge cubics="!0 14479(0,14479;0,14664 67,14756 200,14756q0 14479Q0 14756q200 14756);"/>
+                    <Edge cubics="!14521 9569(14521,9569;14521,9384 14454,9292 14321,9292q14521 9569Q14521 9292q14321 9292);"/>
+                    <Edge cubics="!14321 11055(14321,11055;14454,11055 14521,10962 14521,10777q14321 11055Q14521 11055q14521 10777);"/>
+                    <Edge cubics="!14521 10777(14521,10777;14521,10777 14521,9569 14521,9569q14521 10777 14521 9569);"/>
+                    <Edge cubics="!19000 14756(19000,14756;19133,14756 19200,14664 19200,14479q19000 14756Q19200 14756q19200 14479);"/>
+                    <Edge cubics="!4838 11055(4838,11055;4838,11055 14321,11055 14321,11055q4838 11055 14321 11055);"/>
+                    <Edge cubics="!14321 9292(;14321,9292 4838,9292 4838,9292q14321 9292 4838 9292)4838,9292;"/>
+                    <Edge cubics="!19200 14479(;19200,14479 19200,-1610 19200,-1610q19200 14479 19200 -1610);"/>
+                    <Edge cubics="!200 14756(;200,14756 19000,14756 19000,14756q200 14756 19000 14756);"/>
+                    <Edge cubics="!0 -1610(;0,-1610 0,14479 0,14479q0 -1610 0 14479);"/>
+                    <Edge cubics="!19000 -1887(;19000,-1887 200,-1887 200,-1887q19000 -1887 200 -1887);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.898039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!19600 0|0 0!0 0|0 12000!0 12000|19600 12000!19600 12000|19600 0"/>
+                    <Edge fillStyle1="1" edges="!4195 3081[4072 2960 3897 2960!3897 2960|993 2960!993 2960[818 2960 694 3081!694 3081[571 3203 571 3375!571 3375|571 11345!571 11345[571 11517 694 11638!694 11638[818 11760 993 11760!993 11760|3897 11760!3897 11760[4072 11760 4195 11638
+!4195 11638[4320 11517 4320 11345!4320 11345|4320 3375!4320 3375[4320 3203 4195 3081"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.898039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!19000 12|200 12!200 12[0 12 0 245!0 245|0 13754!0 13754[0 13988 200 13988!200 13988|19000 13988!19000 13988[19200 13988 19200 13754!19200 13754|19200 245!19200 245[19200 12 19000 12"/>
+                    <Edge fillStyle1="1" edges="
+!4465 141|366 141!366 141[166 141 166 374!166 374|166 3122!166 3122[166 3355 366 3355!366 3355|4465 3355!4465 3355[4665 3355 4665 3122!4665 3122|4665 374!4665 374[4665 141 4465 141"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BackgroundTutorial" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_Imagens/BackgroundTutorial">
+                  <matrix>
+                    <Matrix a="18.3636474609375" d="18.1792449951172" tx="-2.5" ty="599.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.3" y="-16.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

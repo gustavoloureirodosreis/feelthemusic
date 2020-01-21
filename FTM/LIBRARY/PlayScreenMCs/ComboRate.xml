@@ -1,0 +1,117 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/ComboRate" itemID="54c26f06-0000048d" lastModified="1422028650" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="ComboRate">
+      <layers>
+        <DOMLayer name="mask" color="#FF4FFF" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="119.6" objectHeight="18.7" x="1.85" y="77.2" lockFlag="true" topLeftRadius="2.45" topRightRadius="2.45" bottomLeftRadius="2.45" bottomRightRadius="2.45">
+                  <matrix>
+                    <Matrix a="1.01751708984375" d="0.964599609375" tx="-5.55" ty="-75.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.6" y="86.7"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#D6D6D6"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="preenchimento" color="#FF4FFF" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="stroke" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="124.65" objectHeight="18.3" x="-1.75" y="55.15" lockFlag="true" topLeftRadius="2.45" topRightRadius="2.45" bottomLeftRadius="2.45" bottomRightRadius="2.45">
+                  <matrix>
+                    <Matrix a="0.963546752929688" d="1.0377197265625" tx="-1.95" ty="-59.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="60.55" y="64.4"/>
+                  </transformationPoint>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#003333" alpha="0.898039215686275"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="sombra/luz" color="#4F80FF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF" alpha="0.698039215686274"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999" alpha="0.8"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="2" edges="!-59 -20|2313 -20"/>
+                    <Edge strokeStyle="1" edges="!-59 326|2313 326"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="empty" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="119.6" objectHeight="18.7" x="1.85" y="77.2" lockFlag="true" topLeftRadius="2.45" topRightRadius="2.45" bottomLeftRadius="2.45" bottomRightRadius="2.45">
+                  <matrix>
+                    <Matrix a="0.99871826171875" d="0.9573974609375" tx="-5.15" ty="-75.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.65" y="86.55"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#D6D6D6"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="119.6" objectHeight="18.7" x="1.85" y="77.2" lockFlag="true" topLeftRadius="2.45" topRightRadius="2.45" bottomLeftRadius="2.45" bottomRightRadius="2.45">
+                  <matrix>
+                    <Matrix a="0.99871826171875" d="0.9573974609375" tx="-5.15" ty="-75.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="61.65" y="86.55"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#D6D6D6"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

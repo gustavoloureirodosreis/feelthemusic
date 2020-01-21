@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuMusicasMCs/MusicasListAnimado" itemID="53752841-000002b7" lastModified="1428099961" lastUniqueIdentifier="62">
+  <timeline>
+    <DOMTimeline name="MusicasListAnimado" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;575&lt;/guideline&gt;&lt;guideline direction="v"&gt;679&lt;/guideline&gt;&lt;guideline direction="v"&gt;369&lt;/guideline&gt;&lt;guideline direction="v"&gt;165&lt;/guideline&gt;&lt;guideline direction="v"&gt;60&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" tweenType="motion" motionTweenSnap="true" keyMode="22017" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/MusicaLabel" name="music1" selected="true" centerPoint3DX="112.55" centerPoint3DY="112.75">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/MusicaLabel" name="music2" centerPoint3DX="292.55" centerPoint3DY="112.75">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="180" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/MusicaLabel" name="music3" centerPoint3DX="472.55" centerPoint3DY="112.75">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="360" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/MusicaLabel" name="music4" centerPoint3DX="652.55" centerPoint3DY="112.75">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="540" ty="0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/MusicaLabel" name="music5" centerPoint3DX="112.55" centerPoint3DY="265.85">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" ty="153.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/MusicaLabel" name="music6" centerPoint3DX="292.55" centerPoint3DY="265.85">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="180" ty="153.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/MusicaLabel" name="music7" centerPoint3DX="472.55" centerPoint3DY="265.85">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="360" ty="153.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/MusicaLabel" name="music8" centerPoint3DX="652.55" centerPoint3DY="265.85">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="540" ty="153.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

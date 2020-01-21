@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MultiplayerMCs/ChooseBetStyleMCs/ChooseBetStyleScreen" itemID="53cd7b16-00000309" linkageExportForAS="true" linkageClassName="multiplayer.ChooseBetStyleScreen" lastModified="1426017775" lastUniqueIdentifier="29">
+  <timeline>
+    <DOMTimeline name="ChooseBetStyleScreen">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728" soundName="_Sounds/CashRegisterSFX" soundSync="stop">
+              <SoundEnvelope>
+                <SoundEnvelopePoint level0="32768" level1="32768"/>
+              </SoundEnvelope>
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Continue" name="continueBtn" symbolType="button">
+                  <matrix>
+                    <Matrix tx="924.8" ty="-161.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="currentEstilo" width="363.5" height="69.6" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="909.6" ty="-211.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="170" y="34.8"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Carregando..</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="4.15" size="50" bitmapSize="1000" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="chooseBetTxt" selected="true" fontRenderingMode="standard" width="746" height="48.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="107" ty="102"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Escolha seu nível de aposta</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#0099FF" strength="1.33"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/ChooseBetStyleMCs/ChooseBetLabel" name="currBet" centerPoint3DX="422.45" centerPoint3DY="390">
+                  <matrix>
+                    <Matrix a="1.01632690429688" tx="270" ty="240"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Continue" name="continuarBtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.987380981445313" tx="390" ty="520"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/NextBtn" name="nextBet" symbolType="button">
+                  <matrix>
+                    <Matrix tx="651" ty="310"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botao_Back" name="backBet" symbolType="button">
+                  <matrix>
+                    <Matrix tx="232.2" ty="310"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="30" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

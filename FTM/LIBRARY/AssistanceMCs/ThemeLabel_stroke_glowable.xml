@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/ThemeLabel_stroke_glowable" itemID="5491b8a1-0000081a" lastModified="1428099934" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="ThemeLabel_stroke_glowable">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ThemeLabel_stroke">
+                  <matrix>
+                    <Matrix tx="-96.35" ty="-80.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96.35" y="80.25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0097CA" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ThemeLabel_stroke">
+                  <matrix>
+                    <Matrix tx="-96.35" ty="-80.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96.35" y="80.25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#FFFFFF" quality="3" strength="3"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

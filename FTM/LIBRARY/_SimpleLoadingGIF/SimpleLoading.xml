@@ -1,0 +1,163 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="_SimpleLoadingGIF/SimpleLoading" itemID="5492df37-00000337" linkageExportForAS="true" linkageClassName="SimpleLoading" lastModified="1431023203">
+  <timeline>
+    <DOMTimeline name="SimpleLoading">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="_SimpleLoadingGIF/simple_load.GIF">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 84">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 85">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 86">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 87">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 88">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 89">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 90">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 91">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 92">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 93">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="22" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_SimpleLoadingGIF/Bitmap 94">
+                  <matrix>
+                    <Matrix a="0.199996948242188" d="0.199996948242188" tx="452.4" ty="282.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="128" y="128"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="BG" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

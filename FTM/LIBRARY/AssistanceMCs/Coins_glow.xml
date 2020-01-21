@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Coins_glow" itemID="54f87b28-00000415" lastModified="1425570600">
+  <timeline>
+    <DOMTimeline name="Coins_glow">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMBitmapInstance selected="true" libraryItemName="_Imagens/single_goldcoin75.png">
+                      <matrix>
+                        <Matrix tx="32" ty="14.4"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="37.5" y="27"/>
+                      </transformationPoint>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="_Imagens/single_goldcoin75.png">
+                      <matrix>
+                        <Matrix ty="36.2"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="37.5" y="27"/>
+                      </transformationPoint>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="_Imagens/single_goldcoin75.png">
+                      <matrix>
+                        <Matrix tx="62.4" ty="45.35"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="37.5" y="27"/>
+                      </transformationPoint>
+                    </DOMBitmapInstance>
+                    <DOMBitmapInstance selected="true" libraryItemName="_Imagens/single_goldcoin75.png">
+                      <matrix>
+                        <Matrix tx="12.3"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="37.5" y="27"/>
+                      </transformationPoint>
+                    </DOMBitmapInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

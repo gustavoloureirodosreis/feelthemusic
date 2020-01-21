@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/Cadeira" itemID="53f3e3f3-00000810" lastModified="1421177339">
+  <timeline>
+    <DOMTimeline name="Cadeira">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="_Imagens/cadeira_frente">
+                  <matrix>
+                    <Matrix a="3.8765869140625" d="3.8765869140625" tx="-168.6" ty="-248.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.5" y="64"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,240 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/NextBtn" itemID="55032fb2-0000067b" symbolType="button" lastModified="1427816955" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="NextBtn" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer 1 copy" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="35.3" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="35.95" y="32.25"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="35.95" y="32.25"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!730 474|730 306!730 306|1121 647!1121 647|730 984!730 984|730 816!730 816[727 816 722 816!722 816|369 816!369 816[317 816 317 738!317 738|317 551!317 551[317 473 369 473!369 473|722 473!722 473[727 473 730 474"/>
+                        <Edge cubics="!730 306(730,306;730,306 1121,647 1121,647q730 306 1121 647);"/>
+                        <Edge cubics="!730 984(;730,984 730,816 730,816q730 984 730 816);"/>
+                        <Edge cubics="!730 474(;730,474 730,306 730,306q730 474 730 306);"/>
+                        <Edge cubics="!1121 647(;1121,647 730,984 730,984q1121 647 730 984);"/>
+                        <Edge cubics="!730 474(730,474;728,473 725,473 722,473q730 474Q727 473q722 473);"/>
+                        <Edge cubics="!369 473(;334,473 317,500 317,551q369 473Q317 473q317 551);"/>
+                        <Edge cubics="!317 738(;317,791 334,816 369,816q317 738Q317 816q369 816);"/>
+                        <Edge cubics="!722 816(;725,816 728,816 730,816q722 816Q727 816q730 816);"/>
+                        <Edge cubics="!317 551(;317,551 317,738 317,738q317 551 317 738);"/>
+                        <Edge cubics="!722 473(;722,473 369,473 369,473q722 473 369 473);"/>
+                        <Edge cubics="!369 816(;369,816 722,816 722,816q369 816 722 816);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="35.1" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="35.1" ty="32.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="35.3" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="35.95" y="32.25"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="35.95" y="32.25"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!730 306|1121 647!1121 647|730 984!730 984|730 816!730 816[727 816 722 816!722 816|369 816!369 816[317 816 317 738!317 738|317 551!317 551[317 473 369 473!369 473|722 473!722 473[727 473 730 474!730 474|730 306"/>
+                        <Edge cubics="!730 306(730,306;730,306 1121,647 1121,647q730 306 1121 647);"/>
+                        <Edge cubics="!730 984(;730,984 730,816 730,816q730 984 730 816);"/>
+                        <Edge cubics="!730 474(;730,474 730,306 730,306q730 474 730 306);"/>
+                        <Edge cubics="!1121 647(;1121,647 730,984 730,984q1121 647 730 984);"/>
+                        <Edge cubics="!730 474(730,474;728,473 725,473 722,473q730 474Q727 473q722 473);"/>
+                        <Edge cubics="!369 473(;334,473 317,500 317,551q369 473Q317 473q317 551);"/>
+                        <Edge cubics="!317 738(;317,791 334,816 369,816q317 738Q317 816q369 816);"/>
+                        <Edge cubics="!722 816(;725,816 728,816 730,816q722 816Q727 816q730 816);"/>
+                        <Edge cubics="!317 551(;317,551 317,738 317,738q317 551 317 738);"/>
+                        <Edge cubics="!722 473(;722,473 369,473 369,473q722 473 369 473);"/>
+                        <Edge cubics="!369 816(;369,816 722,816 722,816q369 816 722 816);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="35.1" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="35.1" ty="32.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="3" strength="2"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="35.3" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="35.95" y="32.25"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="35.95" y="32.25"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!730 474|730 306!730 306|1121 647!1121 647|730 984!730 984|730 816!730 816[727 816 722 816!722 816|369 816!369 816[317 816 317 738!317 738|317 551!317 551[317 473 369 473!369 473|722 473!722 473[727 473 730 474"/>
+                        <Edge cubics="!730 306(730,306;730,306 1121,647 1121,647q730 306 1121 647);"/>
+                        <Edge cubics="!730 984(;730,984 730,816 730,816q730 984 730 816);"/>
+                        <Edge cubics="!730 474(;730,474 730,306 730,306q730 474 730 306);"/>
+                        <Edge cubics="!1121 647(;1121,647 730,984 730,984q1121 647 730 984);"/>
+                        <Edge cubics="!730 474(730,474;728,473 725,473 722,473q730 474Q727 473q722 473);"/>
+                        <Edge cubics="!369 473(;334,473 317,500 317,551q369 473Q317 473q317 551);"/>
+                        <Edge cubics="!317 738(;317,791 334,816 369,816q317 738Q317 816q369 816);"/>
+                        <Edge cubics="!722 816(;725,816 728,816 730,816q722 816Q727 816q730 816);"/>
+                        <Edge cubics="!317 551(;317,551 317,738 317,738q317 551 317 738);"/>
+                        <Edge cubics="!722 473(;722,473 369,473 369,473q722 473 369 473);"/>
+                        <Edge cubics="!369 816(;369,816 722,816 722,816q369 816 722 816);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="35.1" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="35.1" ty="32.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFFFF" inner="true" quality="3" strength="5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="35.3" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="35.95" y="32.25"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <transformationPoint>
+                        <Point x="35.95" y="32.25"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!730 474|730 306!730 306|1121 647!1121 647|730 984!730 984|730 816!730 816[727 816 722 816!722 816|369 816!369 816[317 816 317 738!317 738|317 551!317 551[317 473 369 473!369 473|722 473!722 473[727 473 730 474"/>
+                        <Edge cubics="!730 306(730,306;730,306 1121,647 1121,647q730 306 1121 647);"/>
+                        <Edge cubics="!730 984(;730,984 730,816 730,816q730 984 730 816);"/>
+                        <Edge cubics="!730 474(;730,474 730,306 730,306q730 474 730 306);"/>
+                        <Edge cubics="!1121 647(;1121,647 730,984 730,984q1121 647 730 984);"/>
+                        <Edge cubics="!730 474(730,474;728,473 725,473 722,473q730 474Q727 473q722 473);"/>
+                        <Edge cubics="!369 473(;334,473 317,500 317,551q369 473Q317 473q317 551);"/>
+                        <Edge cubics="!317 738(;317,791 334,816 369,816q317 738Q317 816q369 816);"/>
+                        <Edge cubics="!722 816(;725,816 728,816 730,816q722 816Q727 816q730 816);"/>
+                        <Edge cubics="!317 551(;317,551 317,738 317,738q317 551 317 738);"/>
+                        <Edge cubics="!722 473(;722,473 369,473 369,473q722 473 369 473);"/>
+                        <Edge cubics="!369 816(;369,816 722,816 722,816q369 816 722 816);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="35.1" centerPoint3DY="32.6">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="35.1" ty="32.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="10" blurY="10" color="#FFFFFF" inner="true" quality="3" strength="5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

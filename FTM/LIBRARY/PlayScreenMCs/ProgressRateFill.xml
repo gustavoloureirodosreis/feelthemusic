@@ -1,0 +1,108 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/ProgressRateFill" itemID="536a7119-000002ff" lastModified="1428090880">
+  <timeline>
+    <DOMTimeline name="ProgressRateFill">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMRectangleObject objectWidth="180" objectHeight="15.25" x="9.1" y="23.75" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-9.1" ty="-23.75"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0.106964111328125" d="0.011383056640625" tx="96.7" ty="33.05"/>
+                      </matrix>
+                      <GradientEntry color="#9CFF00" ratio="0"/>
+                      <GradientEntry color="#00FFFF" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#333333"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="250" objectHeight="15.25" x="9.1" y="23.75" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-9.1" ty="-23.75"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="1.52587890625e-005" b="0.01495361328125" c="-0.011383056640625" d="1.52587890625e-005" tx="169.8" ty="31.25"/>
+                      </matrix>
+                      <GradientEntry color="#00A19B" ratio="0"/>
+                      <GradientEntry color="#00CDC5" ratio="0.188235294117647"/>
+                      <GradientEntry color="#60D7D3" ratio="0.505882352941176"/>
+                      <GradientEntry color="#3E80C6" ratio="0.792156862745098"/>
+                      <GradientEntry color="#4C2AB8" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="0.1">
+                      <fill>
+                        <SolidColor color="#333333"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="180" objectHeight="15.25" x="9.1" y="23.75" selected="true" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-9.1" ty="-23.75"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient>
+                      <matrix>
+                        <Matrix a="0.106964111328125" d="0.011383056640625" tx="96.7" ty="33.05"/>
+                      </matrix>
+                      <GradientEntry color="#6291BB" ratio="0"/>
+                      <GradientEntry color="#2EFFDB" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#333333"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="180" objectHeight="15.25" x="9.1" y="23.75" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-9.1" ty="-23.75"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#00FFFF" alpha="0.658823529411765"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal" weight="0.1">
+                      <fill>
+                        <SolidColor color="#333333" alpha="0"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

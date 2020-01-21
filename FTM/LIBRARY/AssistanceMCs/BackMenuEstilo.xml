@@ -1,0 +1,159 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/BackMenuEstilo" itemID="548094c2-000007ba" symbolType="button" lastModified="1426618930" lastUniqueIdentifier="23">
+  <timeline>
+    <DOMTimeline name="BackMenuEstilo">
+      <layers>
+        <DOMLayer name="seta" color="#FF800A" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Seta_botão_back" centerPoint3DX="15.1" centerPoint3DY="23.6">
+                  <matrix>
+                    <Matrix a="0.636810302734375" d="0.636810302734375" tx="2.3" ty="13.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.1" y="15.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Seta_botão_back" centerPoint3DX="15.1" centerPoint3DY="23.6">
+                  <matrix>
+                    <Matrix a="0.636810302734375" d="0.636810302734375" tx="2.3" ty="13.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.1" y="15.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Seta_botão_back" centerPoint3DX="15.8" centerPoint3DY="23.6">
+                  <matrix>
+                    <Matrix a="0.636810302734375" d="0.636810302734375" tx="3" ty="13.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.1" y="15.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Ranking_base" centerPoint3DX="11.85" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="1.23248291015625" tx="-21.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.35" y="24.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="9.65" centerPoint3DY="23.35">
+                  <matrix>
+                    <Matrix a="1.89744567871094" d="1.53459167480469" tx="11.5" ty="24.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Ranking_base" centerPoint3DX="11.85" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="1.27580261230469" d="1.04998779296875" tx="-21.75" ty="-1.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.35" y="24.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="25"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="2.05" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix a="1.92990112304688" d="1.58831787109375" tx="11.75" ty="24.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-15.15" y="-13.85"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="3" strength="2"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Ranking_base" centerPoint3DX="11.85" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="1.27580261230469" d="1.04998779296875" tx="-21.75" ty="-1.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.35" y="24.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="-25"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="2.05" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix a="1.92990112304688" d="1.58831787109375" tx="11.75" ty="24.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-15.15" y="-13.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.26"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Ranking_base" centerPoint3DX="11.85" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="1.27580261230469" d="1.04998779296875" tx="-21.75" ty="-1.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.35" y="24.45"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter brightness="-25"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="2.05" centerPoint3DY="17">
+                  <matrix>
+                    <Matrix a="1.92990112304688" d="1.58831787109375" tx="11.75" ty="24.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-15.15" y="-13.85"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.26"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

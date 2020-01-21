@@ -1,0 +1,123 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuEstilosMCs/ThemeBlock" itemID="54ba7b17-0000032c" lastModified="1432241429" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="ThemeBlock">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0118865966796875" b="-0.0965423583984375" c="0.0982666015625" d="-0.012115478515625" tx="-444.4" ty="152.25"/>
+                        </matrix>
+                        <GradientEntry color="#02152E" alpha="0.501960784313725" ratio="0"/>
+                        <GradientEntry color="#02152E" alpha="0.901960784313726" ratio="0"/>
+                        <GradientEntry color="#091746" alpha="0.749019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4294 980[4294 1408 4198 2385!4198 2385[4149 2873 4101 3276!4101 3276/657 3276!657 3276[661 2733 644 2127!644 2127[612 913 513 593!513 593[504 553 496 529!496 529[480 484 457 476!457 476[461 473 465 470!465 470[593 371 1007 271!1007 271
+[1863 66 3387 66!3387 66/4286 66!4286 66[4294 295 4294 980"/>
+                    <Edge cubics="!4286 66(;4286,66 4294,295 4294,980q4286 66Q4294 295q4294 980);"/>
+                    <Edge cubics="!4101 3276(;4101,3276 657,3276 657,3276q4101 3276 657 3276);"/>
+                    <Edge cubics="!513 593(;505,566 494,488 457,476q513 593Q504 553q496 529Q480 484q457 476);"/>
+                    <Edge cubics="!3387 66(;3387,66 4286,66 4286,66p3387 66 4286 66);"/>
+                    <Edge cubics="!457 476(;460,474 462,472 465,470q457 476Q461 473q465 470);"/>
+                    <Edge cubics="!465 470(;550,404 731,338 1007,271q465 470Q593 371q1007 271);"/>
+                    <Edge cubics="!1007 271(;1578,134 2371,66 3387,66q1007 271Q1863 66q3387 66);"/>
+                    <Edge cubics="!657 3276(;657,3276 671,1105 513,593q657 3276Q661 2733q644 2127Q612 913q513 593);"/>
+                    <Edge cubics="!4294 980(;4294,1665 4101,3276 4101,3276q4294 980Q4294 1408q4198 2385Q4149 2873q4101 3276);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ThemeLabel_stroke_glowable" name="stroke" centerPoint3DX="230.55" centerPoint3DY="160.5">
+                  <matrix>
+                    <Matrix tx="119.2" ty="80.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0097CA" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="120.05" centerPoint3DY="179.95">
+                  <matrix>
+                    <Matrix tx="-30" ty="29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.7"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="131.4" centerPoint3DY="179.95">
+                  <matrix>
+                    <Matrix tx="-18.65" ty="29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.7"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="142.75" centerPoint3DY="179.95">
+                  <matrix>
+                    <Matrix tx="-7.3" ty="29.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.7"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Cadeado" name="cadeado" centerPoint3DX="84.45" centerPoint3DY="107.8" isVisible="false">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="67.2" ty="83.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.5" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="week" left="45.2" width="75.25" height="15.55" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="1.55" ty="134.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" bitmapSize="240" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

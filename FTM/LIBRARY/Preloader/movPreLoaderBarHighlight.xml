@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Preloader/movPreLoaderBarHighlight" itemID="4b328925-00003a1e" sourceFlashFilepath="../../../../Downloads/action-script-3-preloader-cs4/action-script-3-preloader.fla" sourceLibraryItemHRef="movPreLoaderBarHighlight" sourceLastModified="1261603109" lastModified="1261603109" sourceItemID="4b310fc2-0000155d">
+  <timeline>
+    <DOMTimeline name="movPreLoaderBarHighlight">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.005859375" c="-0.00396728515625" d="0" tx="199.7" ty="3.25"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!7989 130|0 130!0 130|0 0!0 0|7989 0!7989 0|7989 130"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

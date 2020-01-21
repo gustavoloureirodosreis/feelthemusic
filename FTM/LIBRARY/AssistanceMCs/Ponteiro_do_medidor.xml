@@ -1,0 +1,46 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Ponteiro_do_medidor" itemID="53f236f2-00000ebd" lastModified="1400790562">
+  <timeline>
+    <DOMTimeline name="Ponteiro_do_medidor">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="0.05" y="2.8"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true">
+                      <transformationPoint>
+                        <Point x="0.05" y="2.8"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient spreadMethod="reflect">
+                            <matrix>
+                              <Matrix a="0.01019287109375" d="0.051666259765625" ty="-42.35"/>
+                            </matrix>
+                            <GradientEntry color="#F1DCDC" ratio="0"/>
+                            <GradientEntry color="#FFFFFF" ratio="0"/>
+                            <GradientEntry color="#DECEE0" ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!162 -35S2[147 -4 7 0!7 0[-136 4 -159 -35!-159 -35[-187 -82 -117 -885!-117 -885[-47 -1693 2 -1693!2 -1693[49 -1693 116 -879!116 -879[182 -75 162 -35"/>
+                        <Edge cubics="!162 -35(;143,4 -126,20 -159,-35q162 -35Q147 -4q7 0Q-136 4q-159 -35);"/>
+                        <Edge cubics="!-159 -35(;-192,-90 -69,-1693 2,-1693q-159 -35Q-187 -82q-117 -885Q-47 -1693q2 -1693);"/>
+                        <Edge cubics="!2 -1693(;73,-1693 181,-74 162,-35q2 -1693Q49 -1693q116 -879Q182 -75q162 -35);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

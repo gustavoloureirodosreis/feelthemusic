@@ -1,0 +1,21 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/SubSpace" itemID="53ecf592-0000059b" lastModified="1408038386" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="SubSpace">
+      <layers>
+        <DOMLayer name="fundo" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Quadro_principal_fundo" centerPoint3DX="250" centerPoint3DY="338.65">
+                  <transformationPoint>
+                    <Point y="338.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

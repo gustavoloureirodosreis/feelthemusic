@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/BotaoLyrics_stroke" itemID="55689fa2-00000384" symbolType="button" lastModified="1432920476">
+  <timeline>
+    <DOMTimeline name="BotaoLyrics_stroke">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="13" objectHeight="33" x="13" y="15.15" bottomLeftRadius="10">
+                  <matrix>
+                    <Matrix a="9.1552734375e-005" b="1" c="-1" d="9.1552734375e-005" tx="48.15" ty="-13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.5" y="31.65"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="13" objectHeight="33" x="13" y="15.15" lockFlag="true">
+                  <matrix>
+                    <Matrix a="9.1552734375e-005" b="1" c="-1" d="9.1552734375e-005" tx="48.15" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.5" y="31.65"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="13" objectHeight="33" x="13" y="15.15" topRightRadius="10">
+                  <matrix>
+                    <Matrix a="9.1552734375e-005" b="1" c="-1" d="9.1552734375e-005" tx="48.15" ty="15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.5" y="31.65"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

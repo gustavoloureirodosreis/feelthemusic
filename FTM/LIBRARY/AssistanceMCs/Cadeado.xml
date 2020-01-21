@@ -1,0 +1,90 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Cadeado" itemID="5491cfe2-00000a60" lastModified="1428618107">
+  <timeline>
+    <DOMTimeline name="Cadeado">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMOvalObject objectWidth="22.35" objectHeight="23.75" x="145" y="98" selected="true" innerRadius="68.8285751342773" endAngle="0">
+                      <matrix>
+                        <Matrix a="0.707260131835938" d="0.707260131835938" tx="-98.9" ty="-69.3"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="156.15" y="109.85"/>
+                      </transformationPoint>
+                      <fill>
+                        <SolidColor color="#FFFFFF"/>
+                      </fill>
+                      <stroke>
+                        <SolidStroke scaleMode="normal">
+                          <fill>
+                            <SolidColor color="#CCCCCC"/>
+                          </fill>
+                        </SolidStroke>
+                      </stroke>
+                    </DOMOvalObject>
+                    <DOMRectangleObject objectWidth="23" objectHeight="23" x="149.05" y="90" selected="true" lockFlag="true" topLeftRadius="3" topRightRadius="3" bottomLeftRadius="3" bottomRightRadius="3">
+                      <matrix>
+                        <Matrix tx="-149.05" ty="-80.95"/>
+                      </matrix>
+                      <fill>
+                        <SolidColor color="#FFFFFF"/>
+                      </fill>
+                      <stroke>
+                        <SolidStroke scaleMode="normal">
+                          <fill>
+                            <SolidColor color="#CCCCCC"/>
+                          </fill>
+                        </SolidStroke>
+                      </stroke>
+                    </DOMRectangleObject>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="1.28509521484375" d="1.28509521484375" tx="-189.75" ty="-134.2"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#333333"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3179 2395[3161 2414 3134 2414!3134 2414[3107 2414 3088 2395!3088 2395[3070 2377 3070 2350!3070 2350[3070 2323 3088 2304!3088 2304[3107 2286 3134 2286!3134 2286[3161 2286 3179 2304!3179 2304[3198 2323 3198 2350!3198 2350[3198 2377 3179
+ 2395"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.74468994140625" d="0.864990234375" tx="-105.1" ty="-85.8"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="156.7" y="127.5"/>
+                      </transformationPoint>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#333333"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!3067.5 2446[3052 2447 3040 2530!3040 2530[3033 2572 3030 2614!3030 2614[3030 #A5C.B9 3067.5 2654!3067.5 2654|3197 2654!3197 2654[3237 2654 3237 2614!3237 2614[3224 2446 3197 2446!3197 2446|3067.5 2446"/>
+                        <Edge cubics="!3197 2446(;3197,2446 3068,2446 3068,2446q3197 2446 3068 2446);"/>
+                        <Edge cubics="!3197 2654(;3224,2654 3237,2641 3237,2614q3197 2654Q3237 2654q3237 2614);"/>
+                        <Edge cubics="!3068 2654(;3068,2654 3197,2654 3197,2654q3068 2654 3197 2654);"/>
+                        <Edge cubics="!3030 2614(;3030,2640 3043,2653 3068,2654q3030 2614Q3030 2653q3068 2654);"/>
+                        <Edge cubics="!3237 2614(;3237,2614 3224,2446 3197,2446q3237 2614Q3224 2446q3197 2446);"/>
+                        <Edge cubics="!3030 2614(;3030,2614 3043,2447 3068,2446q3030 2614Q3033 2572q3040 2530Q3052 2447q3068 2446);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

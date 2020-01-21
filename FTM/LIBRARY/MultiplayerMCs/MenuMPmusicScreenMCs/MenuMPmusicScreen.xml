@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MultiplayerMCs/MenuMPmusicScreenMCs/MenuMPmusicScreen" itemID="53badcdd-00000547" linkageExportForAS="true" linkageClassName="multiplayer.MenuMPmusicScreen" lastModified="1426019051" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="MenuMPmusicScreen">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/MenuMPmusicScreenMCs/MenuMPmusicLabel" name="music1" selected="true" centerPoint3DX="180" centerPoint3DY="150">
+                  <matrix>
+                    <Matrix tx="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/MenuMPmusicScreenMCs/MenuMPmusicLabel" name="music2" centerPoint3DX="480" centerPoint3DY="150">
+                  <matrix>
+                    <Matrix tx="330"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MultiplayerMCs/MenuMPmusicScreenMCs/MenuMPmusicLabel" name="music3" centerPoint3DX="780" centerPoint3DY="150">
+                  <matrix>
+                    <Matrix tx="630"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

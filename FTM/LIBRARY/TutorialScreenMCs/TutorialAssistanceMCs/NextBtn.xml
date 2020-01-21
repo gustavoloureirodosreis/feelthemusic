@@ -1,0 +1,129 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="TutorialScreenMCs/TutorialAssistanceMCs/NextBtn" itemID="53ebb034-000004c2" symbolType="button" lastModified="1425407547" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="NextBtn" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="74.6" centerPoint3DY="24.8">
+                  <matrix>
+                    <Matrix tx="-0.4" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="75" centerPoint3DY="25">
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMStaticText width="126" height="23.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13" ty="12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Next</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="1" blurY="1" distance="2"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="74.6" centerPoint3DY="24.8">
+                  <matrix>
+                    <Matrix tx="-0.4" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="75" centerPoint3DY="25">
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText width="126" height="23.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13" ty="12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Next</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="1" blurY="1" distance="2"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="74.6" centerPoint3DY="24.8">
+                  <matrix>
+                    <Matrix tx="-0.4" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.23"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="75" centerPoint3DY="25">
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.03"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="126" height="23.55" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="13" ty="12"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Next</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <DropShadowFilter blurX="1" blurY="1" distance="2"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

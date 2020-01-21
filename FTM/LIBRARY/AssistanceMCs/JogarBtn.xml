@@ -1,0 +1,104 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/JogarBtn" itemID="546787e2-000004ba" symbolType="button" lastModified="1429221044" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="JogarBtn">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="74.6" centerPoint3DY="24.8">
+                  <matrix>
+                    <Matrix tx="-0.4" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="75" centerPoint3DY="25">
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="74.6" centerPoint3DY="24.8">
+                  <matrix>
+                    <Matrix tx="-0.4" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="75" centerPoint3DY="25">
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="74.6" centerPoint3DY="24.8">
+                  <matrix>
+                    <Matrix tx="-0.4" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.27"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="75" centerPoint3DY="25">
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.27"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_base" centerPoint3DX="74.6" centerPoint3DY="24.8">
+                  <matrix>
+                    <Matrix tx="-0.4" ty="-0.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo3_neon" centerPoint3DX="75" centerPoint3DY="25">
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

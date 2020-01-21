@@ -1,0 +1,286 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/BotaoDobrarCombo" itemID="5378f8a4-00000408" symbolType="button" lastModified="1428342621" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="BotaoDobrarCombo">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="30.9" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="36.85" height="18.85" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="26.1" ty="8.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>x2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" size="20" bitmapSize="400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#000099" quality="3" strength="9.99"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="31" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75" tx="31" ty="28.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0033FF" quality="3" strength="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!611 152[636 195 662 263!662 263[718 416 718 573!718 573[729 574 792 676!792 676[857 780 860 808!860 808[850 801 784 779!784 779[720 757 718 758!718 758/612 817!612 817/504.5 758!504.5 758[494 756 432 779!432 779[372 801 362 808!362 808
+[365 779 417 682!417 682[475 574 504 573!504 573[504 416 560 263!560 263[586 195 611 152!506 793[501 792 499 790!499 790/524 790!524 790|549 858!549 858[581 935 610 974!610 974[648 937 702 790!702 790/723 790!723 790[718 792 714 793!714
+ 793[696 871 682 918!682 918[674 939 668 953!668 953[657 978 635 1011!635 1011[624 1025 610 1043!610 1043[569 990 552 953!552 953[532 906 506 793"/>
+                        <Edge cubics="!718 573(;718,468 699,365 662,263q718 573Q718 416q662 263);"/>
+                        <Edge cubics="!662 263(;645,218 628,181 611,152q662 263Q636 195q611 152);"/>
+                        <Edge cubics="!504 573(;504,468 523,365 560,263q504 573Q504 416q560 263);"/>
+                        <Edge cubics="!560 263(;577,218 594,181 611,152q560 263Q586 195q611 152);"/>
+                        <Edge cubics="!505 758(;505,758 612,817 612,817q505 758 612 817);"/>
+                        <Edge cubics="!612 817(;612,817 718,758 718,758q612 817 718 758);"/>
+                        <Edge cubics="!362 808(;365,782 459,575 504,573q362 808Q365 779q417 682Q475 574q504 573);"/>
+                        <Edge cubics="!860 808(;855,769 731,574 718,573q860 808Q857 780q792 676Q729 574q718 573);"/>
+                        <Edge cubics="!362 808(;373,800 489,755 505,758q362 808Q372 801q432 779Q494 756q505 758);"/>
+                        <Edge cubics="!718 758(;720,757 845,797 860,808q718 758Q720 757q784 779Q850 801q860 808);"/>
+                        <Edge cubics="!524 790(;524,790 549,858 549,858q524 790 549 858);"/>
+                        <Edge cubics="!499 790(;499,790 524,790 524,790q499 790 524 790);"/>
+                        <Edge cubics="!506 793(;503,792 500,791 499,790q506 793Q501 792q499 790);"/>
+                        <Edge cubics="!552 953(;539,922 523,868 506,793q552 953Q532 906q506 793);"/>
+                        <Edge cubics="!610 974(;635,949 666,888 702,790q610 974Q648 937q702 790);"/>
+                        <Edge cubics="!702 790(;702,790 723,790 723,790q702 790 723 790);"/>
+                        <Edge cubics="!723 790(;720,791 717,792 714,793q723 790Q718 792q714 793);"/>
+                        <Edge cubics="!714 793(;702,845 691,887 682,918q714 793Q696 871q682 918);"/>
+                        <Edge cubics="!682 918(;677,932 672,944 668,953q682 918Q674 939q668 953);"/>
+                        <Edge cubics="!549 858(;570,909 591,948 610,974q549 858Q581 935q610 974);"/>
+                        <Edge cubics="!635 1011(;628,1020 619,1031 610,1043q635 1011Q624 1025q610 1043);"/>
+                        <Edge cubics="!668 953(;661,970 650,989 635,1011q668 953Q657 978q635 1011);"/>
+                        <Edge cubics="!610 1043(610,1043;583,1008 563,978 552,953q610 1043Q569 990q552 953);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="30.9" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="31" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75" tx="31" ty="28.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0033FF" quality="3" strength="5"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.19"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMStaticText fontRenderingMode="standard" width="36.85" height="18.85" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="26.1" ty="8.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>x2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" size="20" bitmapSize="400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0033FF" quality="3" strength="9.99"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!611 152[636 195 662 263!662 263[718 416 718 573!718 573[729 574 792 676!792 676[857 780 860 808!860 808[850 801 784 779!784 779[720 757 718 758!718 758|504.5 758!504.5 758[494 756 432 779!432 779[372 801 362 808!362 808[365 779 417 682
+!417 682[475 574 504 573!504 573[504 416 560 263!560 263[586 195 611 152!553 808[583 852 611 874!611 874[647 853 698 769!698 769/718 769!718 769[714 770 710 771!710 771[693 815 679 842!679 842[672 854 666 862!666 862[655 876 634 895!634
+ 895[624 903 611 913!611 913[572 883 556 862!556 862[536 835 512 771!512 771[508 770 505 769!505 769/529 769!529 769|553 808"/>
+                        <Edge cubics="!718 573(;718,468 699,365 662,263q718 573Q718 416q662 263);"/>
+                        <Edge cubics="!662 263(;645,218 628,181 611,152q662 263Q636 195q611 152);"/>
+                        <Edge cubics="!504 573(;504,468 523,365 560,263q504 573Q504 416q560 263);"/>
+                        <Edge cubics="!560 263(;577,218 594,181 611,152q560 263Q586 195q611 152);"/>
+                        <Edge cubics="!512 771(;528,814 543,844 556,862q512 771Q536 835q556 862);"/>
+                        <Edge cubics="!556 862(;567,876 585,893 611,913q556 862Q572 883q611 913);"/>
+                        <Edge cubics="!666 862(;670,857 674,850 679,842q666 862Q672 854q679 842);"/>
+                        <Edge cubics="!611 913(;620,906 627,900 634,895q611 913Q624 903q634 895);"/>
+                        <Edge cubics="!634 895(;648,882 659,871 666,862q634 895Q655 876q666 862);"/>
+                        <Edge cubics="!679 842(;688,824 699,800 710,771q679 842Q693 815q710 771);"/>
+                        <Edge cubics="!512 771(;509,770 507,770 505,769q512 771Q508 770q505 769);"/>
+                        <Edge cubics="!710 771(;713,770 715,770 718,769q710 771Q714 770q718 769);"/>
+                        <Edge cubics="!505 769(;505,769 529,769 529,769q505 769 529 769);"/>
+                        <Edge cubics="!529 769(;529,769 566,838 611,874q529 769Q529 769q553 808Q583 852q611 874);"/>
+                        <Edge cubics="!611 874(;647,853 698,769 698,769q611 874Q647 853q698 769);"/>
+                        <Edge cubics="!698 769(;698,769 718,769 718,769q698 769 718 769);"/>
+                        <Edge cubics="!505 758(;505,758 718,758 718,758q505 758 718 758);"/>
+                        <Edge cubics="!362 808(;365,782 459,575 504,573q362 808Q365 779q417 682Q475 574q504 573);"/>
+                        <Edge cubics="!860 808(;855,769 731,574 718,573q860 808Q857 780q792 676Q729 574q718 573);"/>
+                        <Edge cubics="!362 808(;373,800 489,755 505,758q362 808Q372 801q432 779Q494 756q505 758);"/>
+                        <Edge cubics="!718 758(;720,757 845,797 860,808q718 758Q720 757q784 779Q850 801q860 808);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="30.9" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="31" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75" tx="31" ty="28.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#0000FF"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!611 152[636 195 662 263!662 263[718 416 718 573!718 573[729 574 792 676!792 676[857 780 860 808!860 808[850 801 784 779!784 779[720 757 718 758!718 758|504.5 758!504.5 758[494 756 432 779!432 779[372 801 362 808!362 808[365 779 417 682
+!417 682[475 574 504 573!504 573[504 416 560 263!560 263[586 195 611 152!553 808[583 852 611 874!611 874[647 853 698 769!698 769/718 769!718 769[714 770 710 771!710 771[693 815 679 842!679 842[672 854 666 862!666 862[655 876 634 895!634
+ 895[624 903 611 913!611 913[572 883 556 862!556 862[536 835 512 771!512 771[508 770 505 769!505 769/529 769!529 769|553 808"/>
+                        <Edge cubics="!718 573(;718,468 699,365 662,263q718 573Q718 416q662 263);"/>
+                        <Edge cubics="!662 263(;645,218 628,181 611,152q662 263Q636 195q611 152);"/>
+                        <Edge cubics="!504 573(;504,468 523,365 560,263q504 573Q504 416q560 263);"/>
+                        <Edge cubics="!560 263(;577,218 594,181 611,152q560 263Q586 195q611 152);"/>
+                        <Edge cubics="!512 771(;528,814 543,844 556,862q512 771Q536 835q556 862);"/>
+                        <Edge cubics="!556 862(;567,876 585,893 611,913q556 862Q572 883q611 913);"/>
+                        <Edge cubics="!666 862(;670,857 674,850 679,842q666 862Q672 854q679 842);"/>
+                        <Edge cubics="!611 913(;620,906 627,900 634,895q611 913Q624 903q634 895);"/>
+                        <Edge cubics="!634 895(;648,882 659,871 666,862q634 895Q655 876q666 862);"/>
+                        <Edge cubics="!679 842(;688,824 699,800 710,771q679 842Q693 815q710 771);"/>
+                        <Edge cubics="!512 771(;509,770 507,770 505,769q512 771Q508 770q505 769);"/>
+                        <Edge cubics="!710 771(;713,770 715,770 718,769q710 771Q714 770q718 769);"/>
+                        <Edge cubics="!505 769(;505,769 529,769 529,769q505 769 529 769);"/>
+                        <Edge cubics="!529 769(;529,769 566,838 611,874q529 769Q529 769q553 808Q583 852q611 874);"/>
+                        <Edge cubics="!611 874(;647,853 698,769 698,769q611 874Q647 853q698 769);"/>
+                        <Edge cubics="!698 769(;698,769 718,769 718,769q698 769 718 769);"/>
+                        <Edge cubics="!505 758(;505,758 718,758 718,758q505 758 718 758);"/>
+                        <Edge cubics="!362 808(;365,782 459,575 504,573q362 808Q365 779q417 682Q475 574q504 573);"/>
+                        <Edge cubics="!860 808(;855,769 731,574 718,573q860 808Q857 780q792 676Q729 574q718 573);"/>
+                        <Edge cubics="!362 808(;373,800 489,755 505,758q362 808Q372 801q432 779Q494 756q505 758);"/>
+                        <Edge cubics="!718 758(;720,757 845,797 860,808q718 758Q720 757q784 779Q850 801q860 808);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMStaticText fontRenderingMode="standard" width="36.85" height="18.85" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="26.1" ty="8.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>x2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" size="20" bitmapSize="400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0033FF" quality="3" strength="9.99"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="30.9" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText fontRenderingMode="standard" width="36.85" height="35" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="12.6" ty="12.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>x2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.898039215686275" size="35" bitmapSize="700" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="31" centerPoint3DY="28.5">
+                  <matrix>
+                    <Matrix a="1.75" d="1.75" tx="31" ty="28.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

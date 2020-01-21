@@ -1,0 +1,682 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="StartScreenMCs/UsernameInfo" itemID="53dfbeda-0000047b" lastModified="1428352104" lastUniqueIdentifier="36">
+  <timeline>
+    <DOMTimeline name="UsernameInfo">
+      <layers>
+        <DOMLayer name="conteúdos" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements>
+                <DOMDynamicText name="username" width="251.4" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="162" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.75" y="14.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#53BADD" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMRectangleObject objectWidth="150" objectHeight="30" x="515" y="9" lockFlag="true" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5" bottomRightRadius="5">
+                  <matrix>
+                    <Matrix tx="285" ty="-2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.898039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#333333"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMDynamicText name="coinsSP" width="90.9" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="837" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.05" y="23.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_group.png">
+                  <matrix>
+                    <Matrix tx="795" ty="3.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.05" y="18.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMRectangleObject objectWidth="140" objectHeight="30" x="515" y="9" lockFlag="true" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5" bottomRightRadius="5">
+                  <matrix>
+                    <Matrix tx="133.7" ty="-2.1"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.8"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#333333"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMDynamicText name="coinsMP" width="90.5" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="672" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.15" y="23.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_group.png">
+                  <matrix>
+                    <Matrix tx="630" ty="3.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.05" y="18.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/BuyCoins" name="moreMPcoins" symbolType="button" centerPoint3DX="777.35" centerPoint3DY="21.7">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="763.25" ty="8.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/BuyCoins" name="moreCoins" symbolType="button" centerPoint3DX="944.05" centerPoint3DY="21.2">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="930" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestsBtn" name="myProgressBtn" symbolType="button" centerPoint3DX="480" centerPoint3DY="22.4">
+                  <matrix>
+                    <Matrix a="0.317596435546875" d="0.317413330078125" tx="430" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="173.65" y="30.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="150" objectHeight="30" x="515" y="9" lockFlag="true" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5" bottomRightRadius="5">
+                  <matrix>
+                    <Matrix tx="285" ty="-2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.898039215686275"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#333333"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_group.png">
+                  <matrix>
+                    <Matrix tx="795" ty="3.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.05" y="18.45"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMRectangleObject objectWidth="140" objectHeight="30" x="515" y="9" lockFlag="true" topLeftRadius="5" topRightRadius="5" bottomLeftRadius="5" bottomRightRadius="5">
+                  <matrix>
+                    <Matrix tx="133.7" ty="-2.1"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor alpha="0.8"/>
+                  </fill>
+                  <stroke>
+                    <SolidStroke scaleMode="normal">
+                      <fill>
+                        <SolidColor color="#333333"/>
+                      </fill>
+                    </SolidStroke>
+                  </stroke>
+                </DOMRectangleObject>
+                <DOMBitmapInstance libraryItemName="_Imagens/multi_group.png">
+                  <matrix>
+                    <Matrix tx="630" ty="3.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25.05" y="18.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/CadastrarBtn" name="cadastrarBtn" symbolType="button" centerPoint3DX="223.55" centerPoint3DY="21.55">
+                  <matrix>
+                    <Matrix a="0.5999755859375" d="0.5999755859375" tx="168.2" ty="3.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/BuyCoins" name="moreMPcoins" symbolType="button" centerPoint3DX="777.35" centerPoint3DY="21.7">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="763.25" ty="8.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/BuyCoins" name="moreCoins" symbolType="button" centerPoint3DX="944.05" centerPoint3DY="21.2">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="930" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10" y="10"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="coinsSP" width="90.9" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="837" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.05" y="23.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="coinsMP" width="90.5" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="672" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.15" y="23.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestsBtn" name="myProgressBtn" symbolType="button" centerPoint3DX="886.95" centerPoint3DY="-32.95">
+                  <matrix>
+                    <Matrix a="0.329986572265625" d="0.329986572265625" tx="835" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="173.65" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="username" width="251.4" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="162" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="125.75" y="14.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Carregando...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#53BADD" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="coinsSP" width="90.9" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="837" ty="-98"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.05" y="23.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="coinsMP" width="90.5" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="645.45" ty="-98"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.15" y="23.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestsBtn" name="myProgressBtn" symbolType="button" centerPoint3DX="886.95" centerPoint3DY="-32.9">
+                  <matrix>
+                    <Matrix a="0.329986572265625" d="0.329986572265625" tx="835" ty="-50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="173.65" y="30"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="StartScreenMCs/CadastrarBtn" name="cadastrarBtn" symbolType="button" centerPoint3DX="223.55" centerPoint3DY="21.55">
+                  <matrix>
+                    <Matrix a="0.5999755859375" d="0.5999755859375" tx="168.2" ty="3.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="coinsSP" width="90.9" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="837" ty="-98"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.05" y="23.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="coinsMP" width="90.5" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="645.45" ty="-98"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="73.15" y="23.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>999999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="13.65" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0000FF" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="levelBar" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/LevelBar" name="levelBar" centerPoint3DX="158.65" centerPoint3DY="27.4">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="91.9" ty="26.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-36.4" y="1.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="estrelinhas_levelBar" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#C3F5D9"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2770 308|3008 256!3008 256|2771 553!2771 553|2849 687!2849 687|2871 692!2871 692|2953 570!2953 570|2968 716!2968 716|3111 753!3111 753|2976 814!2976 814|2984 962!2984 962|2884 852!2884 852|2747 905!2747 905|2797 818!2797 818|2606 747
+!2606 747|2498 868!2498 868|2511 894!2511 894|2566 905!2566 905|2607 838!2607 838|2620 917!2620 917|2696 937!2696 937|2625 971!2625 971|2631 1050!2631 1050|2575 991!2575 991|2502 1022!2502 1022|2540 951!2540 951|2495 898!2495 898|2479
+ 890!2479 890|2355 1030!2355 1030|2365 833!2365 833|2351 825!2351 825|2365 823!2365 823|2369 730!2369 730|2347 725!2347 725|2275 836!2275 836|2259 704!2259 704|2131 671!2131 671|2252 616!2252 616|2251 597!2251 597|2024 498!2024 498|2390
+ 399!2390 399|2428 20!2428 20|2638 337!2638 337|2691 326!2691 326|2691 316!2691 316|2630 284!2630 284|2700 270!2700 270|2711 203!2711 203|2745 263!2745 263|2815 254!2815 254|2768 305!2768 305|2770 308"/>
+                    <Edge cubics="!2711 203(;2711,203 2745,263 2745,263q2711 203 2745 263);"/>
+                    <Edge cubics="!2745 263(;2745,263 2815,254 2815,254q2745 263 2815 254);"/>
+                    <Edge cubics="!2700 270(;2700,270 2711,203 2711,203q2700 270 2711 203);"/>
+                    <Edge cubics="!2768 305(;2768,305 2770,308 2770,308q2768 305 2770 308);"/>
+                    <Edge cubics="!2815 254(;2815,254 2768,305 2768,305q2815 254 2768 305);"/>
+                    <Edge cubics="!2770 308(;2770,308 3008,256 3008,256q2770 308 3008 256);"/>
+                    <Edge cubics="!2797 367(;2797,367 2733,337 2733,337q2797 367 2733 337);"/>
+                    <Edge cubics="!2733 337(;2733,337 2684,385 2684,385q2733 337 2684 385);"/>
+                    <Edge cubics="!2684 385(;2684,385 2691,326 2691,326q2684 385 2691 326);"/>
+                    <Edge cubics="!2691 326(;2691,326 2691,316 2691,316q2691 326 2691 316);"/>
+                    <Edge cubics="!2727 662(;2727,662 2849,687 2849,687q2727 662 2849 687);"/>
+                    <Edge cubics="!2771 553(;2771,553 2849,687 2849,687q2771 553 2849 687);"/>
+                    <Edge cubics="!2953 570(;2953,570 2968,716 2968,716q2953 570 2968 716);"/>
+                    <Edge cubics="!2871 692(;2871,692 2953,570 2953,570q2871 692 2953 570);"/>
+                    <Edge cubics="!2849 687(;2849,687 2871,692 2871,692q2849 687 2871 692);"/>
+                    <Edge cubics="!2770 308(;2770,308 2797,367 2797,367q2770 308 2797 367);"/>
+                    <Edge cubics="!2968 716(;2968,716 3111,753 3111,753q2968 716 3111 753);"/>
+                    <Edge cubics="!3008 256(;3008,256 2771,553 2771,553q3008 256 2771 553);"/>
+                    <Edge cubics="!2884 852(;2884,852 2747,905 2747,905q2884 852 2747 905);"/>
+                    <Edge cubics="!2747 905(;2747,905 2797,818 2797,818q2747 905 2797 818);"/>
+                    <Edge cubics="!2976 814(;2976,814 2984,962 2984,962q2976 814 2984 962);"/>
+                    <Edge cubics="!2984 962(;2984,962 2884,852 2884,852q2984 962 2884 852);"/>
+                    <Edge cubics="!2797 818(;2797,818 2820,777 2820,777q2797 818 2820 777);"/>
+                    <Edge cubics="!2820 777(;2820,777 2727,662 2727,662q2820 777 2727 662);"/>
+                    <Edge cubics="!3111 753(;3111,753 2976,814 2976,814q3111 753 2976 814);"/>
+                    <Edge cubics="!2131 671(;2131,671 2252,616 2252,616q2131 671 2252 616);"/>
+                    <Edge cubics="!2259 704(;2259,704 2131,671 2131,671q2259 704 2131 671);"/>
+                    <Edge cubics="!2251 597(;2251,597 2024,498 2024,498q2251 597 2024 498);"/>
+                    <Edge cubics="!2252 616(;2252,616 2251,597 2251,597q2252 616 2251 597);"/>
+                    <Edge cubics="!2251 597(;2251,597 2245,485 2245,485q2251 597 2245 485);"/>
+                    <Edge cubics="!2369 730(;2369,730 2347,725 2347,725q2369 730 2347 725);"/>
+                    <Edge cubics="!2392 649(;2392,649 2477,750 2477,750q2392 649 2477 750);"/>
+                    <Edge cubics="!2457 533(;2457,533 2392,649 2392,649q2457 533 2392 649);"/>
+                    <Edge cubics="!2335 582(;2335,582 2457,533 2457,533q2335 582 2457 533);"/>
+                    <Edge cubics="!2477 750(;2477,750 2369,730 2369,730q2477 750 2369 730);"/>
+                    <Edge cubics="!2024 498(;2024,498 2390,399 2390,399q2024 498 2390 399);"/>
+                    <Edge cubics="!2245 485(;2245,485 2335,582 2335,582q2245 485 2335 582);"/>
+                    <Edge cubics="!2390 399(;2390,399 2428,20 2428,20q2390 399 2428 20);"/>
+                    <Edge cubics="!2428 20(;2428,20 2638,337 2638,337q2428 20 2638 337);"/>
+                    <Edge cubics="!2607 838(;2607,838 2620,917 2620,917q2607 838 2620 917);"/>
+                    <Edge cubics="!2566 905(;2566,905 2607,838 2607,838q2566 905 2607 838);"/>
+                    <Edge cubics="!2498 868(;2498,868 2511,894 2511,894q2498 868 2511 894);"/>
+                    <Edge cubics="!2540 951(;2540,951 2495,898 2495,898q2540 951 2495 898);"/>
+                    <Edge cubics="!2511 894(;2511,894 2566,905 2566,905q2511 894 2566 905);"/>
+                    <Edge cubics="!2536 795(;2536,795 2489,845 2489,845q2536 795 2489 845);"/>
+                    <Edge cubics="!2489 845(;2489,845 2498,868 2498,868q2489 845 2498 868);"/>
+                    <Edge cubics="!2365 823(;2365,823 2420,812 2420,812q2365 823 2420 812);"/>
+                    <Edge cubics="!2479 890(;2479,890 2454,879 2454,879q2479 890 2454 879);"/>
+                    <Edge cubics="!2454 879(;2454,879 2404,926 2404,926q2454 879 2404 926);"/>
+                    <Edge cubics="!2404 926(;2404,926 2412,859 2412,859q2404 926 2412 859);"/>
+                    <Edge cubics="!2412 859(;2412,859 2365,833 2365,833q2412 859 2365 833);"/>
+                    <Edge cubics="!2351 825(;2351,825 2365,823 2365,823q2351 825 2365 823);"/>
+                    <Edge cubics="!2365 833(;2365,833 2351,825 2351,825q2365 833 2351 825);"/>
+                    <Edge cubics="!2479 890(;2479,890 2355,1030 2355,1030q2479 890 2355 1030);"/>
+                    <Edge cubics="!2355 1030(;2355,1030 2365,833 2365,833q2355 1030 2365 833);"/>
+                    <Edge cubics="!2631 1050(;2631,1050 2575,991 2575,991q2631 1050 2575 991);"/>
+                    <Edge cubics="!2495 898(;2495,898 2479,890 2479,890q2495 898 2479 890);"/>
+                    <Edge cubics="!2502 1022(;2502,1022 2540,951 2540,951q2502 1022 2540 951);"/>
+                    <Edge cubics="!2575 991(;2575,991 2502,1022 2502,1022q2575 991 2502 1022);"/>
+                    <Edge cubics="!2625 971(;2625,971 2631,1050 2631,1050q2625 971 2631 1050);"/>
+                    <Edge cubics="!2466 805(;2466,805 2536,795 2536,795q2466 805 2536 795);"/>
+                    <Edge cubics="!2275 836(;2275,836 2259,704 2259,704q2275 836 2259 704);"/>
+                    <Edge cubics="!2347 725(;2347,725 2275,836 2275,836q2347 725 2275 836);"/>
+                    <Edge cubics="!2365 823(;2365,823 2369,730 2369,730q2365 823 2369 730);"/>
+                    <Edge cubics="!2606 747(;2606,747 2498,868 2498,868q2606 747 2498 868);"/>
+                    <Edge cubics="!2420 812(;2420,812 2432,744 2432,744q2420 812 2432 744);"/>
+                    <Edge cubics="!2432 744(;2432,744 2466,805 2466,805q2432 744 2466 805);"/>
+                    <Edge cubics="!2691 316(;2691,316 2630,284 2630,284q2691 316 2630 284);"/>
+                    <Edge cubics="!2630 284(;2630,284 2700,270 2700,270q2630 284 2700 270);"/>
+                    <Edge cubics="!2797 818(;2797,818 2606,747 2606,747q2797 818 2606 747);"/>
+                    <Edge cubics="!2620 917(;2620,917 2696,937 2696,937q2620 917 2696 937);"/>
+                    <Edge cubics="!2696 937(;2696,937 2625,971 2625,971q2696 937 2625 971);"/>
+                    <Edge cubics="!2638 337(;2638,337 2691,326 2691,326q2638 337 2691 326);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="efeitos_levelBar" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0878B7" alpha="0.301960784313725"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.16650390625" d="0.01123046875" tx="170.05" ty="35.2"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0.701960784313725" ratio="0.517647058823529"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="
+!3007 744/3188 744!3188 744/7124 744!7124 744/7385 744!7385 744/7763 744!7763 744/7764 887!7764 887/7385 887!7385 887/7124 887!7124 887/3188 888!3188 888/3160 888!3160 888/2785 888!2785 888|2779.5 800"/>
+                    <Edge fillStyle1="1" edges="
+!2779.5 800/2151 800!2151 800/926 800!926 800/926 880!926 880/259 880!259 880|238 834!238 834[217 769 219 671!219 671[221 575 241 511!241 511[251 480 260 467!260 467/2151 466.5!2151 466.5/3102 466!3102 466[#C29.9C #222.5F 3113.5 638.5
+!3113.5 638.5[#C25.BC #27B.3B 3106 632!3106 632[3106 631 3105 631!3105 631[3071 602 3037 600!3037 600/2884 600"/>
+                    <Edge fillStyle1="2" edges="
+!2884 600[#B5B.97 #284.D 2912 712"/>
+                    <Edge fillStyle1="1" edges="
+!2912 712/2957 712!2957 712[2987 712 3007 744"/>
+                    <Edge fillStyle1="2" edges="
+!2767 712[#AB8.AC 632 2697 632!2697 632/2151 632!2151 632/926 632"/>
+                    <Edge fillStyle1="1" edges="
+!926 632/926 680!926 680/926 712!926 712/2151 712!2151 712/2767 712"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="
+!2779.5 800|2777 760!2777 760[2774 738 2769 720!2769 720[#ACF.FA #2CB.E8 2767 712!926 632/666 632!666 632/666 600!666 600/666 520!666 520/2151 520!2151 520/2777 520!2777 520[2811 522 2845 551!2845 551[2846 551 2846 552!2846 552[2850 555
+ 2854 559!2854 559[#B37.B2 #240.66 2884 600"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!3007 744|2913 744!2913 744[2913 #2D7.69 2912 712"/>
+                    <Edge cubics="!259 880(;259,880 216,828 219,671q259 880Q259 880q238 834Q217 769q219 671);"/>
+                    <Edge cubics="!219 671(;222,517 260,467 260,467q219 671Q221 575q241 511Q251 480q260 467);"/>
+                    <Edge cubics="!926 880(;926,880 259,880 259,880q926 880 259 880);"/>
+                    <Edge cubics="!260 467(;260,467 2151,467 2151,467q260 467 2151 467);"/>
+                    <Edge cubics="!2151 467(;2151,467 3102,466 3102,466q2151 467 3102 466);"/>
+                    <Edge cubics="!926 880(;926,880 926,800 926,800q926 880 926 800);"/>
+                    <Edge cubics="!3105 631(;3106,631 3106,631 3106,632q3105 631Q3106 631q3106 632);"/>
+                    <Edge cubics="!3037 600(;3060,601 3082,612 3105,631q3037 600Q3071 602q3105 631);"/>
+                    <Edge cubics="!926 712(;926,712 926,680 926,680q926 712 926 680);"/>
+                    <Edge cubics="!3106 632(;3109,634 3111,636 3114,639q3106 632Q3110 635q3114 639);"/>
+                    <Edge cubics="!3102 466(;3110,519 3114,577 3114,639q3102 466Q3114 546q3114 639);"/>
+                    <Edge cubics="!2884 600(;2884,600 3037,600 3037,600q2884 600 3037 600);"/>
+                    <Edge cubics="!2957 712(;2957,712 2912,712 2912,712q2957 712 2912 712);"/>
+                    <Edge cubics="!2767 712(;2767,712 2151,712 2151,712q2767 712 2151 712);"/>
+                    <Edge cubics="!2151 712(;2151,712 926,712 926,712q2151 712 926 712);"/>
+                    <Edge cubics="!3007 744(;2997,724 2979,712 2957,712q3007 744Q2987 712q2957 712);"/>
+                    <Edge cubics="!926 800(;926,800 2151,800 2151,800q926 800 2151 800);"/>
+                    <Edge cubics="!2151 800(;2151,800 2780,800 2780,800q2151 800 2780 800);"/>
+                    <Edge cubics="!3160 888(;3160,888 2785,888 2785,888q3160 888 2785 888);"/>
+                    <Edge cubics="!666 520(;666,520 2151,520 2151,520q666 520 2151 520);"/>
+                    <Edge cubics="!2151 520(;2151,520 2777,520 2777,520q2151 520 2777 520);"/>
+                    <Edge cubics="!2697 632(2697,632;2697,632 2151,632 2151,632q2697 632 2151 632);"/>
+                    <Edge cubics="!2151 632(;2151,632 926,632 926,632q2151 632 926 632);"/>
+                    <Edge cubics="!926 632(;926,632 666,632 666,632q926 632 666 632);"/>
+                    <Edge cubics="!7763 744(;7763,744 7764,887 7764,887q7763 744 7764 887);"/>
+                    <Edge cubics="!2913 744(;2913,744 3007,744 3007,744q2913 744 3007 744);"/>
+                    <Edge cubics="!2845 551(;2846,551 2846,551 2846,552q2845 551Q2846 551q2846 552);"/>
+                    <Edge cubics="!2777 520(;2800,521 2822,532 2845,551q2777 520Q2811 522q2845 551);"/>
+                    <Edge cubics="!666 600(;666,600 666,520 666,520q666 600 666 520);"/>
+                    <Edge cubics="!666 632(;666,632 666,600 666,600q666 632 666 600);"/>
+                    <Edge cubics="!2846 552(;2849,554 2851,556 2854,559q2846 552Q2850 555q2854 559);"/>
+                    <Edge cubics="!2777 760(;2775,745 2772,732 2769,720q2777 760Q2774 738q2769 720);"/>
+                    <Edge cubics="!2854 559(;2866,571 2876,585 2884,600q2854 559 2884 600);"/>
+                    <Edge cubics="!2767 712(;2752,659 2729,632 2697,632q2767 712Q2745 632q2697 632);"/>
+                    <Edge cubics="!2769 720(;2768,717 2768,715 2767,712q2769 720Q2768 716q2767 712);"/>
+                    <Edge cubics="!2780 800(;2780,800 2777,760 2777,760q2780 800 2777 760);"/>
+                    <Edge cubics="!2785 888(;2785,888 2780,800 2780,800q2785 888 2780 800);"/>
+                    <Edge cubics="!2884 600(;2900,630 2909,667 2912,712q2884 600Q2908 645q2912 712);"/>
+                    <Edge cubics="!2912 712(;2913,722 2913,733 2913,744q2912 712Q2913 727q2913 744);"/>
+                    <Edge cubics="!926 680(;926,680 926,632 926,632q926 680 926 632);"/>
+                    <Edge cubics="!3007 744(;3007,744 3188,744 3188,744q3007 744 3188 744);"/>
+                    <Edge cubics="!3188 744(;3188,744 7124,744 7124,744q3188 744 7124 744);"/>
+                    <Edge cubics="!7124 744(;7124,744 7385,744 7385,744q7124 744 7385 744);"/>
+                    <Edge cubics="!7385 744(7385,744;7385,744 7763,744 7763,744q7385 744 7763 744);"/>
+                    <Edge cubics="!7764 887(;7764,887 7385,887 7385,887q7764 887 7385 887);"/>
+                    <Edge cubics="!7385 887(;7385,887 7124,887 7124,887q7385 887 7124 887);"/>
+                    <Edge cubics="!3188 888(;3188,888 3160,888 3160,888q3188 888 3160 888);"/>
+                    <Edge cubics="!7124 887(;7124,887 3188,888 3188,888q7124 887 3188 888);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Rede_neon_pro_nome" centerPoint3DX="85.7" centerPoint3DY="34.9">
+                  <matrix>
+                    <Matrix d="0.966156005859375" tx="85.7" ty="34.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#389DF2" quality="3" strength="3.55"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ParticleBalls" centerPoint3DX="215.4" centerPoint3DY="35.15">
+                  <matrix>
+                    <Matrix a="-0.99884033203125" b="-0.047821044921875" c="0.047821044921875" d="-0.99884033203125" tx="215" ty="35.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="3" strength="3.45"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Rede_neon_pro_nome" centerPoint3DX="85.7" centerPoint3DY="34.9">
+                  <matrix>
+                    <Matrix d="0.966156005859375" tx="85.7" ty="34.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#389DF2" quality="3" strength="3.55"/>
+                    <GradientGlowFilter angle="0" quality="3" distance="0">
+                      <GradientEntry color="#FFFFFF" alpha="0" ratio="0"/>
+                      <GradientEntry color="#CCCCCC" ratio="1"/>
+                    </GradientGlowFilter>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ParticleBalls" centerPoint3DX="61" centerPoint3DY="35.55">
+                  <matrix>
+                    <Matrix tx="61" ty="35.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="3" strength="3.45"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="base" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-1.52587890625e-005" b="0.048583984375" c="-0.0409393310546875" d="0" tx="479.95" ty="33.5"/>
+                        </matrix>
+                        <GradientEntry alpha="0.709803921568627" ratio="0"/>
+                        <GradientEntry color="#022438" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.5859375" d="0.0274658203125" tx="480" ty="22.5"/>
+                        </matrix>
+                        <GradientEntry alpha="0.2" ratio="0"/>
+                        <GradientEntry color="#000033" alpha="0.509803921568627" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="2" edges="
+!0 820|0 0!0 0|19200 0!19200 0|19200 820"/>
+                    <Edge fillStyle1="1" edges="
+!19200 820|19200 1341!19200 1341|0 1341!0 1341|0 820"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!0 820|19200 820"/>
+                    <Edge cubics="!19200 0(;19200,0 19200,820 19200,820q19200 0 19200 820);"/>
+                    <Edge cubics="!19200 820(;19200,820 19200,1341 19200,1341q19200 820 19200 1341);"/>
+                    <Edge cubics="!0 1341(;0,1341 0,820 0,820q0 1341 0 820);"/>
+                    <Edge cubics="!0 820(;0,820 0,0 0,0q0 820 0 0);"/>
+                    <Edge cubics="!19200 1341(;19200,1341 0,1341 0,1341q19200 1341 0 1341);"/>
+                    <Edge cubics="!0 0(0,0;0,0 19200,0 19200,0q0 0 19200 0);"/>
+                    <Edge cubics="!19200 820(;19200,820 0,820 0,820q19200 820 0 820);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

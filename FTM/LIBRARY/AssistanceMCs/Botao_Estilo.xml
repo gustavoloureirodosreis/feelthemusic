@@ -1,0 +1,138 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Botao_Estilo" itemID="54860c76-00001bc1" lastModified="1438698911" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="Botao_Estilo">
+      <layers>
+        <DOMLayer name="simbolo" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!253 -150|56 -154!56 -154|-10 -340!-10 -340|-11 -340!-11 -340|-74 -153!-74 -153|-272 -146!-272 -146|-114 -29!-114 -29|-168 160!-168 160|-7 47!-7 47|156 157!156 157|98 -31!98 -31|253 -150"/>
+                    <Edge cubics="!98 -31(;98,-31 253,-150 253,-150q98 -31 253 -150);"/>
+                    <Edge cubics="!253 -150(;253,-150 56,-154 56,-154q253 -150 56 -154);"/>
+                    <Edge cubics="!156 157(156,157;156,157 98,-31 98,-31q156 157 98 -31);"/>
+                    <Edge cubics="!-272 -146(;-272,-146 -114,-29 -114,-29q-272 -146 -114 -29);"/>
+                    <Edge cubics="!-74 -153(-74,-153;-74,-153 -272,-146 -272,-146q-74 -153 -272 -146);"/>
+                    <Edge cubics="!-11 -340(;-11,-340 -74,-153 -74,-153q-11 -340 -74 -153);"/>
+                    <Edge cubics="!-10 -340(;-10,-340 -11,-340 -11,-340q-10 -340 -11 -340);"/>
+                    <Edge cubics="!-168 160(-168,160;-168,160 -7,47 -7,47q-168 160 -7 47);"/>
+                    <Edge cubics="!-114 -29(;-114,-29 -168,160 -168,160q-114 -29 -168 160);"/>
+                    <Edge cubics="!-7 47(;-7,47 156,157 156,157q-7 47 156 157);"/>
+                    <Edge cubics="!56 -154(;56,-154 -10,-340 -10,-340q56 -154 -10 -340);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="base" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0119171142578125" b="-0.0214385986328125" c="0.018646240234375" d="0.0103607177734375" ty="-3.4"/>
+                        </matrix>
+                        <GradientEntry color="#0878B7" alpha="0.850980392156863" ratio="0"/>
+                        <GradientEntry color="#1A3F69" alpha="0.549019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!552 -411[551 -414 548 -416!548 -416[545 -418 542 -418!542 -418|-233 -418!-233 -418[-443 -279 -499 -157!-499 -157[-518 -114 -538 45!-538 45[-549 132 -563 274!-563 274[-563 278 -560 279!-560 279[-557 281 -554 281!-554 281|228 282!228 282
+[230 282 232 281!232 281[254 271 303 230!303 230[358 184 379 171!379 171[470 114 514 24!514 24[564 -77 564 -235!564 -235|564 -332!564 -332[562 -378 552 -411"/>
+                    <Edge cubics="!564 -235(;564,-309 568,-360 552,-411q564 -235Q564 -332q564 -332Q562 -378q552 -411);"/>
+                    <Edge cubics="!552 -411(;551,-413 550,-415 548,-416q552 -411Q551 -414q548 -416);"/>
+                    <Edge cubics="!548 -416(;546,-417 544,-418 542,-418q548 -416Q545 -418q542 -418);"/>
+                    <Edge cubics="!228 282(;229,282 231,282 232,281q228 282Q230 282q232 281);"/>
+                    <Edge cubics="!232 281(;273,262 331,201 379,171q232 281Q254 271q303 230Q358 184q379 171);"/>
+                    <Edge cubics="!-560 279(;-558,280 -556,281 -554,281q-560 279Q-557 281q-554 281);"/>
+                    <Edge cubics="!-563 274(;-563,276 -562,278 -560,279q-563 274Q-563 278q-560 279);"/>
+                    <Edge cubics="!-554 281(;-554,281 228,282 228,282q-554 281 228 282);"/>
+                    <Edge cubics="!-563 274(;-551,171 -530,-89 -499,-157q-563 274Q-549 132q-538 45Q-518 -114q-499 -157);"/>
+                    <Edge cubics="!-233 -418(;-301,-373 -444,-277 -499,-157q-233 -418Q-443 -279q-499 -157);"/>
+                    <Edge cubics="!542 -418(;542,-418 -233,-418 -233,-418q542 -418 -233 -418);"/>
+                    <Edge cubics="!379 171(;493,100 564,-14 564,-235q379 171Q470 114q514 24Q564 -77q564 -235);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/_neonSorters/neon_estilo" centerPoint3DX="0.5" centerPoint3DY="-3.9">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-3.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#11C4FF" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0.0119171142578125" b="-0.0214385986328125" c="0.018646240234375" d="0.0103607177734375" ty="-3.4"/>
+                        </matrix>
+                        <GradientEntry color="#0802B7" alpha="0.847058823529412" ratio="0"/>
+                        <GradientEntry color="#1A0069" alpha="0.549019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!564 -245[566 -307 565 -333!565 -333[563 -377 552 -411!552 -411[551 -414 548 -416!548 -416[545 -418 542 -418!542 -418|-231 -418!-231 -418[-232 -418 -233 -418!-233 -418[-266 -411 -363 -315!-363 -315[-461 -219 -484 -168!-484 -168[-499 -134
+ -530 -69!-530 -69[-552 -7 -544 76!-544 76[-541 107 -556 180!-556 180[-570 248 -563 274!-563 274[-563 277 -560 279!-560 279[-557 281 -554 281!-554 281|228 282!228 282[230 282 232 281!232 281[293 253 365 208!365 208[424 170 463 100!463
+ 100[485 61 516 -4!516 -4[542 -43 552 -106!552 -106[561 -154 564 -245"/>
+                    <Edge cubics="!564 -245(;566,-309 568,-360 552,-411q564 -245Q566 -307q565 -333Q563 -377q552 -411);"/>
+                    <Edge cubics="!552 -411(;551,-413 550,-415 548,-416q552 -411Q551 -414q548 -416);"/>
+                    <Edge cubics="!548 -416(;546,-417 544,-418 542,-418q548 -416Q545 -418q542 -418);"/>
+                    <Edge cubics="!228 282(;229,282 231,282 232,281q228 282Q230 282q232 281);"/>
+                    <Edge cubics="!232 281(;273,262 317,238 365,208q232 281Q293 253q365 208);"/>
+                    <Edge cubics="!365 208(;460,147 481,51 516,-4q365 208Q424 170q463 100Q485 61q516 -4);"/>
+                    <Edge cubics="!516 -4(;553,-61 560,-140 564,-245q516 -4Q542 -43q552 -106Q561 -154q564 -245);"/>
+                    <Edge cubics="!-231 -418(;-232,-418 -232,-418 -233,-418q-231 -418Q-232 -418q-233 -418);"/>
+                    <Edge cubics="!-560 279(;-558,280 -556,281 -554,281q-560 279Q-557 281q-554 281);"/>
+                    <Edge cubics="!-563 274(;-563,276 -562,278 -560,279q-563 274Q-563 277q-560 279);"/>
+                    <Edge cubics="!-544 76(;-537,141 -576,223 -563,274q-544 76Q-541 107q-556 180Q-570 248q-563 274);"/>
+                    <Edge cubics="!-484 -168(;-515,-100 -557,-54 -544,76q-484 -168Q-499 -134q-530 -69Q-552 -7q-544 76);"/>
+                    <Edge cubics="!542 -418(;542,-418 -231,-418 -231,-418q542 -418 -231 -418);"/>
+                    <Edge cubics="!-554 281(;-554,281 228,282 228,282q-554 281 228 282);"/>
+                    <Edge cubics="!-233 -418(;-276,-409 -453,-237 -484,-168q-233 -418Q-266 -411q-363 -315Q-461 -219q-484 -168);"/>
+                  </edges>
+                </DOMShape>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/_neonSorters/neon_estilo" centerPoint3DX="0.5" centerPoint3DY="-3.9">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-3.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#11C4FF" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,119 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="GameModeScreenMCs/GameModeScreen" itemID="53ada933-00000541" linkageExportForAS="true" linkageClassName="GameModeScreen" lastModified="1434652935" lastUniqueIdentifier="26">
+  <timeline>
+    <DOMTimeline name="GameModeScreen">
+      <layers>
+        <DOMLayer name="Janela de Aprendizado" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Setinhas" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/BeginningGif" name="beginningGif" centerPoint3DX="239.4" centerPoint3DY="449.3" isVisible="false">
+                  <matrix>
+                    <Matrix tx="218.1" ty="405.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.3" y="42.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Botoes" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="GameModeScreenMCs/SingleplayerBtn" name="singleplayerBtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.02032470703125" d="1.00994873046875" tx="100" ty="250.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.35" y="28.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="GameModeScreenMCs/MultiplayerBtn" name="multiplayerBtn" symbolType="button">
+                  <matrix>
+                    <Matrix a="1.01611328125" d="1.00579833984375" tx="501.7" ty="250.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28.4" y="28.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="GameModeScreenMCs/MultiplayerBlock" name="multiplayerBlock" symbolType="button" centerPoint3DX="679.45" centerPoint3DY="294.1">
+                  <matrix>
+                    <Matrix a="1.02420043945313" d="1.024169921875" tx="501.7" ty="250.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RankingCall" name="verRanking" symbolType="button" centerPoint3DX="937.2" centerPoint3DY="20.9">
+                  <matrix>
+                    <Matrix a="0.65997314453125" d="0.65850830078125" tx="920" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20" y="19.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/InviteBtn" name="inviteBtn" symbolType="button" centerPoint3DX="887.65" centerPoint3DY="21.3">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="870" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/PriceBtn" name="cursoBtn" centerPoint3DX="463.35" centerPoint3DY="445.6">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="325" ty="400"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="86.65" y="30.2"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.5"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="cursoTxt" selected="true" fontRenderingMode="device" width="387.15" height="61.15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="262" ty="502"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Clique para saber mais como acelerar seu aprendizado!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.996078431372549" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="2" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Background" centerPoint3DX="480" centerPoint3DY="300">
+                  <transformationPoint>
+                    <Point x="480" y="300"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

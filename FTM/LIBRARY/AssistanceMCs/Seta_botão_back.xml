@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Seta_botão_back" itemID="54830bbf-0000031c" lastModified="1417874367">
+  <timeline>
+    <DOMTimeline name="Seta_botão_back">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!752 111|399 111!399 111[394 111 391 112!391 112|391 0!391 0|0 227!0 227|391 452!391 452|391 340!391 340[394 340 399 340!399 340|622 340!622 340|622 406!622 406|556 406!556 406[504 406 504 458!504 458|504 583!504 583[504 635 556 635!556
+ 635|752 635!752 635[804 635 804 583!804 583|804 163!804 163[804 111 752 111"/>
+                        <Edge cubics="!391 0(391,0;391,0 0,227 0,227q391 0 0 227);"/>
+                        <Edge cubics="!391 452(;391,452 391,340 391,340q391 452 391 340);"/>
+                        <Edge cubics="!391 112(;391,112 391,0 391,0q391 112 391 0);"/>
+                        <Edge cubics="!0 227(;0,227 391,452 391,452q0 227 391 452);"/>
+                        <Edge cubics="!391 112(391,112;393,111 396,111 399,111q391 112Q394 111q399 111);"/>
+                        <Edge cubics="!752 111(;787,111 804,129 804,163q752 111Q804 111q804 163);"/>
+                        <Edge cubics="!399 340(;396,340 393,340 391,340q399 340Q394 340q391 340);"/>
+                        <Edge cubics="!556 406(;521,406 504,424 504,458q556 406Q504 406q504 458);"/>
+                        <Edge cubics="!504 583(;504,618 521,635 556,635q504 583Q504 635q556 635);"/>
+                        <Edge cubics="!504 458(;504,458 504,583 504,583q504 458 504 583);"/>
+                        <Edge cubics="!556 406(;556,406 622,406 622,406q556 406 622 406);"/>
+                        <Edge cubics="!399 340(;399,340 622,340 622,340q399 340 622 340);"/>
+                        <Edge cubics="!752 635(;787,635 804,618 804,583q752 635Q804 635q804 583);"/>
+                        <Edge cubics="!622 406(;622,406 622,340 622,340q622 406 622 340);"/>
+                        <Edge cubics="!752 635(;752,635 556,635 556,635q752 635 556 635);"/>
+                        <Edge cubics="!804 583(;804,583 804,163 804,163q804 583 804 163);"/>
+                        <Edge cubics="!752 111(;752,111 399,111 399,111q752 111 399 111);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

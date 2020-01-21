@@ -1,0 +1,58 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Preloader/movProgressBarEmboss" itemID="4b32891f-00003a0d" sourceFlashFilepath="../../../../Downloads/action-script-3-preloader-cs4/action-script-3-preloader.fla" sourceLibraryItemHRef="movProgressBarEmboss" sourceLastModified="1261603103" lastModified="1428018000" sourceItemID="4b311cef-000006f6">
+  <timeline>
+    <DOMTimeline name="movProgressBarEmboss">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#666666"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#333333"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                    <StrokeStyle index="2">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#999999"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!8280 60[8280 0 8220 0!8220 0|60 0!60 0[0 0 0 60!0 60|0 420!0 420[0 480 60 480"/>
+                    <Edge fillStyle0="1" strokeStyle="2" edges="!60 480|8220 480!8220 480[8280 480 8280 420!8280 420|8280 60"/>
+                    <Edge cubics="!8280 420(;8280,420 8280,60 8280,60q8280 420 8280 60);"/>
+                    <Edge cubics="!8280 60(;8280,20 8260,0 8220,0q8280 60Q8280 0q8220 0);"/>
+                    <Edge cubics="!8220 480(;8260,480 8280,460 8280,420q8220 480Q8280 480q8280 420);"/>
+                    <Edge cubics="!8220 0(;8220,0 60,0 60,0q8220 0 60 0);"/>
+                    <Edge cubics="!60 480(;60,480 8220,480 8220,480q60 480 8220 480);"/>
+                    <Edge cubics="!0 60(0,60;0,60 0,420 0,420q0 60 0 420)0,420;"/>
+                    <Edge cubics="!60 0(60,0;20,0 0,20 0,60q60 0Q0 0q0 60);"/>
+                    <Edge cubics="!0 420(0,420;0,460 20,480 60,480q0 420Q0 480q60 480)60,480;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

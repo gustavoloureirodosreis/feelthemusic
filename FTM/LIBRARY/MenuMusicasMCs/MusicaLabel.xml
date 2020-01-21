@@ -1,0 +1,658 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuMusicasMCs/MusicaLabel" itemID="537528e2-000002bf" lastModified="1431025542" lastUniqueIdentifier="37">
+  <timeline>
+    <DOMTimeline name="MusicaLabel" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;149&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="estrelas_douradas" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/EstrelaDourada" centerPoint3DX="83.4" centerPoint3DY="85.25">
+                  <matrix>
+                    <Matrix a="0.5999755859375" d="0.5999755859375" tx="62.45" ty="65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.9" y="33.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/EstrelaDourada" centerPoint3DX="126.95" centerPoint3DY="85.25">
+                  <matrix>
+                    <Matrix a="0.5999755859375" d="0.5999755859375" tx="106" ty="65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.9" y="33.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/EstrelaDourada" centerPoint3DX="167.95" centerPoint3DY="85.25">
+                  <matrix>
+                    <Matrix a="0.5999755859375" d="0.5999755859375" tx="147" ty="65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.9" y="33.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/disco_dourado_inclinado.png">
+                  <matrix>
+                    <Matrix tx="-39" ty="49"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="conteudos" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="score" selected="true" width="85.95" height="40" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="82" ty="114"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>4235</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="13.65" size="40" bitmapSize="800" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="MenuMusicasMCs/StarsLevel" name="musicLevel" centerPoint3DX="122.5" centerPoint3DY="98.4">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="62.5" ty="78.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="75.05" y="25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="6" blurY="6" color="#37CDFF" quality="3" strength="1.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="musica_nome" width="186.25" height="61.95" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="16.8" ty="13.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.3" y="12.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jason Mraz - It is So Hard To Say Goodbye To Yesterday</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" size="17" bitmapSize="340" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Comprar" name="comprarBtn" symbolType="button" centerPoint3DX="123.2" centerPoint3DY="92.75">
+                  <matrix>
+                    <Matrix a="0.709991455078125" d="0.709991455078125" tx="70" ty="75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText selected="true" width="109.15" height="43.5" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="75.85" ty="116.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="91" y="12.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Você ainda não comprou essa música</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" bitmapSize="240" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF" isEnabled="false"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="levelMsg" width="116.15" height="48.95" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="73.9" ty="116.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.3" y="12.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Alcance o level para desbloquear essa música</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" bitmapSize="240" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF" isEnabled="false"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/EstrelaAzul_base" centerPoint3DX="145" centerPoint3DY="93.65">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="120.55" ty="70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.95" y="33.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="levelNum" fontRenderingMode="standard" width="35.55" height="27.95" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="131.75" ty="89.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.35" y="13.75"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>99</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#263F66" quality="3" strength="30"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Cadeado" centerPoint3DX="102.9" centerPoint3DY="94.2">
+                  <matrix>
+                    <Matrix a="1.3302001953125" d="1.3302001953125" tx="87.6" ty="72.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.5" y="16"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="levelMsg" width="116.15" height="48.95" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="73.9" ty="116.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.3" y="12.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Música exclusiva para jogadores premium</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" bitmapSize="240" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF" isEnabled="false"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/EstrelaAzul_base" centerPoint3DX="145" centerPoint3DY="93.65">
+                  <matrix>
+                    <Matrix a="0.699996948242188" d="0.699996948242188" tx="120.55" ty="70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.95" y="33.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="levelNum" fontRenderingMode="standard" width="24.3" height="25" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.75" d="0.75" tx="136.5" ty="89.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.35" y="13.75"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>P</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="25" bitmapSize="500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#263F66" quality="3" strength="30"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Cadeado" centerPoint3DX="102.9" centerPoint3DY="94.2">
+                  <matrix>
+                    <Matrix a="1.3302001953125" d="1.3302001953125" tx="87.6" ty="72.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.5" y="16"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#00FFFF"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bloqueios_conteudos" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="2" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.00999450683594" d="1.00999450683594" tx="-55.15" ty="-43.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.05" y="122.8"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4978 2343[4945 2909 4803 4118!4803 4118[4210 4132 3402 4122!3402 4122[2546 4112 2226 4117!2226 4117[2022 4152 1934 4152!1934 4152[1827 4153 1614 4113!1614 4113[1391 4117 1251 4104!1251 4104[1224 4096 1219 4036!1219 4036[1218 3959 1214
+ 3922!1214 3922[905 3756 655 3404!655 3404[408 3056 346 2705!346 2705[278 2322 469 2102!469 2102[688 1851 1207 1877!1207 1877[1212 1688 1165 1498!1165 1498[1119 1313 1051 1234!1051 1234[1638 909 2938 806!2938 806[3835 735 4956 775!4956
+ 775[5025 1537 4978 2343"/>
+                    <Edge cubics="!1207 1877(;1214,1620 1140,1337 1051,1234q1207 1877Q1212 1688q1165 1498Q1119 1313q1051 1234);"/>
+                    <Edge cubics="!2226 4117(;1968,4161 1910,4168 1614,4113q2226 4117Q2022 4152q1934 4152Q1827 4153q1614 4113);"/>
+                    <Edge cubics="!1614 4113(;1488,4115 1374,4115 1251,4104q1614 4113Q1391 4117q1251 4104);"/>
+                    <Edge cubics="!4803 4118(;3728,4143 3001,4104 2226,4117q4803 4118Q4210 4132q3402 4122Q2546 4112q2226 4117);"/>
+                    <Edge cubics="!1251 4104(;1207,4091 1221,3996 1214,3922q1251 4104Q1224 4096q1219 4036Q1218 3959q1214 3922);"/>
+                    <Edge cubics="!1214 3922(;383,3477 -268,1802 1207,1877q1214 3922Q905 3756q655 3404Q408 3056q346 2705Q278 2322q469 2102Q688 1851q1207 1877);"/>
+                    <Edge cubics="!4956 775(;5056,1883 4966,2733 4803,4118q4956 775Q5025 1537q4978 2343Q4945 2909q4803 4118);"/>
+                    <Edge cubics="!1051 1234(;1938,743 3893,737 4956,775q1051 1234Q1638 909q2938 806Q3835 735q4956 775);"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="musica_nome" width="186.25" height="61.95" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="17.45" ty="13.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.3" y="12.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jason Mraz - It is So Hard To Say Goodbye To Yesterday</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" size="17" bitmapSize="340" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="price" width="43.7" height="6" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="82" ty="77.95"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>250</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="13.65" size="5" bitmapSize="100" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.00999450683594" d="1.00999450683594" tx="-55.15" ty="-43.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.05" y="122.8"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!4978 2343[4945 2909 4803 4118!4803 4118[4210 4132 3402 4122!3402 4122[2546 4112 2226 4117!2226 4117[2022 4152 1934 4152!1934 4152[1827 4153 1614 4113!1614 4113[1391 4117 1251 4104!1251 4104[1224 4096 1219 4036!1219 4036[1218 3959 1214
+ 3922!1214 3922[905 3756 655 3404!655 3404[408 3056 346 2705!346 2705[278 2322 469 2102!469 2102[688 1851 1207 1877!1207 1877[1212 1688 1165 1498!1165 1498[1119 1313 1051 1234!1051 1234[1638 909 2938 806!2938 806[3835 735 4956 775!4956
+ 775[5025 1537 4978 2343"/>
+                    <Edge cubics="!1207 1877(;1214,1620 1140,1337 1051,1234q1207 1877Q1212 1688q1165 1498Q1119 1313q1051 1234);"/>
+                    <Edge cubics="!2226 4117(;1968,4161 1910,4168 1614,4113q2226 4117Q2022 4152q1934 4152Q1827 4153q1614 4113);"/>
+                    <Edge cubics="!1614 4113(;1488,4115 1374,4115 1251,4104q1614 4113Q1391 4117q1251 4104);"/>
+                    <Edge cubics="!4803 4118(;3728,4143 3001,4104 2226,4117q4803 4118Q4210 4132q3402 4122Q2546 4112q2226 4117);"/>
+                    <Edge cubics="!1251 4104(;1207,4091 1221,3996 1214,3922q1251 4104Q1224 4096q1219 4036Q1218 3959q1214 3922);"/>
+                    <Edge cubics="!1214 3922(;383,3477 -268,1802 1207,1877q1214 3922Q905 3756q655 3404Q408 3056q346 2705Q278 2322q469 2102Q688 1851q1207 1877);"/>
+                    <Edge cubics="!4956 775(;5056,1883 4966,2733 4803,4118q4956 775Q5025 1537q4978 2343Q4945 2909q4803 4118);"/>
+                    <Edge cubics="!1051 1234(;1938,743 3893,737 4956,775q1051 1234Q1638 909q2938 806Q3835 735q4956 775);"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="musica_nome" width="186.25" height="61.95" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="16.8" ty="13.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.3" y="12.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jason Mraz - It is So Hard To Say Goodbye To Yesterday</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" size="17" bitmapSize="340" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="1.00999450683594" d="1.00999450683594" tx="-55.15" ty="-43.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="133.05" y="122.8"/>
+                  </transformationPoint>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF" alpha="0"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!4978 2343[4945 2909 4803 4118!4803 4118[4210 4132 3402 4122!3402 4122[2546 4112 2226 4117!2226 4117[2022 4152 1934 4152!1934 4152[1827 4153 1614 4113!1614 4113[1391 4117 1251 4104!1251 4104[1224 4096 1219 4036!1219 4036[1218 3959 1214
+ 3922!1214 3922[905 3756 655 3404!655 3404[408 3056 346 2705!346 2705[278 2322 469 2102!469 2102[688 1851 1207 1877!1207 1877[1212 1688 1165 1498!1165 1498[1119 1313 1051 1234!1051 1234[1638 909 2938 806!2938 806[3835 735 4956 775!4956
+ 775[5025 1537 4978 2343"/>
+                    <Edge cubics="!1207 1877(;1214,1620 1140,1337 1051,1234q1207 1877Q1212 1688q1165 1498Q1119 1313q1051 1234);"/>
+                    <Edge cubics="!2226 4117(;1968,4161 1910,4168 1614,4113q2226 4117Q2022 4152q1934 4152Q1827 4153q1614 4113);"/>
+                    <Edge cubics="!1614 4113(;1488,4115 1374,4115 1251,4104q1614 4113Q1391 4117q1251 4104);"/>
+                    <Edge cubics="!4803 4118(;3728,4143 3001,4104 2226,4117q4803 4118Q4210 4132q3402 4122Q2546 4112q2226 4117);"/>
+                    <Edge cubics="!1251 4104(;1207,4091 1221,3996 1214,3922q1251 4104Q1224 4096q1219 4036Q1218 3959q1214 3922);"/>
+                    <Edge cubics="!1214 3922(;383,3477 -268,1802 1207,1877q1214 3922Q905 3756q655 3404Q408 3056q346 2705Q278 2322q469 2102Q688 1851q1207 1877);"/>
+                    <Edge cubics="!4956 775(;5056,1883 4966,2733 4803,4118q4956 775Q5025 1537q4978 2343Q4945 2909q4803 4118);"/>
+                    <Edge cubics="!1051 1234(;1938,743 3893,737 4956,775q1051 1234Q1638 909q2938 806Q3835 735q4956 775);"/>
+                  </edges>
+                </DOMShape>
+                <DOMDynamicText name="musica_nome" width="186.25" height="61.95" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.899993896484375" d="0.899993896484375" tx="16.8" ty="13.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113.3" y="12.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jason Mraz - It is So Hard To Say Goodbye To Yesterday</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" alpha="0.898039215686275" lineSpacing="0" size="17" bitmapSize="340" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="disco" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Disco3" name="disco" centerPoint3DX="81.4" centerPoint3DY="168.7">
+                  <matrix>
+                    <Matrix tx="-68.6" ty="18.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150" y="150"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF" strength="0.6"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="stroke" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ThemeLabel_stroke_glowable" name="stroke" centerPoint3DX="209.35" centerPoint3DY="160.25">
+                  <matrix>
+                    <Matrix tx="98" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ThemeLabel_stroke_glowable" name="stroke" centerPoint3DX="209.35" centerPoint3DY="160.25">
+                  <matrix>
+                    <Matrix tx="98" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ThemeLabel_stroke" centerPoint3DX="98" centerPoint3DY="80">
+                  <matrix>
+                    <Matrix tx="1.65" ty="-0.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="96.35" y="80.25"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFF00" quality="3" strength="3"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFD700"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/ThemeLabel_stroke_glowable" name="stroke" centerPoint3DX="209.35" centerPoint3DY="160.25">
+                  <matrix>
+                    <Matrix tx="98" ty="80"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="corte_base" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="1.52587890625e-005" b="-0.09918212890625" c="0.097991943359375" d="3.0517578125e-005" tx="129.05" ty="63"/>
+                        </matrix>
+                        <GradientEntry color="#5CB0F5" alpha="0" ratio="0"/>
+                        <GradientEntry color="#8BC7F8" alpha="0.349019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!3781 60/2500 60!2500 60/1220 3151!1220 3151/3651 3151!3651 3151[3701 2799 3752 2344!3752 2344[3852 1435 3853 925!3853 925[3854 415 3817 187!3817 187[3799 72 3781 60"/>
+                    <Edge cubics="!1220 3151(;1220,3151 3651,3151 3651,3151q1220 3151 3651 3151);"/>
+                    <Edge cubics="!3853 925(;3854,109 3781,60 3781,60q3853 925Q3854 415q3817 187Q3799 72q3781 60);"/>
+                    <Edge cubics="!3781 60(;3781,60 2500,60 2500,60q3781 60p2500 60);"/>
+                    <Edge cubics="!2500 60(;2500,60 1220,3151 1220,3151q2500 60p1220 3151);"/>
+                    <Edge cubics="!3651 3151(;3651,3151 3852,1741 3853,925q3651 3151Q3701 2799q3752 2344Q3852 1435q3853 925);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="base" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0118865966796875" b="-0.0965423583984375" c="0.0982666015625" d="-0.012115478515625" tx="-467.25" ty="148.95"/>
+                        </matrix>
+                        <GradientEntry color="#35157F" alpha="0.949019607843137" ratio="0"/>
+                        <GradientEntry color="#0878B7" alpha="0.749019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!3837 914[3837 1342 3741 2319!3741 2319[3692 2807 3644 3210!3644 3210/200 3210!200 3210[204 2667 187 2061!187 2061[155 847 56 527!56 527[47 487 39 463!39 463[23 418 0 410!0 410[4 407 8 404!8 404[136 305 550 205!550 205[1406 0 2930 0!2930
+ 0/3829 0!3829 0[3837 229 3837 914"/>
+                    <Edge cubics="!3829 0(;3829,0 3837,229 3837,914q3829 0Q3837 229q3837 914);"/>
+                    <Edge cubics="!3644 3210(;3644,3210 200,3210 200,3210q3644 3210 200 3210);"/>
+                    <Edge cubics="!56 527(;48,500 37,422 0,410q56 527Q47 487q39 463Q23 418q0 410);"/>
+                    <Edge cubics="!2930 0(;2930,0 3829,0 3829,0p2930 0 3829 0);"/>
+                    <Edge cubics="!0 410(;3,408 5,406 8,404q0 410Q4 407q8 404);"/>
+                    <Edge cubics="!8 404(;93,338 274,272 550,205q8 404Q136 305q550 205);"/>
+                    <Edge cubics="!550 205(;1121,68 1914,0 2930,0q550 205Q1406 0q2930 0);"/>
+                    <Edge cubics="!200 3210(;200,3210 214,1039 56,527q200 3210Q204 2667q187 2061Q155 847q56 527);"/>
+                    <Edge cubics="!3837 914(;3837,1599 3644,3210 3644,3210q3837 914Q3837 1342q3741 2319Q3692 2807q3644 3210);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0118865966796875" b="-0.0965423583984375" c="0.0982666015625" d="-0.012115478515625" tx="-467.25" ty="148.95"/>
+                        </matrix>
+                        <GradientEntry color="#F5D407" alpha="0.949019607843137" ratio="0"/>
+                        <GradientEntry color="#7EE2BF" alpha="0.749019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!3837 914[3837 1342 3741 2319!3741 2319[3692 2807 3644 3210!3644 3210/200 3210!200 3210[204 2667 187 2061!187 2061[155 847 56 527!56 527[47 487 39 463!39 463[23 418 0 410!0 410[4 407 8 404!8 404[136 305 550 205!550 205[1406 0 2930 0!2930
+ 0/3829 0!3829 0[3837 229 3837 914"/>
+                    <Edge cubics="!3829 0(;3829,0 3837,229 3837,914q3829 0Q3837 229q3837 914);"/>
+                    <Edge cubics="!3644 3210(;3644,3210 200,3210 200,3210q3644 3210 200 3210);"/>
+                    <Edge cubics="!56 527(;48,500 37,422 0,410q56 527Q47 487q39 463Q23 418q0 410);"/>
+                    <Edge cubics="!2930 0(;2930,0 3829,0 3829,0p2930 0 3829 0);"/>
+                    <Edge cubics="!0 410(;3,408 5,406 8,404q0 410Q4 407q8 404);"/>
+                    <Edge cubics="!8 404(;93,338 274,272 550,205q8 404Q136 305q550 205);"/>
+                    <Edge cubics="!550 205(;1121,68 1914,0 2930,0q550 205Q1406 0q2930 0);"/>
+                    <Edge cubics="!200 3210(;200,3210 214,1039 56,527q200 3210Q204 2667q187 2061Q155 847q56 527);"/>
+                    <Edge cubics="!3837 914(;3837,1599 3644,3210 3644,3210q3837 914Q3837 1342q3741 2319Q3692 2807q3644 3210);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" duration="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0118865966796875" b="-0.0965423583984375" c="0.0982666015625" d="-0.012115478515625" tx="-467.25" ty="148.95"/>
+                        </matrix>
+                        <GradientEntry color="#35157F" alpha="0.949019607843137" ratio="0"/>
+                        <GradientEntry color="#0878B7" alpha="0.749019607843137" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!3837 914[3837 1342 3741 2319!3741 2319[3692 2807 3644 3210!3644 3210/200 3210!200 3210[204 2667 187 2061!187 2061[155 847 56 527!56 527[47 487 39 463!39 463[23 418 0 410!0 410[4 407 8 404!8 404[136 305 550 205!550 205[1406 0 2930 0!2930
+ 0/3829 0!3829 0[3837 229 3837 914"/>
+                    <Edge cubics="!3829 0(;3829,0 3837,229 3837,914q3829 0Q3837 229q3837 914);"/>
+                    <Edge cubics="!3644 3210(;3644,3210 200,3210 200,3210q3644 3210 200 3210);"/>
+                    <Edge cubics="!56 527(;48,500 37,422 0,410q56 527Q47 487q39 463Q23 418q0 410);"/>
+                    <Edge cubics="!2930 0(;2930,0 3829,0 3829,0p2930 0 3829 0);"/>
+                    <Edge cubics="!0 410(;3,408 5,406 8,404q0 410Q4 407q8 404);"/>
+                    <Edge cubics="!8 404(;93,338 274,272 550,205q8 404Q136 305q550 205);"/>
+                    <Edge cubics="!550 205(;1121,68 1914,0 2930,0q550 205Q1406 0q2930 0);"/>
+                    <Edge cubics="!200 3210(;200,3210 214,1039 56,527q200 3210Q204 2667q187 2061Q155 847q56 527);"/>
+                    <Edge cubics="!3837 914(;3837,1599 3644,3210 3644,3210q3837 914Q3837 1342q3741 2319Q3692 2807q3644 3210);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

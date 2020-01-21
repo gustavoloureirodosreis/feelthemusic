@@ -1,0 +1,121 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/LeaveBtn" itemID="55007549-0000036f" symbolType="button" lastModified="1435867437" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="LeaveBtn" currentFrame="3">
+      <layers>
+        <DOMLayer name="xis" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="5">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!202 176|280 261!280 261|357 176!357 346|280 261!280 261|202 346"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo" color="#4FFF4F" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="14.15" centerPoint3DY="13.05">
+                  <matrix>
+                    <Matrix a="0.47998046875" d="0.47998046875" tx="5.65" ty="5.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.7" y="16.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.87" tintColor="#FF0000"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="14.15" centerPoint3DY="13.05">
+                  <matrix>
+                    <Matrix a="0.47998046875" d="0.47998046875" tx="14.15" ty="13.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1" blurY="1" quality="3" strength="3"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FF0000"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="14.15" centerPoint3DY="13.05">
+                  <matrix>
+                    <Matrix a="0.47998046875" d="0.47998046875" tx="5.65" ty="5.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.7" y="16.35"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.87" tintColor="#FF0000"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="14.15" centerPoint3DY="13.05">
+                  <matrix>
+                    <Matrix a="0.47998046875" d="0.47998046875" tx="14.15" ty="13.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#FFFFFF" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="14.15" centerPoint3DY="13.05">
+                  <matrix>
+                    <Matrix a="0.691162109375" d="0.691162109375" tx="1.95" ty="1.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="0.87" tintColor="#FF0000"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="14.15" centerPoint3DY="13.05">
+                  <matrix>
+                    <Matrix a="0.691162109375" d="0.691162109375" tx="14.15" ty="13.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#FFFFFF" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#FFFFFF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

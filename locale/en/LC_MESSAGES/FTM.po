@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "Register"
+msgstr "Register"
+
+msgid "soundError"
+msgstr "No audio was detected. Please restart the game when you do have audio."
+
+msgid "myProgressTxt"
+msgstr "My Progress"
+
+msgid "timeTxt"
+msgstr "Total time of all songs:"
+
+msgid "lacunasRelTxt"
+msgstr "Correct hits (relative):"
+
+msgid "expressoesTxt"
+msgstr "Correct distinct expressions:"
+
+msgid "lacunasAbsTxt"
+msgstr "Correct hits (absolute):"
+
+msgid "currQuestsTxt"
+msgstr "Current Quests"
+
+msgid "allQuestsTxt"
+msgstr "All Quests"
+
+msgid "beginningGifTxt1"
+msgstr "Play by yourself"
+
+msgid "beginningGifTxt2"
+msgstr "Play online against others"
+
+msgid "beginningGifTxt3"
+msgstr "Weekly Ranking"
+
+msgid "loadingTxt1"
+msgstr "How to play using the keyboard:"
+
+msgid "loadingTxt2"
+msgstr "How to double your score using the keyboard:"
+
+msgid "loadingTxt3"
+msgstr "Song difficulty:"
+
+msgid "loadingTxt3sub1"
+msgstr "Easier"
+
+msgid "loadingTxt3sub2"
+msgstr "Harder"
+
+msgid "loadingTxt4"
+msgstr "Song difficulty:"
+
+msgid "loadingTxt4sub1"
+msgstr "Easier"
+
+msgid "loadingTxt4sub2"
+msgstr "Harder"
+
+msgid "loadingTxt5"
+msgstr "You can convert your coins into chips!"
+
+msgid "loadingTxt6sub1"
+msgstr "New song"
+
+msgid "loadingTxt6sub2"
+msgstr "More experience"
+
+msgid "loadingTxt7"
+msgstr "Track your learning from the Quests menu!"
+
+msgid "loadingTxt8"
+msgstr "Check out the weekly ranking from the main menu!"
+
+msgid "loadingTxt9"
+msgstr "The most appropriate song is a mix of your personal taste and learning."
+
+msgid "loadingTxt10"
+msgstr "Current number of songs:"
+
+msgid "loadingTxt11"
+msgstr "Problems? Suggestions? Take part in our forum just click on the lightbulb above. Your feedback is very important to us!"
+
+msgid "loadingTxt12"
+msgstr "Access www.backpacker.com.br to find out more"
+
+msgid "loadingTxt13"
+msgstr "Get more coins by playing in successive days"
+
+msgid "loadingTxt14"
+msgstr "Stay on top 10% of the weekly ranking to win awesome prizes!"
+
+msgid "loadingTxt15"
+msgstr "Check your email to keep up with what is new!"
+
+msgid "loadingTxt16"
+msgstr "Like and follow us on facebook to stay in the loop and not miss any new cool stuff!"
+
+msgid "loadingTxt17"
+msgstr "Get unlimited access to the feature Most Appropriate Song by becoming premium!"
+
+msgid "loadingTxt18"
+msgstr "Get unlimited access to the personalized lyrics by becoming premium!"
+
+msgid "loadingTxt19"
+msgstr "Testing the mic..."
+
+msgid "loadingTxt20"
+msgstr "Adjusting the disco ball..."
+
+msgid "loadingTxt21"
+msgstr "Restocking the bar..."
+
+msgid "loadingTxt22"
+msgstr "Setting the playlist with the DJ..."
+
+msgid "loadingTxt23"
+msgstr "Polishing the glasses..."
+
+msgid "loadingTxt24"
+msgstr "Practising dance moves in front of the mirror."
+
+msgid "loadingTxt25"
+msgstr "Choosing the best outfit..."
+
+msgid "Search..."
+msgstr "Search..."
+
+msgid "askMsg"
+msgstr "It seems as if this is your first time playing. Do you wanna see the tutorial?"
+
+msgid "welcomeMsg"
+msgstr "Welcome to Feel The Music! You are just about to play:"
+
+msgid "tutorialMsg1"
+msgstr "Location of the verses that are being sung. Some of the verses have words missing"
+
+msgid "tutorialMsg2"
+msgstr "Here is where you choose the correct word to fill in the gap"
+
+msgid "tutorialMsg3"
+msgstr "This is where your performance is measured. The better you play the better your avatar gets his groove on!"
+
+msgid "tutorialMsg4"
+msgstr "By correctly answering verses in succession you will fill the combo bar and multiply your score!"
+
+msgid "cadastroMsg"
+msgstr "Hey, register now!"
+
+msgid "cadastroPreTxt"
+msgstr "It is quick and easy, by doing so you will be able to:"
+
+msgid "vantagem1"
+msgstr "- Save your levels, songs and track your learning."
+
+msgid "vantagem2"
+msgstr "- Have access to Backpacker virtual world and exclusive tools."
+
+msgid "vantagem3"
+msgstr "- Get a bonus of" 
+
+msgid "cadastroTxt"
+msgstr "Wanna register right now?"
+
+msgid "ranking1Txt"
+msgstr "Weekly Ranking"
+
+msgid "ranking2Txt"
+msgstr "The ranking shuts every Sunday at 23h59!"
+
+msgid "Match Result"
+msgstr "Match result"
+
+msgid "Your Prize"
+msgstr "Your prize"
+
+msgid "Daily Bonus"
+msgstr "Daily bonus"
+
+msgid "I leveled up!"
+msgstr "I leveled up!"
+
+msgid "inviteFriendsTxt"
+msgstr ""
+"Recommend FeelTheMusic to your friends\n"
+"and win prizes!"
+
+msgid "inviteFriendsTip"
+msgstr "enough for a new song!"
+
+msgid "inviteFriendTxt"
+msgstr "Invite a friend to play!"
+
+msgid "inviteFriendError"
+msgstr "You must be logged into Facebook to use this bonus! We are sorry for the inconvenience!"
+
+msgid "Premium Daily Bonus:"
+msgstr "Premium daily bonus:"
+
+msgid "assinaturaHead"
+msgstr "Premium learns more!"
+
+msgid "assinatura1"
+msgstr "Over 10000 exclusive songs to buy"
+
+msgid "assinatura2"
+msgstr "Twice as many coins for each song played"
+
+msgid "assinatura3"
+msgstr "A new song for every day you play"
+
+msgid "assinatura4"
+msgstr "1000 coins when you sign up"
+
+msgid "assinatura5"
+msgstr "Unrestricted access to our Suggested Song tool"
+
+msgid "assinatura6"
+msgstr "Personalized report of educational progress"
+
+msgid "assinaturaPromo"
+msgstr "SPECIAL OFFER: 60% discount for the first 3 months"
+
+msgid "guestTxt"
+msgstr "Chose a song!"
+
+msgid "guestSubTxt"
+msgstr "(Sign up to access 10,000+ songs)"
+
+msgid "coinTokenTxt"
+msgstr "Conversion to Tokens"
+
+msgid "tokenCoinTxt"
+msgstr "Conversion to Coins"
+
+msgid "lojinhaTxt"
+msgstr "More coins?"
+
+msgid "chooseBetTxt"
+msgstr "Choose your bet level"
+
+msgid "chooseStyleTxt"
+msgstr "Who to play with"
+
+msgid "estiloDesafioTxt"
+msgstr "Choose a genre to challenge with"
+
+msgid "loadingError1"
+msgstr "Please check your conection and try again.\n"
+"Error type:"
+
+msgid "loadingError2"
+msgstr ":/ Video unavailable at YouTube.\n" 
+"Soon we'll fix it.\n"
+"As a reward for your explorer attitude, here is a little prize for helping us improve! ;)"
+
+msgid "mpEndingTxtWin"
+msgstr "Defeated the opponent!"
+
+msgid "mpEndingTxtLose"
+msgstr "Lost to the opponent..."
+
+msgid "oneMonthPremium"
+msgstr "1 month premium"
+
+msgid "inviteFriendsResultsTxt"
+msgstr "Your invitations returned results!"
+
+msgid "friendsRemainingTxt"
+msgstr "new friends and receive 1 premium month!"
+
+msgid "inviteFriendSuccess"
+msgstr "Invites sent successfully!\n\n"
+"You will receive your prizes when they open it!" 
+
+msgid "inviteFriendsResultTxt"
+msgstr "Your invitations were successfull!"
+
+msgid "See More!"
+msgstr "See More!"
+
+msgid "rankingResult1Txt"
+msgstr "Weekly Ranking Result"
+
+msgid "rankingResult2Txt"
+msgstr "Type the code below to get a discount at becoming premium:\n"
+"(If you are already premium, pass it to a friend!)"
+
+msgid "threeStarsTxt1"
+msgstr "How to get 3 stars"
+
+msgid "threeStarsTxt2"
+msgstr "Combo increases each score"
+
+msgid "masteredWordTxt"
+msgstr "Mastered word!\n"
+"(Matched it many times)"
+
+msgid "sort1"
+msgstr "Levels"
+
+msgid "sort2"
+msgstr "Artists"
+
+msgid "sort3"
+msgstr "Genres"
+
+msgid "musicasCompradasBtn"
+msgstr "Bought"
+
+msgid "searchBtn"
+msgstr "Search"
+

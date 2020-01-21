@@ -1,0 +1,148 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/LevelBar" itemID="53ee3d75-000005bc" linkageExportForAS="true" linkageClassName="auxiliares.LevelBar" lastModified="1429121566" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="LevelBar">
+      <layers>
+        <DOMLayer name="mensagemExp" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="msgExp" fontRenderingMode="standard" left="46.7" width="113.55" height="24.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-136.9" ty="-37"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>9999/9999</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0.901960784313726" size="20" bitmapSize="400" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#0097FC" quality="3" strength="3"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="estrela_e_texto" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/EstrelaAzul_base" centerPoint3DX="48" centerPoint3DY="-6">
+                  <matrix>
+                    <Matrix a="0.79998779296875" d="0.79998779296875" tx="20.15" ty="-33"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.8" y="33.75"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0000CC" strength="2"/>
+                    <GlowFilter blurX="10" blurY="10" color="#0099CC" quality="3" strength="2"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="levelNumber" fontRenderingMode="standard" width="35.55" height="30.4" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.900009155273438" d="0.900009155273438" tx="32.3" ty="-16.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.35" y="13.7"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="25" bitmapSize="500" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0066CC" quality="3" strength="5"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="contorno" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#0066FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!652 -200|-1851 -200!-1851 -200[-1913 -200 -1957 -156!-1957 -156[-2000 -111 -2000 -48!-2000 -48|-2000 -47!-2000 -47[-2000 16 -1957 60!-1957 60[-1913 105 -1851 105!-1851 105|652 105!652 105[713 105 756 60!756 60[800 16 800 -47!800 -47
+|800 -48!800 -48[800 -111 756 -156!756 -156[713 -200 652 -200"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#FF800A" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/_PlayScreenAssistanceMCs/BarraEstrelasECombo" name="barra" centerPoint3DX="-30" centerPoint3DY="-2.4">
+                  <matrix>
+                    <Matrix a="0.79888916015625" d="0.81744384765625" tx="-100" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="9.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="15" blurY="15" color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="preenchimento" color="#FF4FFF" parentLayerIndex="3" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/ProgressRateFill" name="fill" centerPoint3DX="-325" centerPoint3DY="-2.4">
+                  <matrix>
+                    <Matrix a="1.38888549804688" tx="-450" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90" y="7.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="barra" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/_PlayScreenAssistanceMCs/BarraEstrelasECombo" name="barra" centerPoint3DX="-30" centerPoint3DY="-2.4">
+                  <matrix>
+                    <Matrix a="0.79888916015625" d="0.81744384765625" tx="-100" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="9.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="15" blurY="15" color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

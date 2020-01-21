@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Preloader/movColorProgressIndicator" itemID="4b3110e7-00001563" sourceFlashFilepath="../../../../Downloads/action-script-3-preloader-cs4/action-script-3-preloader.fla" sourceLibraryItemHRef="movColorProgressIndicator" sourceLastModified="1261603114" lastModified="1424819997" lastUniqueIdentifier="3" sourceItemID="4b3110e7-00001563">
+  <timeline>
+    <DOMTimeline name="movColorProgressIndicator">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Preloader/movPreLoaderBarColor" centerPoint3DX="200" centerPoint3DY="6">
+                  <transformationPoint>
+                    <Point x="200" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Preloader/movPreLoaderBarHighlight" centerPoint3DX="199.95" centerPoint3DY="4">
+                  <matrix>
+                    <Matrix a="1.0013427734375" d="0.923080444335938" ty="1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="199.7" y="3.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0099FF"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Preloader/movPreLoaderBarHighlight" centerPoint3DX="200.05" centerPoint3DY="10">
+                  <matrix>
+                    <Matrix a="-1.0013427734375" d="-0.4615478515625" tx="400" ty="11.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="199.7" y="3.25"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#0000FF"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

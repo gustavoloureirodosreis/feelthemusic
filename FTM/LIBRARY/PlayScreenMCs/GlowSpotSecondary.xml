@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/GlowSpotSecondary" itemID="550890b0-00000528" lastModified="1430947951">
+  <timeline>
+    <DOMTimeline name="GlowSpotSecondary">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FFFF"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient spreadMethod="reflect">
+                        <matrix>
+                          <Matrix a="-0.305145263671875" d="0.0396728515625" tx="-2.95"/>
+                        </matrix>
+                        <GradientEntry color="#00FFFF" alpha="0.501960784313725" ratio="0"/>
+                        <GradientEntry color="#00FFFF" alpha="0" ratio="0.0392156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <LinearGradient spreadMethod="reflect">
+                        <matrix>
+                          <Matrix a="0.305145263671875" d="0.0396728515625" tx="2.95"/>
+                        </matrix>
+                        <GradientEntry color="#00FFFF" alpha="0.501960784313725" ratio="0"/>
+                        <GradientEntry color="#00FFFF" alpha="0" ratio="0.0392156862745098"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4940 650S1|5000 650!5000 650|5000 -650!5000 -650|4940 -650"/>
+                    <Edge fillStyle0="1" fillStyle1="2" edges="!4940 -650S3|4940 650"/>
+                    <Edge fillStyle0="2" edges="!4940 -650S1|4300 -650!4300 -650|4300 650!4300 650|4940 650"/>
+                    <Edge fillStyle1="1" edges="!-4940 650S2|-5000 650!-5000 650|-5000 -650!-5000 -650|-4940 -650"/>
+                    <Edge fillStyle1="3" edges="!-4940 -650S2|-4300 -650!-4300 -650|-4300 650!-4300 650|-4940 650"/>
+                    <Edge fillStyle0="3" fillStyle1="1" edges="!-4940 -650S3|-4940 650"/>
+                    <Edge cubics="!-5000 650(-5000,650;-5000,650 -5000,-650 -5000,-650q-5000 650 -5000 -650);"/>
+                    <Edge cubics="!-5000 -650(;-5000,-650 -4940,-650 -4940,-650q-5000 -650 -4940 -650);"/>
+                    <Edge cubics="!-4940 650(;-4940,650 -5000,650 -5000,650q-4940 650 -5000 650);"/>
+                    <Edge cubics="!-4940 650(;-4940,650 -4940,-650 -4940,-650q-4940 650 -4940 -650);"/>
+                    <Edge cubics="!-4940 -650(;-4940,-650 -4300,-650 -4300,-650q-4940 -650 -4300 -650);"/>
+                    <Edge cubics="!-4300 650(-4300,650;-4300,650 -4940,650 -4940,650q-4300 650 -4940 650);"/>
+                    <Edge cubics="!-4300 -650(;-4300,-650 -4300,650 -4300,650q-4300 -650 -4300 650);"/>
+                    <Edge cubics="!5000 650(5000,650;5000,650 5000,-650 5000,-650q5000 650 5000 -650);"/>
+                    <Edge cubics="!5000 -650(;5000,-650 4940,-650 4940,-650q5000 -650 4940 -650);"/>
+                    <Edge cubics="!4940 650(;4940,650 5000,650 5000,650q4940 650 5000 650);"/>
+                    <Edge cubics="!4940 650(;4940,650 4940,-650 4940,-650q4940 650 4940 -650);"/>
+                    <Edge cubics="!4940 -650(;4940,-650 4300,-650 4300,-650q4940 -650 4300 -650);"/>
+                    <Edge cubics="!4300 650(4300,650;4300,650 4940,650 4940,650q4300 650 4940 650);"/>
+                    <Edge cubics="!4300 -650(;4300,-650 4300,650 4300,650q4300 -650 4300 650);"/>
+                    <Edge cubics="!-4240 650(-4240,650;-4240,650 -4240,-650 -4240,-650q-4240 650 -4240 -650);"/>
+                    <Edge cubics="!-4240 -650(;-4240,-650 -4300,-650 -4300,-650q-4240 -650 -4300 -650);"/>
+                    <Edge cubics="!-4300 650(;-4300,650 -4240,650 -4240,650q-4300 650 -4240 650);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

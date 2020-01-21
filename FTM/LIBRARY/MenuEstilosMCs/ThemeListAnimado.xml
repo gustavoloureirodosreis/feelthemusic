@@ -1,0 +1,123 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuEstilosMCs/ThemeListAnimado" itemID="537563e6-00000b99" lastModified="1435356093" lastUniqueIdentifier="80">
+  <timeline>
+    <DOMTimeline name="ThemeListAnimado" guides='&lt;guidelines&gt;&lt;guideline direction="v"&gt;575&lt;/guideline&gt;&lt;guideline direction="v"&gt;679&lt;/guideline&gt;&lt;guideline direction="v"&gt;369&lt;/guideline&gt;&lt;guideline direction="v"&gt;165&lt;/guideline&gt;&lt;guideline direction="v"&gt;60&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="block" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeBlock" name="block1" centerPoint3DX="119.65" centerPoint3DY="157.75" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.8499755859375" tx="28.05" ty="83.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108.25" y="89.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeBlock" name="block2" centerPoint3DX="369" centerPoint3DY="157.35" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.8499755859375" tx="277.4" ty="82.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108.25" y="89.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeBlock" name="block3" centerPoint3DX="619.65" centerPoint3DY="159.05" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.8499755859375" tx="528.05" ty="84.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108.25" y="89.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeBlock" name="block4" centerPoint3DX="119.65" centerPoint3DY="328.15" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.8499755859375" tx="28.05" ty="253.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108.25" y="89.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeBlock" name="block5" centerPoint3DX="369" centerPoint3DY="327.75" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.8499755859375" tx="277.4" ty="253.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108.25" y="89.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeBlock" name="block6" centerPoint3DX="619.6" centerPoint3DY="329.45" isVisible="false">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.8499755859375" tx="528" ty="254.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="108.25" y="89.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeLabel" name="theme4" centerPoint3DX="127.55" centerPoint3DY="348.6">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.85736083984375" ty="220"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeLabel" name="theme1" centerPoint3DX="127.6" centerPoint3DY="178.65">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.85736083984375" ty="50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.1" y="150.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeLabel" name="theme2" centerPoint3DX="377.55" centerPoint3DY="178.75">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.85736083984375" tx="250" ty="50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeLabel" name="theme5" centerPoint3DX="377.55" centerPoint3DY="348.6">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.85736083984375" tx="250" ty="220"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeLabel" name="theme3" centerPoint3DX="627.55" centerPoint3DY="178.75">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.85736083984375" tx="500" ty="50"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="MenuEstilosMCs/ThemeLabel" name="theme6" centerPoint3DX="627.55" centerPoint3DY="348.6">
+                  <matrix>
+                    <Matrix a="0.8499755859375" d="0.85736083984375" tx="500" ty="220"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="150.05" y="150"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

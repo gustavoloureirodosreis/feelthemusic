@@ -1,0 +1,103 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/BeginningGif" itemID="53ee392a-00000596" lastModified="1434651265" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="BeginningGif" currentFrame="2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();
+]]></script>
+              </Actionscript>
+              <elements>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/SetinhaPulsando" centerPoint3DX="-32.35" centerPoint3DY="28.25">
+                  <matrix>
+                    <Matrix a="-0.86602783203125" b="-0.5" c="0.5" d="-0.866012573242188" tx="-31" ty="70"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.75" y="36"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="beginningGifTxt1" fontRenderingMode="standard" left="-24" width="210.15" height="25.4" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-174" ty="74"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jogar sozinho</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#0000FF" quality="3" strength="10"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/SetinhaPulsando" centerPoint3DX="558.75" centerPoint3DY="-0.85">
+                  <matrix>
+                    <Matrix a="-0.64276123046875" b="0.766006469726563" c="-0.765975952148438" d="-0.642730712890625" tx="600" ty="5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.65" y="36"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="beginningGifTxt2" fontRenderingMode="standard" left="-24" width="200.35" height="52.8" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="546" ty="41.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="76.15" y="26.4"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Jogar online competitivo</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#0000FF" quality="3" strength="10"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="TutorialScreenMCs/TutorialAssistanceMCs/SetinhaPulsando" centerPoint3DX="673.55" centerPoint3DY="-298.35">
+                  <matrix>
+                    <Matrix a="-0.866058349609375" b="-0.5" c="0.499969482421875" d="-0.865966796875" tx="675.05" ty="-256.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.75" y="36.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="beginningGifTxt3" fontRenderingMode="standard" left="-24" width="144.1" height="52.8" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="565.85" ty="-254.7"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Ranking Semanal</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="20" bitmapSize="400" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#0000FF" quality="3" strength="10"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

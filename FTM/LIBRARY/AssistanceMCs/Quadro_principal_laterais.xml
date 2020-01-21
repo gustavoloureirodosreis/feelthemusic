@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Quadro_principal_laterais" itemID="53988c6f-000002fa" lastModified="1428081876">
+  <timeline>
+    <DOMTimeline name="Quadro_principal_laterais">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="meio" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.949019607843137"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="0.03662109375" c="-0.30517578125" d="0" tx="250" ty="10"/>
+                        </matrix>
+                        <GradientEntry alpha="0" ratio="0"/>
+                        <GradientEntry alpha="0.901960784313726" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" edges="!10000 800|10000 -400!10000 -400|0 -400!0 -400|0 800"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!0 800|10000 800"/>
+                    <Edge fillStyle0="1" edges="!0 800|0 9578!0 9578[11 9897 293 9945!293 9945[298 9945 303 9946!303 9946[348 9953 400 9953!400 9953|9600 9953!9600 9953[9651 9953 9696 9947!9696 9947[9704 9945 9712 9944!9712 9944[10000 9892 10000 9553!10000 9553|10000 800"/>
+                    <Edge cubics="!0 9578(;8,9793 107,9915 293,9945q0 9578Q11 9897q293 9945);"/>
+                    <Edge cubics="!9712 9944(9712,9944;9904,9910 10000,9779 10000,9553q9712 9944Q10000 9892q10000 9553);"/>
+                    <Edge cubics="!400 9953(400,9953;400,9953 9600,9953 9600,9953q400 9953 9600 9953);"/>
+                    <Edge cubics="!303 9946(;333,9951 365,9953 400,9953q303 9946Q348 9953q400 9953);"/>
+                    <Edge cubics="!293 9945(293,9945;296,9945 300,9945 303,9946q293 9945Q298 9945q303 9946);"/>
+                    <Edge cubics="!9600 9953(;9634,9953 9666,9951 9696,9947q9600 9953Q9651 9953q9696 9947);"/>
+                    <Edge cubics="!9696 9947(9696,9947;9701,9946 9707,9945 9712,9944q9696 9947Q9704 9945q9712 9944);"/>
+                    <Edge cubics="!10000 640(;10000,640 0,640 0,640q10000 640 0 640);"/>
+                    <Edge cubics="!10000 9553(;10000,9553 10000,800 10000,800q10000 9553 10000 800);"/>
+                    <Edge cubics="!10000 800(;10000,800 10000,640 10000,640q10000 800 10000 640);"/>
+                    <Edge cubics="!0 640(;0,640 0,800 0,800q0 640 0 800);"/>
+                    <Edge cubics="!0 800(;0,800 0,9578 0,9578q0 800 0 9578);"/>
+                    <Edge cubics="!10000 -400(;10000,-400 0,-400 0,-400q10000 -400 0 -400);"/>
+                    <Edge cubics="!10000 640(;10000,640 10000,-400 10000,-400q10000 640 10000 -400);"/>
+                    <Edge cubics="!0 -400(;0,-400 0,640 0,640q0 -400 0 640);"/>
+                    <Edge cubics="!10000 800(;10000,800 0,800 0,800q10000 800 0 800);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="laterais" color="#FF800A" locked="true" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Quadro_principal_glow" centerPoint3DX="250" centerPoint3DY="251.3">
+                  <matrix>
+                    <Matrix tx="-5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="255" y="251.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

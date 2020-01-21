@@ -1,0 +1,73 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Preloader/movFullProgressBar" itemID="4b323deb-00000029" sourceFlashFilepath="../../../../Downloads/action-script-3-preloader-cs4/action-script-3-preloader.fla" sourceLibraryItemHRef="movFullProgressBar" sourceLastModified="1261603686" lastModified="1424820014" lastUniqueIdentifier="4" sourceItemID="4b323deb-00000029">
+  <timeline>
+    <DOMTimeline name="movFullProgressBar">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText fontRenderingMode="device" width="409" height="17.9" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="2" ty="29.45"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Loading...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="16" bitmapSize="320" face="_sans" fillColor="#D0D3DA"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMSymbolInstance libraryItemName="Preloader/movProgressBarEmboss" centerPoint3DX="206.05" centerPoint3DY="12">
+                  <matrix>
+                    <Matrix tx="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="206" y="12"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6015625"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Preloader/movPreLoaderBarBackground" centerPoint3DX="207.05" centerPoint3DY="12">
+                  <matrix>
+                    <Matrix tx="7.05" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="6"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter distance="2" strength="0.44"/>
+                  </filters>
+                  <color>
+                    <Color brightness="0.41"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Preloader/movColorProgressIndicator" name="mcProgress" centerPoint3DX="207.05" centerPoint3DY="12">
+                  <matrix>
+                    <Matrix tx="7.05" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Preloader/movPreloaderBarOutline" centerPoint3DX="207.05" centerPoint3DY="12">
+                  <matrix>
+                    <Matrix tx="7.05" ty="6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="200" y="6"/>
+                  </transformationPoint>
+                  <color>
+                    <Color tintMultiplier="1" tintColor="#5A5A5A"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

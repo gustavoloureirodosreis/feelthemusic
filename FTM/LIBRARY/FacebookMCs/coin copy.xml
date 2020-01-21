@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="FacebookMCs/coin copy" itemID="54fe191d-0000051c" lastModified="1428005004" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="coin copy">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="41.55" centerPoint3DY="-2">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="21.7" ty="16.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003597" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

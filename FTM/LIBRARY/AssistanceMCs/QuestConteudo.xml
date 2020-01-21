@@ -1,0 +1,291 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/QuestConteudo" itemID="54d9f648-0000034a" symbolType="button" lastModified="1426618930" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="QuestConteudo" currentFrame="1">
+      <layers>
+        <DOMLayer name="desenho" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!218 176[218 195 205 208!205 208[192 221 173 221!173 221[154 221 141 208!141 208[128 195 128 176!128 176[128 157 141 144!141 144[154 131 173 131!173 131[192 131 205 144!205 144[218 157 218 176!141 444[154 431 173 431!173 431[192 431 205
+ 444!205 444[218 457 218 476!218 476[218 495 205 508!205 508[192 521 173 521!173 521[154 521 141 508!141 508[128 495 128 476!128 476[128 457 141 444!128 326[128 307 141 294!141 294[154 281 173 281!173 281[192 281 205 294!205 294[218 307
+ 218 326!218 326[218 345 205 358!205 358[192 371 173 371!173 371[154 371 141 358!141 358[128 345 128 326"/>
+                  </edges>
+                </DOMShape>
+                <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                  <matrix>
+                    <Matrix tx="-382.35" ty="-518.2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                  <matrix>
+                    <Matrix tx="-382.35" ty="-510.7"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                  <matrix>
+                    <Matrix tx="-382.35" ty="-503.2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!155 211[134 211 120 197!120 197[106 182 106 161!106 161[106 141 120 126!120 126[134 112 155 112!155 112[176 112 190 126!190 126[205 141 205 161!205 161[205 182 190 197!190 197[176 211 155 211!190 291[205 306 205 326!205 326[205 347 190
+ 362!190 362[176 376 155 376!155 376[134 376 120 362!120 362[106 347 106 326!106 326[106 306 120 291!120 291[134 277 155 277!155 277[176 277 190 291!155 442[176 442 190 456!190 456[205 471 205 491!205 491[205 512 190 527!190 527[176 541
+ 155 541!155 541[134 541 120 527!120 527[106 512 106 491!106 491[106 471 120 456!120 456[134 442 155 442"/>
+                  </edges>
+                </DOMShape>
+                <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375" tx="-422.3" ty="-571.75"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375" tx="-422.3" ty="-563.35"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375" tx="-422.3" ty="-555.25"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="17.35" centerPoint3DY="16.1">
+                  <matrix>
+                    <Matrix a="1.09747314453125" d="1.09747314453125" tx="17.35" ty="16.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="4" blurY="4" color="#FFFFFF" quality="3" strength="3"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF" alpha="0.8"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!218 176[218 195 205 208!205 208[192 221 173 221!173 221[154 221 141 208!141 208[128 195 128 176!128 176[128 157 141 144!141 144[154 131 173 131!173 131[192 131 205 144!205 144[218 157 218 176!141 444[154 431 173 431!173 431[192 431 205
+ 444!205 444[218 457 218 476!218 476[218 495 205 508!205 508[192 521 173 521!173 521[154 521 141 508!141 508[128 495 128 476!128 476[128 457 141 444!128 326[128 307 141 294!141 294[154 281 173 281!173 281[192 281 205 294!205 294[218 307
+ 218 326!218 326[218 345 205 358!205 358[192 371 173 371!173 371[154 371 141 358!141 358[128 345 128 326"/>
+                  </edges>
+                </DOMShape>
+                <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                  <matrix>
+                    <Matrix tx="-382.35" ty="-518.2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0.8"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                  <matrix>
+                    <Matrix tx="-382.35" ty="-510.7"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0.8"/>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                  <matrix>
+                    <Matrix tx="-382.35" ty="-503.2"/>
+                  </matrix>
+                  <fill>
+                    <SolidColor color="#FFFFFF" alpha="0.8"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF" alpha="0.8"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!205 208[192 221 173 221!173 221[154 221 141 208!141 208[128 195 128 176!128 176[128 157 141 144!141 144[154 131 173 131!173 131[192 131 205 144!205 144[218 157 218 176!218 176[218 195 205 208!173 431[192 431 205 444!205 444[218 457 218
+ 476!218 476[218 495 205 508!205 508[192 521 173 521!173 521[154 521 141 508!141 508[128 495 128 476!128 476[128 457 141 444!141 444[154 431 173 431!141 358[128 345 128 326!128 326[128 307 141 294!141 294[154 281 173 281!173 281[192 281
+ 205 294!205 294[218 307 218 326!218 326[218 345 205 358!205 358[192 371 173 371!173 371[154 371 141 358"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" selected="true" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                      <matrix>
+                        <Matrix tx="-382.35" ty="-518.2"/>
+                      </matrix>
+                      <fill>
+                        <SolidColor color="#FFFFFF" alpha="0.8"/>
+                      </fill>
+                    </DOMRectangleObject>
+                    <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" selected="true" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                      <matrix>
+                        <Matrix tx="-382.35" ty="-510.7"/>
+                      </matrix>
+                      <fill>
+                        <SolidColor color="#FFFFFF" alpha="0.8"/>
+                      </fill>
+                    </DOMRectangleObject>
+                    <DOMRectangleObject objectWidth="16.4" objectHeight="4.4" x="394.85" y="524.85" selected="true" lockFlag="true" topLeftRadius="1.5" topRightRadius="1.5" bottomLeftRadius="1.5" bottomRightRadius="1.5">
+                      <matrix>
+                        <Matrix tx="-382.35" ty="-503.2"/>
+                      </matrix>
+                      <fill>
+                        <SolidColor color="#FFFFFF" alpha="0.8"/>
+                      </fill>
+                    </DOMRectangleObject>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="17.65" centerPoint3DY="16.3">
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="17.65" centerPoint3DY="16.3">
+                  <matrix>
+                    <Matrix tx="17.65" ty="16.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="17.65" centerPoint3DY="16.35">
+                  <matrix>
+                    <Matrix a="1.0999755859375" d="1.0999755859375" tx="-1.75" ty="-1.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText width="83.5" height="14.5" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-82.1" ty="5.6"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>words of</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" bitmapSize="240" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#00FFFF"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="17.65" centerPoint3DY="16.3">
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="17.65" centerPoint3DY="16.3">
+                  <matrix>
+                    <Matrix tx="17.65" ty="16.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_base" centerPoint3DX="17.65" centerPoint3DY="16.3">
+                  <transformationPoint>
+                    <Point x="17.65" y="16.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_tipo2_neon" centerPoint3DX="17.65" centerPoint3DY="16.3">
+                  <matrix>
+                    <Matrix tx="17.65" ty="16.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="-0.25"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

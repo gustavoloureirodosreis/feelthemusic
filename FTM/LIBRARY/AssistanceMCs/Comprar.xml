@@ -1,0 +1,161 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/Comprar" itemID="5406ae2d-000003af" symbolType="button" lastModified="1436387301" lastUniqueIdentifier="22">
+  <timeline>
+    <DOMTimeline name="Comprar">
+      <layers>
+        <DOMLayer name="texto" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="price" selected="true" width="70.4" height="36.45" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="62.55" ty="8.25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>250</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#000000" strength="1.59"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMBitmapInstance selected="true" libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix tx="7.8" ty="9"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" selected="true" centerPoint3DX="75.2" centerPoint3DY="24.2">
+                  <matrix>
+                    <Matrix a="0.473388671875" d="0.478851318359375" tx="1.35" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="50.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" selected="true" centerPoint3DX="80.35" centerPoint3DY="23.65">
+                  <matrix>
+                    <Matrix a="0.439300537109375" d="0.4464111328125" tx="68.8" ty="25.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="-0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="74.1" centerPoint3DY="28.9">
+                  <matrix>
+                    <Matrix a="0.465087890625" d="0.516769409179688" tx="1.55" ty="2.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="50.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_strokeover" centerPoint3DX="80.6" centerPoint3DY="26.2">
+                  <matrix>
+                    <Matrix a="0.436798095703125" d="0.497772216796875" tx="68.45" ty="28"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="-0.6"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="2.5"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" centerPoint3DX="79.4" centerPoint3DY="27.05">
+                  <matrix>
+                    <Matrix a="0.42999267578125" d="0.4464111328125" tx="68.05" ty="28.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.6" y="-0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="74.1" centerPoint3DY="28.9">
+                  <matrix>
+                    <Matrix a="0.465087890625" d="0.516769409179688" tx="1.55" ty="2.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="50.3"/>
+                  </transformationPoint>
+                  <color>
+                    <Color brightness="-0.24"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_strokeover" centerPoint3DX="80.6" centerPoint3DY="26.2">
+                  <matrix>
+                    <Matrix a="0.436798095703125" d="0.497772216796875" tx="68.45" ty="28"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="-0.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" centerPoint3DX="79.4" centerPoint3DY="27.05">
+                  <matrix>
+                    <Matrix a="0.42999267578125" d="0.4464111328125" tx="68.05" ty="28.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.6" y="-0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                  <color>
+                    <Color brightness="1"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_base" centerPoint3DX="75.2" centerPoint3DY="24.2">
+                  <matrix>
+                    <Matrix a="0.473388671875" d="0.478851318359375" tx="1.35" ty="0.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="156" y="50.35"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Botoes_Basicos_stroke" centerPoint3DX="80.35" centerPoint3DY="23.65">
+                  <matrix>
+                    <Matrix a="0.439300537109375" d="0.4464111328125" tx="68.8" ty="25.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3.65" y="-0.55"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#0099CC" quality="3" strength="5.85"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

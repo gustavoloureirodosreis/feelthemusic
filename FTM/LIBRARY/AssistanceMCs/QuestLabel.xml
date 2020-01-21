@@ -1,0 +1,506 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="AssistanceMCs/QuestLabel" itemID="54bfdcb8-00000325" linkageExportForAS="true" linkageClassName="auxiliares.QuestLabel" lastModified="1436382907" lastUniqueIdentifier="25">
+  <timeline>
+    <DOMTimeline name="QuestLabel">
+      <layers>
+        <DOMLayer name="block_premium" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="600" objectHeight="100" x="3.75" y="3.75" selected="true" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-0.75" ty="-1.75"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="0.38580322265625" b="-0.111190795898438" c="0.016845703125" d="0.0584716796875" tx="303.75" ty="53.75"/>
+                      </matrix>
+                      <GradientEntry color="#0B152A" ratio="0"/>
+                      <GradientEntry color="#04314D" alpha="0.749019607843137" ratio="0.203921568627451"/>
+                      <GradientEntry color="#0E0751" ratio="0.525490196078431"/>
+                      <GradientEntry color="#02234A" alpha="0.498039215686275" ratio="0.823529411764706"/>
+                      <GradientEntry color="#0B2058" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/PremiumBtn" name="premiumBtn" symbolType="button">
+                  <matrix>
+                    <Matrix tx="211.7" ty="21.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="botoes_informativos" color="#9933CC" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestMusics" name="questMusicas" symbolType="button" centerPoint3DX="-11.6" centerPoint3DY="30">
+                  <matrix>
+                    <Matrix tx="-29.25" ty="13.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestConteudo" name="questExpressoes" symbolType="button" centerPoint3DX="-12.45" centerPoint3DY="71.25">
+                  <matrix>
+                    <Matrix tx="-30" ty="55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestMusics" name="questMusicas" symbolType="button" centerPoint3DX="-11.6" centerPoint3DY="30" isVisible="false">
+                  <matrix>
+                    <Matrix tx="-29.25" ty="13.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestConteudo" name="questExpressoes" symbolType="button" centerPoint3DX="-12.45" centerPoint3DY="71.25" isVisible="false">
+                  <matrix>
+                    <Matrix tx="-30" ty="55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="conteudo_interno" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestContentHolder" name="content" selected="true" centerPoint3DX="227" centerPoint3DY="152" isVisible="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/QuestContentHolder" name="content" centerPoint3DX="227" centerPoint3DY="152" isVisible="false">
+                  <matrix>
+                    <Matrix tx="2" ty="2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="palavras" color="#4FFF4F" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="meta" width="287.2" height="38.1" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="150.75" ty="14"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Unknown</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="0.9"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/3QuestsLabelMcs/QuestRate" name="progress" selected="true" centerPoint3DX="307.85" centerPoint3DY="70.65">
+                  <matrix>
+                    <Matrix a="2.5" d="1.81988525390625" tx="157.85" ty="57.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="message" width="55.05" height="36.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="602.35" ty="52"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Verdana" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#00FF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="progressTxt" width="142.9" height="48.6" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="452.9" ty="48.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0066FF" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/3QuestsLabelMcs/QuestRate" name="progress" centerPoint3DX="307.85" centerPoint3DY="70.65">
+                  <matrix>
+                    <Matrix a="2.5" d="1.81988525390625" tx="157.85" ty="57.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.8" y="7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMDynamicText name="message" width="55.05" height="36.45" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="602.35" ty="52"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Verdana" fillColor="#00FF00"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#00FF00" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="progressTxt" width="142.9" height="48.6" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="452.9" ty="48.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="40" bitmapSize="800" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#0066FF" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="meta" width="287.2" height="38.1" includeOutlines="true" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="150.75" ty="14"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Unknown</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="MicrosoftYaHeiUI" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="0.9"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="marcacoes_no_livrinho" color="#9933CC" locked="true" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="69.5" height="18.85" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.970184326171875" b="-0.359542846679688" c="0.711761474609375" d="0.976104736328125" tx="31.5" ty="50.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.75" y="9.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>QUEST</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="20" bitmapSize="400" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="1.52"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/3QuestsLabelMcs/Checked" centerPoint3DX="74.7" centerPoint3DY="49.75">
+                  <matrix>
+                    <Matrix tx="48.35" ty="26.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="26.35" y="23.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#00FF00" quality="3" strength="5"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Cadeado" centerPoint3DX="65.9" centerPoint3DY="47" isVisible="false">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="48.65" ty="23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.5" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="69.5" height="18.85" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.970184326171875" b="-0.359542846679688" c="0.711761474609375" d="0.976104736328125" tx="31.5" ty="50.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.75" y="9.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>QUEST</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="20" bitmapSize="400" face="Sparkler-Demo" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="1.52"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/Cadeado" centerPoint3DX="65.9" centerPoint3DY="47" isVisible="false">
+                  <matrix>
+                    <Matrix a="1.5" d="1.5" tx="48.65" ty="23"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="11.5" y="16"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMStaticText width="69.5" height="18.85" includeOutlines="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.970184326171875" b="-0.359542846679688" c="0.711761474609375" d="0.976104736328125" tx="31.5" ty="50.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="34.75" y="9.15"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>QUEST</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" size="20" face="Sparkler-Demo" fillColor="#CCCCCC"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#FFFFFF" quality="3" strength="1.52"/>
+                  </filters>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="livrinho" color="#9933CC" locked="true" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/3QuestsLabelMcs/Quests_icon" name="symbol" centerPoint3DX="-78.2" centerPoint3DY="112.1">
+                  <matrix>
+                    <Matrix a="0.701934814453125" d="0.701934814453125" tx="28.55" ty="23.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-152.1" y="126"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="7" blurY="7" color="#0066FF" quality="3" strength="3"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundos" color="#9933CC" locked="true" autoNamed="false" heightLiteral="18">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements>
+                <DOMRectangleObject objectWidth="600" objectHeight="100" x="3.75" y="3.75" selected="true" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-0.75" ty="-1.75"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="0.38580322265625" b="-0.111190795898438" c="0.016845703125" d="0.0584716796875" tx="303.75" ty="53.75"/>
+                      </matrix>
+                      <GradientEntry color="#00CCFF" alpha="0.501960784313725" ratio="0"/>
+                      <GradientEntry color="#003399" alpha="0.749019607843137" ratio="0.203921568627451"/>
+                      <GradientEntry color="#0066CC" ratio="0.525490196078431"/>
+                      <GradientEntry color="#003399" alpha="0.501960784313725" ratio="0.823529411764706"/>
+                      <GradientEntry color="#00369B" alpha="0.501960784313725" ratio="0.827450980392157"/>
+                      <GradientEntry color="#00CCFF" alpha="0.501960784313725" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/RaioAnimado" name="raio" centerPoint3DX="294.45" centerPoint3DY="52.45">
+                  <matrix>
+                    <Matrix a="2" d="2" tx="-340.95" ty="-588.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="317.7" y="320.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMRectangleObject objectWidth="600" objectHeight="100" x="3.75" y="3.75" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-0.75" ty="-1.75"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="0.38580322265625" b="-0.111190795898438" c="0.016845703125" d="0.0584716796875" tx="303.75" ty="53.75"/>
+                      </matrix>
+                      <GradientEntry color="#48FF95" alpha="0.498039215686275" ratio="0"/>
+                      <GradientEntry color="#66ADFF" alpha="0.698039215686274" ratio="0.274509803921569"/>
+                      <GradientEntry color="#51DE95" ratio="0.494117647058824"/>
+                      <GradientEntry color="#33B6CC" alpha="0.498039215686275" ratio="0.823529411764706"/>
+                      <GradientEntry color="#4AFF85" alpha="0.498039215686275" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                </DOMRectangleObject>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="39.05" ty="9.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="29.6" ty="9.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance libraryItemName="_Imagens/single_goldcoin50.png">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="33.8" ty="3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="18"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="prize" width="85.8" height="36.45" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix a="0.5" d="0.5" tx="61.45" ty="4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="42.1" y="15.2"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>+100</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="30" bitmapSize="600" face="Verdana" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter color="#FFFF00" quality="3" strength="2"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="600" objectHeight="100" x="3.75" y="3.75" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-0.75" ty="-1.75"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="0.38580322265625" b="-0.111190795898438" c="0.016845703125" d="0.0584716796875" tx="303.75" ty="53.75"/>
+                      </matrix>
+                      <GradientEntry color="#0B152A" ratio="0"/>
+                      <GradientEntry color="#04314D" alpha="0.749019607843137" ratio="0.203921568627451"/>
+                      <GradientEntry color="#0E0751" ratio="0.525490196078431"/>
+                      <GradientEntry color="#02234A" alpha="0.498039215686275" ratio="0.823529411764706"/>
+                      <GradientEntry color="#0B2058" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="600" objectHeight="100" x="3.75" y="3.75" lockFlag="true" topLeftRadius="20" topRightRadius="20" bottomLeftRadius="20" bottomRightRadius="20">
+                  <matrix>
+                    <Matrix tx="-0.75" ty="-1.75"/>
+                  </matrix>
+                  <fill>
+                    <LinearGradient spreadMethod="repeat">
+                      <matrix>
+                        <Matrix a="0.38580322265625" b="-0.111190795898438" c="0.016845703125" d="0.0584716796875" tx="303.75" ty="53.75"/>
+                      </matrix>
+                      <GradientEntry color="#0B152A" ratio="0"/>
+                      <GradientEntry color="#04314D" alpha="0.749019607843137" ratio="0.203921568627451"/>
+                      <GradientEntry color="#0E0751" ratio="0.525490196078431"/>
+                      <GradientEntry color="#02234A" alpha="0.498039215686275" ratio="0.823529411764706"/>
+                      <GradientEntry color="#0B2058" ratio="1"/>
+                    </LinearGradient>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

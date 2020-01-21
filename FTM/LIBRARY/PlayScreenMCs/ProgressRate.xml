@@ -1,0 +1,128 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/ProgressRate" itemID="53617969-00000640" linkageExportForAS="true" linkageClassName="auxiliares.ProgressRate" lastModified="1429049274" lastUniqueIdentifier="40">
+  <timeline>
+    <DOMTimeline name="ProgressRate">
+      <layers>
+        <DOMLayer name="estrela_e_texto" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="AssistanceMCs/EstrelaAzul_base" name="estrela" centerPoint3DX="153" centerPoint3DY="2.25">
+                  <matrix>
+                    <Matrix d="0.993270874023438" tx="113" ty="-35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40" y="37.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter color="#FFFFFF" quality="2" strength="3"/>
+                    <GlowFilter blurX="49" blurY="49" color="#000000" strength="0.43"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="contorno copy" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2756 260[2800 216 2800 153!2800 153|2800 152!2800 152[2800 89 2756 44!2756 44[2713 0 2652 0!2652 0|149 0!149 0[87 0 43 44!43 44[0 89 0 152!0 152|0 153!0 153[0 216 43 260!43 260[87 305 149 305!149 305|2652 305!2652 305[2713 305 2756 260"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="contorno" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="3">
+                        <fill>
+                          <SolidColor color="#0080FF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2756 260[2800 216 2800 153!2800 153|2800 152!2800 152[2800 89 2756 44!2756 44[2713 0 2652 0!2652 0|149 0!149 0[87 0 43 44!43 44[0 89 0 152!0 152|0 153!0 153[0 216 43 260!43 260[87 305 149 305!149 305|2652 305!2652 305[2713 305 2756 260"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mask" color="#9933CC" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/_PlayScreenAssistanceMCs/BarraEstrelasECombo" name="barra" centerPoint3DX="70" centerPoint3DY="7.6">
+                  <matrix>
+                    <Matrix a="0.79888916015625" d="0.81744384765625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="9.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="15" blurY="15" color="#000000"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="preenchimento" color="#4FFF4F" parentLayerIndex="3" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/ProgressRateFill" name="filling" centerPoint3DX="-125" centerPoint3DY="7.6">
+                  <matrix>
+                    <Matrix a="1.38888549804688" tx="-250"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="90" y="7.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="barra" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/_PlayScreenAssistanceMCs/BarraEstrelasECombo" name="barra" centerPoint3DX="70" centerPoint3DY="7.6">
+                  <matrix>
+                    <Matrix a="0.79888916015625" d="0.81744384765625"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="87.6" y="9.3"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter blurX="2" blurY="2" distance="2"/>
+                    <GlowFilter blurX="17" blurY="17" color="#0099FF" strength="0.5"/>
+                    <GlowFilter blurX="80" blurY="80" color="#000000" strength="0.84"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

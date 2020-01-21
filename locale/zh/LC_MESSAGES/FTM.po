@@ -1,0 +1,317 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+msgid "Register"
+msgstr "注册"
+
+msgid "soundError"
+msgstr "没有音频。 请准备音频然后开始玩。"
+
+msgid "myProgressTxt"
+msgstr "我的进步"
+
+msgid "timeTxt"
+msgstr "所有歌曲总数时间"
+
+msgid "lacunasRelTxt"
+msgstr "正确歌曲（相比）"
+
+msgid "expressoesTxt"
+msgstr "纠正不同句子"
+
+msgid "lacunasAbsTxt"
+msgstr "正确歌曲（绝对）"
+
+msgid "currQuestsTxt"
+msgstr "现问题"
+
+msgid "allQuestsTxt"
+msgstr "所有问题"
+
+msgid "beginningGifTxt1"
+msgstr "单独玩"
+
+msgid "beginningGifTxt2"
+msgstr "跟他人在网上玩"
+
+msgid "beginningGifTxt3"
+msgstr "级别周"
+
+msgid "loadingTxt1"
+msgstr "使用键盘开始玩"
+
+msgid "loadingTxt2"
+msgstr "使用键盘加倍歌曲总分"
+
+msgid "loadingTxt3"
+msgstr "歌曲难度"
+
+msgid "loadingTxt3sub1"
+msgstr "难度低"
+
+msgid "loadingTxt3sub2"
+msgstr "难度高"
+
+msgid "loadingTxt4"
+msgstr "歌曲难度"
+
+msgid "loadingTxt4sub1"
+msgstr "难度低"
+
+msgid "loadingTxt4sub2"
+msgstr "难度高"
+
+msgid "loadingTxt5"
+msgstr "硬币变成打字"
+
+msgid "loadingTxt6sub1"
+msgstr "新歌曲"
+
+msgid "loadingTxt6sub2"
+msgstr "More experience"
+
+msgid "loadingTxt7"
+msgstr "通过住功能表看你的进步"
+
+msgid "loadingTxt8"
+msgstr "通过住功能表看级别周"
+
+msgid "loadingTxt9"
+msgstr "最合适的首歌是那首你喜爱并让你学得更快"
+
+msgid "loadingTxt10"
+msgstr "我们货架数量的首歌"
+
+msgid "loadingTxt11"
+msgstr "去我们的论坛按上面灯"
+
+msgid "loadingTxt12"
+msgstr "去www.backpacker.com.br看看"
+
+msgid "loadingTxt13"
+msgstr "每天玩你得到多一点硬币"
+
+msgid "loadingTxt14"
+msgstr "每周最好获得特别奖金"
+
+msgid "loadingTxt15"
+msgstr "检查邮箱"
+
+msgid "loadingTxt16"
+msgstr "Like and follow us on facebook to stay in the loop and not miss any new cool stuff!"
+
+msgid "loadingTxt17"
+msgstr "Get unlimited access to the feature Most Appropriate Song by becoming premium!"
+
+msgid "loadingTxt18"
+msgstr "Get unlimited access to the personalized lyrics by becoming premium!"
+
+msgid "loadingTxt19"
+msgstr "测试麦克风"
+
+msgid "loadingTxt20"
+msgstr "准备……"
+
+msgid "loadingTxt21"
+msgstr "补货酒吧......"
+
+msgid "loadingTxt22"
+msgstr "准备......."
+
+msgid "loadingTxt23"
+msgstr "准备......."
+
+msgid "loadingTxt24"
+msgstr "对着镜子练习跳舞..."
+
+msgid "loadingTxt25"
+msgstr "选择最合适的衣服"
+
+msgid "Search..."
+msgstr "追寻"
+
+msgid "askMsg"
+msgstr "这是你第一次来玩,你想看说明吗？"
+
+msgid "welcomeMsg"
+msgstr "Feel The Music 欢迎您！您将要开始玩"
+
+msgid "tutorialMsg1"
+msgstr "Location of the verses that are being sung. Some of the verses have words missing"
+
+msgid "tutorialMsg2"
+msgstr "这里你该选择准确词语填空"
+
+msgid "tutorialMsg3"
+msgstr "This is where your performance is measured. The better you play the better your avatar gets his groove on!"
+
+msgid "tutorialMsg4"
+msgstr "By correctly answering verses in succession you will fill the combo bar and multiply your score!"
+
+msgid "cadastroMsg"
+msgstr "注册吧"
+
+msgid "cadastroPreTxt"
+msgstr "又快又容易，做好您就可以"
+
+msgid "vantagem1"
+msgstr "保存你听过的歌曲还看你学得怎么样"
+
+msgid "vantagem2"
+msgstr "- Have access to Backpacker virtual world and exclusive tools."
+
+msgid "vantagem3"
+msgstr "- Get a bonus of" 
+
+msgid "cadastroTxt"
+msgstr "想注册吗？"
+
+msgid "ranking1Txt"
+msgstr "级别周"
+
+msgid "ranking2Txt"
+msgstr "The ranking shuts every Sunday at 23h59!"
+
+msgid "Match Result"
+msgstr "比赛结果"
+
+msgid "Your Prize"
+msgstr "你的奖牌"
+
+msgid "Daily Bonus"
+msgstr "日记奖金"
+
+msgid "I leveled up!"
+msgstr "你提高了一水平!"
+
+msgid "inviteFriendsTxt"
+msgstr ""
+"Recommend FeelTheMusic to your friends\n"
+"and win prizes!"
+
+msgid "inviteFriendsTip"
+msgstr "硬币够听一首歌"
+
+msgid "inviteFriendTxt"
+msgstr "请朋友来玩"
+
+msgid "inviteFriendError"
+msgstr "You must be logged into Facebook to use this bonus! We are sorry for the inconvenience!"
+
+msgid "Premium Daily Bonus:"
+msgstr "专门日记奖金"
+
+msgid "assinaturaHead"
+msgstr "Premium learns more!"
+
+msgid "assinatura1"
+msgstr "你可以买至少10000专门首歌"
+
+msgid "assinatura2"
+msgstr "Twice as many coins for each song played"
+
+msgid "assinatura3"
+msgstr "每次使用将获得新歌曲·"
+
+msgid "assinatura4"
+msgstr "每次注册获取1000硬币"
+
+msgid "assinatura5"
+msgstr "让你用我们的建议歌曲工具"
+
+msgid "assinatura6"
+msgstr "私人进步的反映"
+
+msgid "assinaturaPromo"
+msgstr "特价：打7折， 第一月和第二月"
+
+msgid "guestTxt"
+msgstr "选择一首歌曲"
+
+msgid "guestSubTxt"
+msgstr "注册后你可以听10000首歌曲"
+
+msgid "coinTokenTxt"
+msgstr "换成象征"
+
+msgid "tokenCoinTxt"
+msgstr "换成硬币"
+
+msgid "lojinhaTxt"
+msgstr "更多硬币?"
+
+msgid "chooseBetTxt"
+msgstr "Choose your bet level"
+
+msgid "chooseStyleTxt"
+msgstr "Who to play with"
+
+msgid "estiloDesafioTxt"
+msgstr "Choose a genre to challenge with"
+
+msgid "loadingError1"
+msgstr "Please check your conection and try again.\n"
+"Error type:"
+
+msgid "loadingError2"
+msgstr ":/ Video unavailable at YouTube.\n" 
+"Soon we'll fix it.\n"
+"As a reward for your explorer attitude, here is a little prize for helping us improve! ;)"
+
+msgid "mpEndingTxtWin"
+msgstr "Defeated the opponent!"
+
+msgid "mpEndingTxtLose"
+msgstr "Lost to the opponent..."
+
+msgid "oneMonthPremium"
+msgstr "1 month premium"
+
+msgid "friendsRemainingTxt"
+msgstr "new friends and receive 1 premium month!"
+
+msgid "inviteFriendSuccess"
+msgstr "Invites sent successfully!\n\n"
+"You will receive your prizes when they open it!"
+
+msgid "inviteFriendsResultsTxt"
+msgstr "Your invitations were successfull!"
+
+msgid "See More!"
+msgstr "查看更多"
+
+msgid "rankingResult1Txt"
+msgstr "Weekly Ranking Result"
+
+msgid "rankingResult2Txt"
+msgstr "Type the code below to get a discount at becoming premium:\n"
+"(If you are already premium, pass it to a friend!)"
+
+msgid "threeStarsTxt1"
+msgstr "How to get 3 stars"
+
+msgid "threeStarsTxt2"
+msgstr "Combo increases each score"
+
+msgid "masteredWordTxt"
+msgstr "Mastered word!\n"
+"(Matched it many times)"
+
+msgid "sort1"
+msgstr "Levels"
+
+msgid "sort2"
+msgstr "Artists"
+
+msgid "sort3"
+msgstr "Genres"
+
+msgid "musicasCompradasBtn"
+msgstr "Bought"
+
+msgid "searchBtn"
+msgstr "Search"

@@ -1,0 +1,99 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="EndScreenMCs/EndingBigLabel" itemID="53d2a9a1-000006eb" lastModified="1421858816" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="EndingBigLabel">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="304" height="70.65" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.628036499023438" d="0.625106811523438" tx="1.25" ty="1.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="736.9" y="36.45"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Total</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="75" bitmapSize="1500" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#CCCCCC" quality="3"/>
+                  </filters>
+                </DOMStaticText>
+                <DOMDynamicText name="pontuacao" width="179.2" height="50" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="7" ty="42"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="50" bitmapSize="1000" face="Sparkler-Demo" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="20" blurY="20" color="#FFFFFF" quality="3"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="pontuacaoPast1" width="140.9" height="46.3" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="7.4" ty="102"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" alpha="0" size="40" bitmapSize="800" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#000000" quality="3" strength="5"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="pontuacaoPast2" width="143.6" height="37.5" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="7.4" ty="167.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="30" bitmapSize="600" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#000000" quality="3" strength="5"/>
+                  </filters>
+                </DOMDynamicText>
+                <DOMDynamicText name="pontuacaoPast3" width="127.6" height="23.15" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="14.55" ty="215"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" alpha="0" size="20" bitmapSize="400" face="ArialRoundedMTBold" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                  <filters>
+                    <GlowFilter blurX="3" blurY="3" color="#000000" quality="3" strength="5"/>
+                  </filters>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

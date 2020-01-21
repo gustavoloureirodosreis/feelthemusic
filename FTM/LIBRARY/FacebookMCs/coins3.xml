@@ -1,0 +1,137 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="FacebookMCs/coins3" itemID="54f5fd61-000005e1" lastModified="1428004978" lastUniqueIdentifier="12">
+  <timeline>
+    <DOMTimeline name="coins3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="0.35" centerPoint3DY="-1.15">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="-19.5" ty="17.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="2" blurY="2" color="#666666" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="-36.45" centerPoint3DY="-5.95">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="-56.3" ty="12.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003399" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="-36.45" centerPoint3DY="-14.75">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="-56.3" ty="3.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003399" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="-21.25" centerPoint3DY="-29.15">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="-41.1" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003399" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="82.75" centerPoint3DY="10.85">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="62.9" ty="29.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003399" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="81.95" centerPoint3DY="0.45">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="62.1" ty="19.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003399" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="4.2" centerPoint3DY="35.65">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="-15.65" ty="54.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003399" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="39.4" centerPoint3DY="5.25">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="19.55" ty="23.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003399" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="4.2" centerPoint3DY="24.45">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="-15.65" ty="43.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003399" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="72.2" centerPoint3DY="-34.75">
+                  <matrix>
+                    <Matrix a="0.6536865234375" d="0.6536865234375" tx="52.35" ty="-16.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5.05" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003399" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="FacebookMCs/coin" centerPoint3DX="17.95" centerPoint3DY="-61.15">
+                  <matrix>
+                    <Matrix a="0.61029052734375" b="-0.234176635742188" c="0.234176635742188" d="0.61029052734375" tx="5.85" ty="-36.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-5" y="-4.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="1.5" blurY="1.5" color="#003C9F" quality="3" strength="30"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

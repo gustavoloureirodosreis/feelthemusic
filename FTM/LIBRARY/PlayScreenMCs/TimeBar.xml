@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="PlayScreenMCs/TimeBar" itemID="536a713d-00000301" linkageExportForAS="true" linkageClassName="auxiliares.TimeBar" lastModified="1421691719" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="TimeBar">
+      <layers>
+        <DOMLayer name="mask" color="#9933CC" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#007997"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!10000 -30|10000 70!10000 70|0 70!0 70|0 -30!0 -30|10000 -30"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" parentLayerIndex="0" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/TimeBarFill" name="timeBarFill" selected="true" centerPoint3DX="-250" centerPoint3DY="1">
+                  <matrix>
+                    <Matrix d="1.219482421875" tx="-500" ty="-1.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="250" y="2.05"/>
+                  </transformationPoint>
+                  <filters>
+                    <GlowFilter blurX="9" blurY="9" color="#00FFFF"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pointer" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="PlayScreenMCs/TimeBarPointer" name="timeBarPointer" centerPoint3DX="32.85" centerPoint3DY="1">
+                  <matrix>
+                    <Matrix d="1.46337890625" tx="29.85" ty="-2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="3" y="2.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="rectangle" color="#FF800A" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#007997"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!10000 -30|10000 70!10000 70|0 70!0 70|0 -30!0 -30|10000 -30"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="MenuEstilosMCs/_neonSorters/neon_estilo" itemID="5436a145-00000325" lastModified="1428100868">
+  <timeline>
+    <DOMTimeline name="neon_estilo">
+      <layers>
+        <DOMLayer name="stroke" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!542 -340/-222 -340!-222 -340[#FFFF1E.51 #FFFEAD.BB -229.5 -336.5!-229.5 -336.5[#FFFEBA.E2 #FFFEDD.75 -391.5 -230.5!-391.5 -230.5[#FFFE21.5A #FFFF68.8A -515 -48!-515 -48[#FFFDD7.11 #3A.CF -552 339!-552 339/-548 339!-548 339/228 340!228
+ 340[#149.AE #124.5E 398 229!398 229[483 151 519 49!519 49[557 -58 555 -340"/>
+                    <Edge cubics="!-515 -48(;-540,23 -553,152 -552,339q-515 -48Q-553 59q-552 339);"/>
+                    <Edge cubics="!-222 -340(;-222,-340 542,-340 542,-340q-222 -340 542 -340);"/>
+                    <Edge cubics="!-222 -340(;-225,-339 -227,-337 -229,-336q-222 -340Q-226 -338q-229 -336);"/>
+                    <Edge cubics="!-391 -230(;-450,-177 -491,-117 -515,-48q-391 -230Q-479 -151q-515 -48);"/>
+                    <Edge cubics="!-229 -336(;-293,-306 -347,-271 -391,-230q-229 -336Q-325 -291q-391 -230);"/>
+                    <Edge cubics="!-548 339(;-548,339 -552,339 -552,339q-548 339 -552 339);"/>
+                    <Edge cubics="!228 340(;228,340 -548,339 -548,339q228 340 -548 339);"/>
+                    <Edge cubics="!398 229(;455,177 495,117 519,49q398 229Q483 151q519 49);"/>
+                    <Edge cubics="!519 49(;544,-22 556,-152 555,-340q519 49Q557 -58q555 -340);"/>
+                    <Edge cubics="!228 340(;296,308 353,271 398,229q228 340Q330 292q398 229);"/>
+                    <Edge cubics="!226 341(226,341;227,341 227,341 228,340q226 341Q227 341q228 340);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
